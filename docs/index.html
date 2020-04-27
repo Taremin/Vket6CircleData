@@ -126,7 +126,8 @@ function clearContainer(id) {
 }
 
 function getTwitterScreenName(url) {
-    return url.split('/').pop();
+    const tmp = (url.slice(-1) === '/') ? url.slice(0, -1) : url;
+    return tmp.split('/').pop();
 }
 
 function createCircleDictByLocation(circleData) {
