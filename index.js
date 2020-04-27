@@ -106,7 +106,7 @@ function sleep(ms) {
 async function start() {
     // index -> worlds
     const world_urls = uniq(await get_world_urls(url));
-    fs.writeFileSync('dist/world_urls.json', JSON.stringify(world_urls, null, 2));
+    fs.writeFileSync('docs/world_urls.json', JSON.stringify(world_urls, null, 2));
     console.log(world_urls);
 
     // worlds -> circles
@@ -119,7 +119,7 @@ async function start() {
         await sleep(request_delay);
     };
     circle_urls = uniq(circle_urls);
-    fs.writeFileSync('dist/circle_urls.json', JSON.stringify(circle_urls, null, 2));
+    fs.writeFileSync('docs/circle_urls.json', JSON.stringify(circle_urls, null, 2));
     console.log(circle_urls);
 
     // circles -> Twitter name
@@ -135,7 +135,7 @@ async function start() {
 
         await sleep(request_delay);
     };
-    fs.writeFileSync('dist/circle_data.json', JSON.stringify(data, null, 2));
+    fs.writeFileSync('docs/circle_data.json', JSON.stringify(data, null, 2));
 }
 
 start();

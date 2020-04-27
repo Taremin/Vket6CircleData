@@ -1,8 +1,8 @@
 const fs = require('fs');
 const path = require('path');
 
-const circle_urls = require('./dist/ciecle_urls.json');
-const data = require('./dist/twitter.json');
+const circle_urls = require('./docs/ciecle_urls.json');
+const data = require('./docs/circle_data.json');
 
 for (let i = 0, il = circle_urls.length; i < il; ++i) {
     circle_id = path.basename(circle_urls[i]);
