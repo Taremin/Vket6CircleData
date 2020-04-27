@@ -22,7 +22,29 @@ document.addEventListener('DOMContentLoaded', function(e) {
         e.preventDefault();
         start();
     }, false);
+    ratelimit();
 }, false);
+
+async function ratelimit() {
+    const ratelimit = document.getElementById('rate-limit');
+    const api = "https://runkit.io/taremin/vket4-twitter/branches/master";
+
+    const ratelimitData = await fetch(api+'/ratelimit').then(res => res.json());
+    const resources = ratelimitData.resources;
+    console.log(ratelimitData);
+
+    clearContainer('rate-limit');
+    for (const apiPath of [
+        ["friends", "/friends/ids"],
+        ["followers", "/followers/ids"],
+        ["users", "/users/lookup"]
+    ]) {
+        const container = document.createElement('div');
+        const apiData = resources[apiPath[0]][apiPath[1]];
+        container.textContent = `${apiPath[1]}: ${apiData.remaining} / ${apiData.limit}`;
+        ratelimit.appendChild(container);
+    }
+}
 
 async function start() {
     const api = "https://runkit.io/taremin/vket4-twitter/branches/master";
@@ -58,7 +80,7 @@ async function start() {
     console.log(data);
     const circleByLocation = createCircleDictByLocation(data.circle);
 
-    clearOutput();
+    clearContainer('output');
     const output = document.getElementById('output');
     let prevLocation = ["","",""];
     for (const location of Object.keys(circleByLocation).sort()) {
@@ -98,8 +120,8 @@ async function start() {
 
 }
 
-function clearOutput() {
-    const output = document.getElementById('output');
+function clearContainer(id) {
+    const output = document.getElementById(id);
     while (output.hasChildNodes()) {
         output.removeChild(output.firstChild)
     }
@@ -133,6 +155,12 @@ function createCircleDictByLocation(circleData) {
   <li>Twitter API の制限に引っかかりやすいです(OAuthによるユーザ単位の認証ではなくアプリケーション単位で使用回数が制限されているため)</li>
 </ul>
 
+<h2>Twitter API 使用状況</h2>
+<div id="rate-limit">
+読込中...
+</div>
+
+<h2>設定</h2>
 <form id="settings">
 <input type="text" id="twitter-screenname" value="" placeholder="Twitter ID" /><br/>
 <input type="radio" name="twitter-filter" id="twitter-filter-follow" value="follow" checked/><label for="twitter-filter-follow">フォローのみ</label><br/>
