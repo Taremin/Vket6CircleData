@@ -35,6 +35,7 @@ async function ratelimit() {
 
     clearContainer('rate-limit');
     for (const apiPath of [
+        ["application", "/application/rate_limit_status"],
         ["friends", "/friends/ids"],
         ["followers", "/followers/ids"],
         ["users", "/users/lookup"]
