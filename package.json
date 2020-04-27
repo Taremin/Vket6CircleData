@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
+    "dev": "lite-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Taremin",
@@ -14,5 +15,8 @@
     "request": "^2.88.2",
     "request-promise": "^4.2.5",
     "url-join": "^4.0.1"
+  },
+  "devDependencies": {
+    "lite-server": "^2.5.4"
   }
 }

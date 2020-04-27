@@ -1,0 +1,148 @@
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Vket4サークルをTwitterのフォロー・非フォローから探す</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta name="author" content="Taremin">
+    <meta name="copyright" content="Taremin">
+    <meta name="format-detection" content="telephone=no">
+    <meta http-equiv="Cache-Control" content="no-transform">
+    <meta http-equiv="Cache-Control" content="no-siteapp">
+    <script>
+document.addEventListener('DOMContentLoaded', function(e) {
+    document.getElementById('start').addEventListener('click', function(e) {
+        start();
+    }, false);
+    document.getElementById('settings').addEventListener('submit', function(e) {
+        e.preventDefault();
+        start();
+    }, false);
+}, false);
+
+async function start() {
+    const api = "https://runkit.io/taremin/vket4-twitter/branches/master";
+    const formdata = new FormData(document.getElementById('settings'));
+    const settings = {};
+    const twitter = document.getElementById('twitter-screenname').value;
+
+    if (twitter.length < 3) {
+        return;
+    }
+
+    for(const e of formdata) {
+        settings[e[0]] = e[1];
+    }
+
+    let path = "";
+    switch (settings["twitter-filter"]) {
+        case "follow":
+            path = "/follow/";
+            break;
+        case "follower":
+            path = "/follower/";
+            break;
+        case "ff":
+            path = "/ff/";
+            break;
+        default:
+            throw new Error('invalid twitter filter');
+    }
+    const url = api+path+twitter;
+    //const url = "./Taremin_VR.json";
+    const data = await fetch(url).then(res => res.json());
+    console.log(data);
+    const circleByLocation = createCircleDictByLocation(data.circle);
+
+    clearOutput();
+    const output = document.getElementById('output');
+    let prevLocation = ["","",""];
+    for (const location of Object.keys(circleByLocation).sort()) {
+        const sublocation = location.split(/\s*-\s+/);
+        console.log(sublocation);
+
+        for (let i = 0; i < 3; ++i) {
+            if (prevLocation[i] !== sublocation[i]) {
+                const subtitle = document.createElement('h'+(i+2));
+                subtitle.textContent = sublocation[i];
+                output.appendChild(subtitle);
+            }
+        }
+        prevLocation = sublocation;
+
+        for (const circleId of circleByLocation[location]) {
+            const circle = document.createElement('li');
+            const info = data.circle[circleId];
+
+            const show = [];
+            for (const url of info.twitter) {
+                const twitter = data.twitter[getTwitterScreenName(url)];
+
+                if (!twitter) {
+                    continue;
+                }
+
+                show.push(twitter);
+            }
+            console.log(show);
+            const tmp = show.map((tw)=> `<a href="https://twitter.com/${tw.screen_name}"><img src=${tw.profile_image_url_https} /><a>`).join(' ');
+
+            circle.innerHTML = `<a href="${info.url}">${info.circle_name}</a> ${tmp}`;
+            output.appendChild(circle);
+        }
+    }
+
+}
+
+function clearOutput() {
+    const output = document.getElementById('output');
+    while (output.hasChildNodes()) {
+        output.removeChild(output.firstChild)
+    }
+}
+
+function getTwitterScreenName(url) {
+    return url.split('/').pop();
+}
+
+function createCircleDictByLocation(circleData) {
+    const dict = {};
+    for (const circleId of Object.keys(circleData)) {
+        const circle = circleData[circleId];
+        if (!dict[circle.location]) {
+            dict[circle.location] = [];
+        }
+        dict[circle.location].push(circleId);
+    }
+    return dict;
+}
+
+    </script>
+</head>
+<body>
+<h1>Vket4サークルをTwitterのフォロー・非フォローから探す</h1>
+
+<h2>注意事項:</h2>
+<ul>
+  <li>Vケットのデータは最新でない可能性があります。(負荷をかけないようにこちらでVケットのサイトからJSONを生成してそれを参照しているため)</li>
+  <li>鍵アカウントは対象外になります。</li>
+  <li>Twitter API の制限に引っかかりやすいです(OAuthによるユーザ単位の認証ではなくアプリケーション単位で使用回数が制限されているため)</li>
+</ul>
+
+<form id="settings">
+<input type="text" id="twitter-screenname" value="" placeholder="Twitter ID" /><br/>
+<input type="radio" name="twitter-filter" id="twitter-filter-follow" value="follow" checked/><label for="twitter-filter-follow">フォローのみ</label><br/>
+<input type="radio" name="twitter-filter" id="twitter-filter-follower" value="follower" /><label for="twitter-filter-follower">フォロワーのみ</label><br/>
+<input type="radio" name="twitter-filter" id="twitter-filter-ff" value="ff" /><label for="twitter-filter-ff">フォロー・フォロワー</label>
+</form>
+
+<button id="start">取得</button>
+
+<div id="output"></div>
+
+</body>
+</html>
