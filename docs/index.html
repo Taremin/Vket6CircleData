@@ -50,10 +50,14 @@ async function start() {
     const api = "https://runkit.io/taremin/vket4-twitter/branches/master";
     const formdata = new FormData(document.getElementById('settings'));
     const settings = {};
-    const twitter = document.getElementById('twitter-screenname').value;
+    let twitter = document.getElementById('twitter-screenname').value;
 
     if (twitter.length < 3) {
         return;
+    }
+
+    if (twitter.slice(0, 1) === '@') {
+        twitter = twitter.slice(1);
     }
 
     for(const e of formdata) {
