@@ -31,7 +31,6 @@ async function ratelimit() {
 
     const ratelimitData = await fetch(api+'/ratelimit').then(res => res.json());
     const resources = ratelimitData.resources;
-    console.log(ratelimitData);
 
     clearContainer('rate-limit');
     for (const apiPath of [
@@ -86,7 +85,6 @@ async function start() {
     let prevLocation = ["","",""];
     for (const location of Object.keys(circleByLocation).sort()) {
         const sublocation = location.split(/\s*-\s+/);
-        console.log(sublocation);
 
         for (let i = 0; i < 3; ++i) {
             if (prevLocation[i] !== sublocation[i]) {
@@ -111,7 +109,6 @@ async function start() {
 
                 show.push(twitter);
             }
-            console.log(show);
             const tmp = show.map((tw)=> `<a href="https://twitter.com/${tw.screen_name}"><img src=${tw.profile_image_url_https} /><a>`).join(' ');
 
             circle.innerHTML = `<a href="${info.url}">${info.circle_name}</a> ${tmp}`;
