@@ -1,0 +1,52 @@
+.outline-character {
+  color: #000;
+  text-shadow:1px 1px 0 #FFF, -1px -1px 0 #FFF,
+              -1px 1px 0 #FFF, 1px -1px 0 #FFF,
+              0px 1px 0 #FFF,  0-1px 0 #FFF,
+              -1px 0 0 #FFF, 1px 0 0 #FFF;
+}
+
+a, a:visited {
+    color: black;
+}
+
+.circle-name {
+    display: box;
+    display: -webkit-box;
+    overflow: hidden;
+    box-orient: vertical;
+    -webkit-box-orient: vertical;
+    line-clamp: 2;
+    -webkit-line-clamp: 2;
+}
+
+.circle-description {
+    display: box;
+    display: -webkit-box;
+    overflow: hidden;
+    box-orient: vertical;
+    -webkit-box-orient: vertical;
+    line-clamp: 3;
+    -webkit-line-clamp: 3;
+}
+
+.circle-icon {
+    float: left;
+}
+
+.circle-card {
+    position: relative;
+    padding-left: 0;
+    padding-right: 0;
+    margin-right: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+.circle-header {
+    background-color: #ccc;
+}
+.circle-location {
+    padding: 0 0.5rem;
+    background-color: rgba(0,0,0,0.6);
+    color: white;
+    width: 100%;
+}

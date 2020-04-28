@@ -13,6 +13,8 @@
     <meta name="format-detection" content="telephone=no">
     <meta http-equiv="Cache-Control" content="no-transform">
     <meta http-equiv="Cache-Control" content="no-siteapp">
+    <link rel="stylesheet" href="https://unpkg.com/spectre.css/dist/spectre.min.css">
+    <link rel="stylesheet" href="./index.css">
     <script>
 document.addEventListener('DOMContentLoaded', function(e) {
     document.getElementById('start').addEventListener('click', function(e) {
@@ -87,20 +89,26 @@ async function start() {
     clearContainer('output');
     const output = document.getElementById('output');
     let prevLocation = ["","",""];
+    let container;
     for (const location of Object.keys(circleByLocation).sort()) {
         const sublocation = location.split(/\s*-\s+/);
 
-        for (let i = 0; i < 3; ++i) {
+        for (let i = 0; i < 2; ++i) {
             if (prevLocation[i] !== sublocation[i]) {
                 const subtitle = document.createElement('h'+(i+2));
                 subtitle.textContent = sublocation[i];
                 output.appendChild(subtitle);
+                if (i === 1) {
+                    container = document.createElement('div');
+                    container.classList.add('columns');
+                    output.appendChild(container);
+                }
             }
         }
         prevLocation = sublocation;
 
         for (const circleId of circleByLocation[location]) {
-            const circle = document.createElement('li');
+            const circle = document.createElement('div');
             const info = data.circle[circleId];
 
             const show = [];
@@ -113,10 +121,33 @@ async function start() {
 
                 show.push(twitter);
             }
-            const tmp = show.map((tw)=> `<a href="https://twitter.com/${tw.screen_name}"><img src=${tw.profile_image_url_https} /><a>`).join(' ');
 
-            circle.innerHTML = `<a href="${info.url}">${info.circle_name}</a> ${tmp}`;
-            output.appendChild(circle);
+            const tmp = show.map((tw)=> `<figure class="avatar avatar-x1"><a href="https://twitter.com/${tw.screen_name}"><img src=${tw.profile_image_url_https} /></a></figure>`).join(' ');
+            const header_image = info.header ? `style="background-image: url('${info.header}'); background-size: cover;"` : "";
+            circle.innerHTML = `
+                <div class="column col-3 card circle-card">
+                  <div class="card-header circle-header" ${header_image}>
+                    <div style="background-color: rgba(0,0,0,0.5)">
+                        <div class="card-title h5 outline-character">
+                        <figure class="avatar avatar-xl circle-icon">
+                            <img src="${info.icon}" style="object-fit: cover;"/>
+                        </figure>
+                        <span class="circle-name"><a href="${info.url}">${info.circle_name}</a></span>
+                        </div>
+                    </div>
+                  </div>
+                  <div class="card-body circle-description">${info.description}</div>
+                  <div class="card-footer">
+                    ${tmp}
+                  </div>
+                    <div class="circle-location">
+                        ${sublocation[0]}<br />
+                        ${sublocation[1]} - ${sublocation[2]}
+                  </div>
+                </div>
+            `;
+
+            container.appendChild(circle.children[0]);
         }
     }
 
@@ -148,7 +179,8 @@ function createCircleDictByLocation(circleData) {
 
     </script>
 </head>
-<body>
+<body lang="ja">
+<div class="container">
 <h1>Vket4サークルをTwitterのフォロー・非フォローから探す</h1>
 
 <h2>注意事項:</h2>
@@ -176,5 +208,6 @@ function createCircleDictByLocation(circleData) {
 
 <div id="output"></div>
 
+</div>
 </body>
 </html>
