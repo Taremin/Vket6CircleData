@@ -12,6 +12,10 @@ const options = {
   }
 };
 
+const MODE =
+    null;
+//    'CIRCLE_ONLY';
+
 const url = 'https://www.v-market.work/v4/catalog';
 const request_delay = 1500;
 
@@ -71,6 +75,23 @@ async function get_circle_info(url) {
     // circle name
     const name = cheerioDoc('.circle-card__circle_name').text().replace(/\n +/g, '');
 
+    // description
+    const description = cheerioDoc('.circle-card__about').text().replace(/^\s*/, '').replace(/\s*$/, '');
+
+    // icon
+    let icon = cheerioDoc('img.circle-card__icon')[0].attribs['src'];
+    if (icon.slice(0, 1) === '/') {
+        icon = urljoin(new URL(url).origin, href);
+    }
+
+    // header
+    let header = cheerioDoc('img.circle-card__header-image');
+    if (!header[0]) {
+        header = null;
+    } else {
+        header = header[0].attribs['src'];
+    }
+
     // location
     const location = cheerioDoc('.circle-card__section').text().replace(/\n +/g, '');
 
@@ -85,6 +106,9 @@ async function get_circle_info(url) {
 
     return {
         circle_name: name,
+        description: description,
+        icon: icon,
+        header: header,
         location: location,
         url: url,
         twitter: uniq(twitter)
@@ -105,21 +129,36 @@ function sleep(ms) {
 
 async function start() {
     // index -> worlds
-    const world_urls = uniq(await get_world_urls(url));
-    fs.writeFileSync('docs/world_urls.json', JSON.stringify(world_urls, null, 2));
+    let world_urls;
+    switch (MODE) {
+        case 'CIRCLE_ONLY':
+            world_urls = require('./docs/world_urls.json');
+            break;
+        default:
+            world_urls = uniq(await get_world_urls(url));
+            fs.writeFileSync('docs/world_urls.json', JSON.stringify(world_urls, null, 2));
+            break;
+   }
     console.log(world_urls);
 
     // worlds -> circles
     let circle_urls = [];
-    for (let i = 0, il = world_urls.length; i < il; ++i){
-        const url = world_urls[i];
-        console.log(`get circle from ${url}`);
-        const circles = await get_circle(url);
-        circle_urls.push(...circles);
-        await sleep(request_delay);
-    };
-    circle_urls = uniq(circle_urls);
-    fs.writeFileSync('docs/circle_urls.json', JSON.stringify(circle_urls, null, 2));
+    switch (MODE) {
+        case 'CIRCLE_ONLY':
+            circle_urls = require('./docs/circle_urls.json');
+            break;
+        default:
+            for (let i = 0, il = world_urls.length; i < il; ++i){
+                const url = world_urls[i];
+                console.log(`get circle from ${url}`);
+                const circles = await get_circle(url);
+                circle_urls.push(...circles);
+                await sleep(request_delay);
+            };
+            circle_urls = uniq(circle_urls);
+            fs.writeFileSync('docs/circle_urls.json', JSON.stringify(circle_urls, null, 2));
+            break;
+    }
     console.log(circle_urls);
 
     // circles -> Twitter name
