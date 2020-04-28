@@ -22,7 +22,9 @@ document.addEventListener('DOMContentLoaded', function(e) {
     }, false);
     document.getElementById('settings').addEventListener('submit', function(e) {
         e.preventDefault();
-        start();
+        if (canStart) {
+            start();
+        }
     }, false);
     ratelimit();
 }, false);
@@ -82,12 +84,19 @@ async function start() {
     }
     const url = api+path+twitter;
     //const url = "./Taremin_VR.json";
-    const data = await fetch(url).then(res => res.json());
+    progress();
+    const output = document.getElementById('output');
+    clearContainer('output');
+    output.innerHTML = '読み込み中...';
+
+    const data = await fetch(url).then(res => res.json()).catch(e => {
+        error(e);
+    });
+    idle();
     console.log(data);
     const circleByLocation = createCircleDictByLocation(data.circle);
 
     clearContainer('output');
-    const output = document.getElementById('output');
     let prevLocation = ["","",""];
     let container;
     for (const location of Object.keys(circleByLocation).sort()) {
@@ -122,7 +131,7 @@ async function start() {
                 show.push(twitter);
             }
 
-            const tmp = show.map((tw)=> `<figure class="avatar avatar-x1"><a href="https://twitter.com/${tw.screen_name}"><img src=${tw.profile_image_url_https} /></a></figure>`).join(' ');
+            const tmp = show.map((tw)=> `<figure class="avatar avatar-x1"><a href="https://twitter.com/${tw.screen_name}"><img src=${tw.profile_image_url_https} title="${tw.name}"/></a></figure>`).join(' ');
             const header_image = info.header ? `style="background-image: url('${info.header}'); background-size: cover;"` : "";
             circle.innerHTML = `
                 <div class="column col-3 card circle-card">
@@ -132,11 +141,11 @@ async function start() {
                         <figure class="avatar avatar-xl circle-icon">
                             <img src="${info.icon}" style="object-fit: cover;"/>
                         </figure>
-                        <span class="circle-name"><a href="${info.url}">${info.circle_name}</a></span>
+                        <span class="circle-name" title="${info.circle_name}"><a href="${info.url}">${info.circle_name}</a></span>
                         </div>
                     </div>
                   </div>
-                  <div class="card-body circle-description">${info.description}</div>
+                  <div class="card-body circle-description" title="${info.description}">${info.description}</div>
                   <div class="card-footer">
                     ${tmp}
                   </div>
@@ -151,6 +160,27 @@ async function start() {
         }
     }
 
+}
+
+let canStart = true;
+function idle() {
+    document.getElementById('start').disabled = false;
+    canStart = true;
+}
+
+function progress() {
+    document.getElementById('start').disabled = true;
+    canStart = false;
+}
+
+function error(e) {
+    document.getElementById('output').innerHTML = `
+        <div>
+            <span class="label-error">Error<span><br />
+            ${e.message}
+        </div>
+    `;
+    idle();
 }
 
 function clearContainer(id) {
