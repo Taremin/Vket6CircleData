@@ -79,6 +79,9 @@ async function start() {
         case "ff":
             path = "/ff/";
             break;
+        case "fff":
+            path = "/fff/";
+            break;
         default:
             throw new Error('invalid twitter filter');
     }
@@ -231,7 +234,8 @@ function createCircleDictByLocation(circleData) {
 <input type="text" id="twitter-screenname" value="" placeholder="Twitter ID" /><br/>
 <input type="radio" name="twitter-filter" id="twitter-filter-follow" value="follow" checked/><label for="twitter-filter-follow">フォローのみ</label><br/>
 <input type="radio" name="twitter-filter" id="twitter-filter-follower" value="follower" /><label for="twitter-filter-follower">フォロワーのみ</label><br/>
-<input type="radio" name="twitter-filter" id="twitter-filter-ff" value="ff" /><label for="twitter-filter-ff">フォロー・フォロワー</label>
+<input type="radio" name="twitter-filter" id="twitter-filter-ff" value="ff" /><label for="twitter-filter-ff">フォロー・フォロワー</label><br/>
+<input type="radio" name="twitter-filter" id="twitter-filter-fff" value="fff" /><label for="twitter-filter-fff">相互フォロー</label>
 </form>
 
 <button id="start">取得</button>
