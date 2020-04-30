@@ -15,7 +15,26 @@
     <meta http-equiv="Cache-Control" content="no-siteapp">
     <link rel="stylesheet" href="https://unpkg.com/spectre.css/dist/spectre.min.css">
     <link rel="stylesheet" href="./index.css">
+    <script src="https://cdn.jsdelivr.net/npm/lz-string@1.4.4/libs/lz-string.min.js"></script>
     <script>
+const FollowType = {
+    "follow": {
+        label: "フォローのみ",
+        path: "/follow/",
+    },
+    "follower": {
+        label:"フォロワーのみ",
+        path: "/follower/",
+    },
+    "ff": {
+        label: "フォロー・フォロワー",
+        path: "/ff/",
+    },
+    "fff": {
+        label: "相互フォロー",
+        path: "/fff/",
+    },
+};
 document.addEventListener('DOMContentLoaded', function(e) {
     document.getElementById('start').addEventListener('click', function(e) {
         start();
@@ -27,7 +46,39 @@ document.addEventListener('DOMContentLoaded', function(e) {
         }
     }, false);
     ratelimit();
+    initForm();
+    refreshCacheView();
+    initCommitDate();
 }, false);
+
+function initForm() {
+    const form = document.getElementById('settings');
+    let i = 0;
+    for (const key of Object.keys(FollowType)) {
+        const input = document.createElement('input');
+        input.type = "radio";
+        input.value = key;
+        input.id = "twitter-filter-" + key;
+        input.name = "twitter-filter";
+        if (i++ === 0) {
+            input.checked = "checked";
+        }
+        form.appendChild(input);
+
+        const label = document.createElement('label');
+        label.setAttribute('for', input.id);
+        label.textContent = FollowType[key].label;
+        form.appendChild(label);
+ 
+        form.appendChild(document.createElement('br'));
+    }
+}
+
+async function initCommitDate() {
+    const commit = await fetch('https://api.github.com/repos/Taremin/Vket4CircleData/commits?path=docs%2Fcircle_data.json&page=1&per_page=1').then(res => res.json());
+    const container = document.getElementById('last-commit-date');
+    container.textContent = new Date(commit[0].commit.committer.date);
+};
 
 async function ratelimit() {
     const ratelimit = document.getElementById('rate-limit');
@@ -50,13 +101,45 @@ async function ratelimit() {
     }
 }
 
-async function start() {
+function loadData() {
+    const cache = localStorage.getItem('cache');
+    const data = cache ? JSON.parse(cache) : [];
+    return data.map(entry => {
+        entry.result = JSON.parse(LZString.decompress(entry.compressedResult));
+        return entry;
+    });
+}
+function saveData(data) {
+    let cont = true;
+    for (const entry of data) {
+        if (!entry.compressedResult) {
+            entry.compressedResult = LZString.compress(JSON.stringify(entry.result));
+        }
+        if (entry.result) {
+            delete(entry.result);
+        }
+    }
+    while (cont) {
+        try {
+            localStorage.setItem('cache', JSON.stringify(data));
+            cont = false;
+        } catch(e) {
+            console.log("Local Storage の割当容量を超えました。古いものから削除します。");
+            data.shift();
+            if (data.length === 0) {
+                cont = false;
+            }
+        }
+    }
+}
+
+async function start(cacheData) {
     const api = "https://runkit.io/taremin/vket4-twitter/branches/master";
     const formdata = new FormData(document.getElementById('settings'));
     const settings = {};
     let twitter = document.getElementById('twitter-screenname').value;
 
-    if (twitter.length < 3) {
+    if (!cacheData && twitter.length < 3) {
         return;
     }
 
@@ -69,21 +152,10 @@ async function start() {
     }
 
     let path = "";
-    switch (settings["twitter-filter"]) {
-        case "follow":
-            path = "/follow/";
-            break;
-        case "follower":
-            path = "/follower/";
-            break;
-        case "ff":
-            path = "/ff/";
-            break;
-        case "fff":
-            path = "/fff/";
-            break;
-        default:
-            throw new Error('invalid twitter filter');
+    if (FollowType[settings["twitter-filter"]]) {
+        path = FollowType[settings["twitter-filter"]].path;
+    } else {
+        throw new Error('invalid twitter filter');
     }
     const url = api+path+twitter;
     //const url = "./Taremin_VR.json";
@@ -92,11 +164,28 @@ async function start() {
     clearContainer('output');
     output.innerHTML = '読み込み中...';
 
-    const data = await fetch(url).then(res => res.json()).catch(e => {
-        error(e);
-    });
+    let data;
+    if (!cacheData) {
+        data = await fetch(url).then(res => res.json()).catch(e => {
+            error(e);
+        });
+        console.log(data);
+        const cache = loadData();
+        cache.push({
+            result: data,
+            date: Date.now(),
+            twitter: twitter,
+            type: settings["twitter-filter"],
+        });
+        while (cache.length > 10) {
+            cache.shift();
+        }
+        saveData(cache);
+        refreshCacheView();
+    } else {
+        data = cacheData.result;
+    }
     idle();
-    console.log(data);
     const circleByLocation = createCircleDictByLocation(data.circle);
 
     clearContainer('output');
@@ -186,6 +275,26 @@ function error(e) {
     idle();
 }
 
+function refreshCacheView() {
+    clearContainer('history');
+    const cache = loadData();
+    const ul = document.createElement('ul');
+    document.getElementById('history').appendChild(ul);
+    for (const data of cache) {
+        const li = document.createElement('li');
+        const a = document.createElement('a');
+        a.href = '#';
+        a.textContent = `${new Date(data.date).toString()} の取得結果 (Twitter:${data.twitter} / 取得タイプ:${FollowType[data.type].label})`
+        a.addEventListener('click', (function(data) {
+            return function(e) {
+                e.preventDefault();
+                start(data);
+            }
+        })(data), false);
+        li.appendChild(a);
+        ul.appendChild(li);
+    }
+}
 function clearContainer(id) {
     const output = document.getElementById(id);
     while (output.hasChildNodes()) {
@@ -218,10 +327,15 @@ function createCircleDictByLocation(circleData) {
 
 <h2>注意事項:</h2>
 <ul>
-  <li>Vケットのデータは最新でない可能性があります。(負荷をかけないようにこちらでVケットのサイトからJSONを生成してそれを参照しているため)</li>
+  <li>Vケットのデータは最新でない可能性があります。(負荷をかけないようにこちらでVケットのサイトからJSONを生成してそれを参照しているため) 
+    <ul>
+      <li>データ更新日時: <span id="last-commit-date"></span></li>
+    </ul>
+  </li>
   <li>鍵アカウントは対象外になります。</li>
   <li>Twitter API の制限に引っかかりやすいです。(OAuthによるユーザ単位の認証ではなくアプリケーション単位で使用回数が制限されているため)</li>
   <li>Twitter API の制限は15分ごとにリセットされます。使用できない場合は少し時間をおいて試してみてください。</li>
+  <li>結果は最大10件までブラウザに保存されます。外部に送信されることはありません。ブラウザに割り当られた容量を超えた場合は古いものから削除されます。</li>
 </ul>
 
 <h2>Twitter API 使用状況</h2>
@@ -232,14 +346,15 @@ function createCircleDictByLocation(circleData) {
 <h2>設定</h2>
 <form id="settings">
 <input type="text" id="twitter-screenname" value="" placeholder="Twitter ID" /><br/>
-<input type="radio" name="twitter-filter" id="twitter-filter-follow" value="follow" checked/><label for="twitter-filter-follow">フォローのみ</label><br/>
-<input type="radio" name="twitter-filter" id="twitter-filter-follower" value="follower" /><label for="twitter-filter-follower">フォロワーのみ</label><br/>
-<input type="radio" name="twitter-filter" id="twitter-filter-ff" value="ff" /><label for="twitter-filter-ff">フォロー・フォロワー</label><br/>
-<input type="radio" name="twitter-filter" id="twitter-filter-fff" value="fff" /><label for="twitter-filter-fff">相互フォロー</label>
 </form>
 
 <button id="start">取得</button>
 
+<h2>履歴(最大10件)</h2>
+
+<div id="history"></div>
+
+<h2>結果</h2>
 <div id="output"></div>
 
 </div>

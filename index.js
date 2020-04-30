@@ -13,8 +13,8 @@ const options = {
 };
 
 const MODE =
-    null;
-//    'CIRCLE_ONLY';
+//    null;
+    'CIRCLE_ONLY';
 
 const url = 'https://www.v-market.work/v4/catalog';
 const request_delay = 1500;
@@ -81,7 +81,7 @@ async function get_circle_info(url) {
     // icon
     let icon = cheerioDoc('img.circle-card__icon')[0].attribs['src'];
     if (icon.slice(0, 1) === '/') {
-        icon = urljoin(new URL(url).origin, href);
+        icon = urljoin(new URL(url).origin, icon);
     }
 
     // header
