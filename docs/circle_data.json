@@ -342,7 +342,7 @@
     "circle_name": "遊び屋Books",
     "description": "",
     "icon": "https://storage.googleapis.com/vket-site-storage/uploads/user/icon_image/85/xsmall_ca5d1f25-9644-45f2-bba7-29e8a7292bf5.png",
-    "header": null,
+    "header": "https://storage.googleapis.com/vket-site-storage/uploads/avatar_image/image_url/8683/medium_c148ced6-fdce-41cd-a1ac-b5ba629b6343.png",
     "location": "ワールドエンド・ユートピア- オスカー - 破滅の残り香",
     "url": "https://www.v-market.work/v4/catalog/circle/41",
     "twitter": [
@@ -611,7 +611,7 @@
   },
   "74": {
     "circle_name": "ねこまたPのおみせ",
-    "description": "",
+    "description": "ねこまたPのお店です！\n現実世界と仮想世界、両方で使えるグッズを作っていたり、Vroidモデル制作を受けさせて頂いております\nBOOTH→ ねこまたPのおみせ https://nekomatap.booth.pm/ #booth_pm",
     "icon": "https://storage.googleapis.com/vket-site-storage/uploads/user/icon_image/526/xsmall_fc97655f-f8a4-41ca-b299-49a21c81097d.jpeg",
     "header": "https://storage.googleapis.com/vket-site-storage/uploads/circle/header_image/74/medium_77e3ee49-a642-4f8f-91f8-046ebcac22dd.png",
     "location": "阿頼屋敷- 鶴 - 丸に鱗",
@@ -1398,10 +1398,10 @@
     ]
   },
   "175": {
-    "circle_name": "biyora",
-    "description": "",
+    "circle_name": "クレープたべたい",
+    "description": "BOOTHでもいろいろ売ってるよ！",
     "icon": "https://storage.googleapis.com/vket-site-storage/uploads/user/icon_image/80/xsmall_8ad46f48-c5f8-4c7a-99d9-f6de3ea2cc4d.png",
-    "header": "https://storage.googleapis.com/vket-site-storage/uploads/avatar_image/image_url/6360/medium_288422cd-1955-4662-a022-2a8b0257034e.png",
+    "header": "https://storage.googleapis.com/vket-site-storage/uploads/circle/header_image/175/medium_acbf431c-1e81-4355-8d3b-731c519899ab.png",
     "location": "ナーサリーライム- クラブ - けだるげなティーパーティー",
     "url": "https://www.v-market.work/v4/catalog/circle/175",
     "twitter": [
@@ -1487,7 +1487,7 @@
   },
   "187": {
     "circle_name": "UnderNo3",
-    "description": "Reronが作った3Dモデルなどを販売しております．",
+    "description": "3Dモデルなどを販売しております．",
     "icon": "https://storage.googleapis.com/vket-site-storage/uploads/user/icon_image/4059/xsmall_078555e3-840c-412d-b666-ec5e64930e1e.png",
     "header": "https://storage.googleapis.com/vket-site-storage/uploads/circle/header_image/187/medium_c62317b9-b2e8-43f3-b239-6f7e86cd3466.png",
     "location": "ワールドエンド・ユートピア- オスカー - 破滅の残り香",
@@ -1522,7 +1522,7 @@
     "circle_name": "ヨシユキ大根の直売所",
     "description": "ヨシユキ大根の直売所です\n色々と販売する予定ですので\nよろしくお願いします",
     "icon": "https://storage.googleapis.com/vket-site-storage/uploads/user/icon_image/406/xsmall_d9525d7b-c4b8-4e51-ac49-bb21e67c0a21.png",
-    "header": "https://storage.googleapis.com/vket-site-storage/uploads/avatar_image/image_url/5905/medium_411e86a6-0673-4144-98e8-50e652699c69.png",
+    "header": "https://storage.googleapis.com/vket-site-storage/uploads/avatar_image/image_url/5906/medium_071bf48f-3e17-4c01-abee-59bfcbf92555.png",
     "location": "阿頼屋敷- 鶴 - 波かもめ",
     "url": "https://www.v-market.work/v4/catalog/circle/190",
     "twitter": [
@@ -1633,7 +1633,7 @@
     "circle_name": "D9speed Store",
     "description": "D9speed Store\nhttps://inuinugoya.booth.pm/",
     "icon": "https://storage.googleapis.com/vket-site-storage/uploads/user/icon_image/81/xsmall_81801204-9814-4597-8868-01237b1683b6.png",
-    "header": null,
+    "header": "https://storage.googleapis.com/vket-site-storage/uploads/avatar_image/image_url/8596/medium_13392108-4e21-46bb-8182-e5efc24cfeb4.png",
     "location": "電脳都市ミラビリス- Raiz - √Carnation",
     "url": "https://www.v-market.work/v4/catalog/circle/204",
     "twitter": [
@@ -1721,11 +1721,13 @@
   "214": {
     "circle_name": "Play for Fantasy",
     "description": "『Play for Fantasy』ではAdelka(アデルカ)、Lumilia(ルミーリア)などのオリジナルストーリー付きモデルを販売しています。新商品のLumiliaは悪魔の女性です。会場でどうぞ試着してみてください。",
-    "icon": "https://storage.googleapis.com/vket-site-storage/uploads/user/icon_image/213/xsmall_5cca811d-f416-43fe-a99d-4c0d3b2d3142.jpg",
+    "icon": "https://storage.googleapis.com/vket-site-storage/uploads/user/icon_image/213/xsmall_f7300933-e509-4451-8b0b-a03f057f43f7.png",
     "header": null,
     "location": "ナーサリーライム- スペード - ちぐはぐ鏡の化粧台",
     "url": "https://www.v-market.work/v4/catalog/circle/214",
-    "twitter": []
+    "twitter": [
+      "https://twitter.com/OnimaruVrc"
+    ]
   },
   "215": {
     "circle_name": "Virtual Aliens",
@@ -2463,7 +2465,7 @@
   },
   "302": {
     "circle_name": "JEFの倉庫",
-    "description": "新作の鳥型ロボを展示中\nBoothでは主にメカ系を販売中",
+    "description": "新作の鳥型ロボを展示中\n\n5/6夕方より発売開始しました！",
     "icon": "https://storage.googleapis.com/vket-site-storage/uploads/user/icon_image/14/xsmall_fd5c4110-24e0-41e6-9d71-b50bbbd54d63.png",
     "header": "https://storage.googleapis.com/vket-site-storage/uploads/circle/header_image/302/medium_a0978048-0eb3-4a08-acbb-959b3e33939f.png",
     "location": "ワールドエンド・ユートピア- ケベック - 流転する広場",
@@ -2618,7 +2620,7 @@
     "circle_name": "畦道のねこまた亭",
     "description": "製作した3Dモデルを配布してます。",
     "icon": "https://storage.googleapis.com/vket-site-storage/uploads/user/icon_image/869/xsmall_b75083e5-ddb9-41d3-8f23-418c94801b76.png",
-    "header": "https://storage.googleapis.com/vket-site-storage/uploads/circle/header_image/320/medium_88f6ef10-beda-45d8-af04-774c6efc2514.png",
+    "header": "https://storage.googleapis.com/vket-site-storage/uploads/circle/header_image/320/medium_08b429f9-e32a-4fe7-b521-7d8574640b10.png",
     "location": "ナーサリーライム- クラブ - けだるげなティーパーティー",
     "url": "https://www.v-market.work/v4/catalog/circle/320",
     "twitter": [
@@ -2650,7 +2652,7 @@
   },
   "323": {
     "circle_name": "Reimhakのアセット置き場",
-    "description": "",
+    "description": "boothにて販売してるよ\n右下のボタンで飛べるよ",
     "icon": "https://storage.googleapis.com/vket-site-storage/uploads/user/icon_image/4133/xsmall_95ce0ae7-279e-4f37-8be4-c551f92f079d.png",
     "header": null,
     "location": "アバターショーケース- グルーン - 3F",
@@ -2923,7 +2925,7 @@
   },
   "355": {
     "circle_name": "ATAKAMO",
-    "description": "VR空間でお洒落を目指すバーチャルブランドです。どうぞお立ち寄りください。",
+    "description": "VR空間でお洒落を目指すバーチャルブランドです。どうぞお立ち寄りください。\nお問い合わせはこちらにお願い致します→\natakamochan@gmail.com",
     "icon": "https://storage.googleapis.com/vket-site-storage/uploads/user/icon_image/1009/xsmall_e7aca94f-6bd1-4113-b510-cad3ef9955dc.png",
     "header": "https://storage.googleapis.com/vket-site-storage/uploads/circle/header_image/355/medium_376ab0c3-c4ae-4e36-bc74-08b5c3804247.png",
     "location": "デフォルトキューブ- DC-03 - Magenta-04",
@@ -3074,7 +3076,7 @@
   },
   "374": {
     "circle_name": "vrshuriken",
-    "description": "ワールドに置く和風小物を販売しています",
+    "description": "ワールドに置く和風小物を販売しています\n※ブース正面は床コライダーに引っかかるので左側面からダッシュで入ってください",
     "icon": "https://storage.googleapis.com/vket-site-storage/uploads/user/icon_image/660/xsmall_8492784f-6deb-4ab8-bd7d-c9dbc2cf2f77.png",
     "header": "https://storage.googleapis.com/vket-site-storage/uploads/avatar_image/image_url/2224/medium_ae08ebd6-752a-4b37-a8a9-1f9672113bb1.png",
     "location": "阿頼屋敷- 灯 - 錦鯉",
@@ -3301,7 +3303,7 @@
   },
   "398": {
     "circle_name": "アビグルト",
-    "description": "こんにちは！こんばんは！\n近日販売予定のモデルを展示しています！",
+    "description": "こんにちは！こんばんは！\nモデルを展示しています！\nhttps://aviguruto.booth.pm/items/2035742",
     "icon": "https://storage.googleapis.com/vket-site-storage/uploads/user/icon_image/1221/xsmall_7cb0a353-cdb8-4f06-afb3-618efc1aa6d2.jpg",
     "header": "https://storage.googleapis.com/vket-site-storage/uploads/circle/header_image/398/medium_0054d1b8-f9bc-4ba4-bf34-3794810bca00.jpg",
     "location": "ワールドエンド・ユートピア- ロメオ - 破滅の残り香",
@@ -3452,7 +3454,7 @@
   },
   "419": {
     "circle_name": "空創緑林館",
-    "description": "3Dモデル、アバターモデルの制作・販売を行っています。\nオーダーメイドの受注生産も行っておりますのでお気軽にご相談ください。",
+    "description": "3Dモデル、アバターモデルの制作・販売を行っています。\nオーダーメイドの受注生産も行っておりますのでお気軽にご相談ください。\nhttps://airgreen.booth.pm/",
     "icon": "https://storage.googleapis.com/vket-site-storage/uploads/user/icon_image/180/xsmall_a8b172c7-5a9e-4602-b1a7-5b6a2a051fd8.png",
     "header": "https://storage.googleapis.com/vket-site-storage/uploads/circle/header_image/419/medium_4139d01a-571c-42a1-a0b6-1c3ab8510d95.png",
     "location": "アバターショーケース- アクア - 3F",
@@ -3548,7 +3550,7 @@
     "circle_name": "鴨の土鍋",
     "description": "モデリング初心者による初心者向けのアバターを作成する試みをしてみます。",
     "icon": "https://storage.googleapis.com/vket-site-storage/uploads/user/icon_image/3165/xsmall_02697f62-803a-4322-807c-e20e674597fe.png",
-    "header": null,
+    "header": "https://storage.googleapis.com/vket-site-storage/uploads/circle/header_image/431/medium_f0b73d2c-9012-4184-a297-d89ce8c2987e.png",
     "location": "アバターショーケース- グルーン - 2F",
     "url": "https://www.v-market.work/v4/catalog/circle/431",
     "twitter": [
@@ -3616,7 +3618,7 @@
     "circle_name": "Δ!＄i○⒩",
     "description": "服とテクスチャを売っています。ご購入は右の緑のボタン(BOOTH)よりお願いいたします。\n\nTo purchase, please click on the link below.\nhttps://tamifluomutsu.booth.pm/",
     "icon": "https://storage.googleapis.com/vket-site-storage/uploads/user/icon_image/4194/xsmall_0de4cf0d-a7d0-4f73-8056-ee337df16633.png",
-    "header": null,
+    "header": "https://storage.googleapis.com/vket-site-storage/uploads/avatar_image/image_url/8671/medium_bfcc4342-357e-4978-8e6a-4b19aa81dbb9.png",
     "location": "電脳都市ミラビリス- Tallo - √Gypsophila",
     "url": "https://www.v-market.work/v4/catalog/circle/439",
     "twitter": [
@@ -3680,7 +3682,7 @@
   },
   "448": {
     "circle_name": "バーチャル職人　うぃりあむ",
-    "description": "オシャレでかわいい洋風の服・小物を作っています！\n\n今回は大正浪漫な雰囲気のお店にしてみました。\n外からはハイカラなウィンドウショッピング、\n中からは浅草に実在した塔「凌雲閣」を望むカフェ。\nモダンガールになったつもりでおしゃれ空間をお楽しみください。",
+    "description": "オシャレでかわいい洋風の服・小物を作っています！\n\n購入は以下からどうぞ！\nhttps://virtual-cup.booth.pm/",
     "icon": "https://storage.googleapis.com/vket-site-storage/uploads/user/icon_image/1315/xsmall_82d201d2-627a-40ab-bdf0-98bddd6f9029.png",
     "header": "https://storage.googleapis.com/vket-site-storage/uploads/circle/header_image/448/medium_792d66be-9cee-4ef8-a400-379c4e37942d.png",
     "location": "阿頼屋敷- 鶴 - 錦鯉",
@@ -4109,7 +4111,7 @@
     ]
   },
   "498": {
-    "circle_name": "DEMITASS-KUN",
+    "circle_name": "DEMITASS STORE",
     "description": "",
     "icon": "https://storage.googleapis.com/vket-site-storage/uploads/user/icon_image/247/xsmall_14012bc2-9be1-44dc-887c-aebfb6743395.png",
     "header": "https://storage.googleapis.com/vket-site-storage/uploads/circle/header_image/498/medium_99508a6d-5b9f-4ae6-a237-4a72535b730f.png",
@@ -4239,7 +4241,7 @@
   },
   "515": {
     "circle_name": "membrane",
-    "description": "VRChatなどで使えるオリジナル3Dアバターを販売しています（2020年4月末～5月頭に販売開始。販売開始はTwitterで告知いたします）。Vket4のブースではほかにもモデルを展示しているのでぜひご覧になってください～！",
+    "description": "VRChatなどで使えるオリジナル3Dアバター「KIIRO（キーロ）」をBOOTHにて販売開始しています！Vket4のブースではほかにもモデルを展示しているのでぜひご覧になってください～！",
     "icon": "https://storage.googleapis.com/vket-site-storage/uploads/user/icon_image/1962/xsmall_63a24ad5-dbd6-4c68-b256-30669b38f947.png",
     "header": "https://storage.googleapis.com/vket-site-storage/uploads/circle/header_image/515/medium_198cee60-ab60-4064-abbf-00a7bbdfe734.png",
     "location": "アバターショーケース- ヴァイオレット - 3F",
@@ -4393,8 +4395,8 @@
   },
   "536": {
     "circle_name": "まろんごはん",
-    "description": "販売中のアバター、サキュちゃんの展示",
-    "icon": "https://storage.googleapis.com/vket-site-storage/uploads/user/icon_image/4337/xsmall_478b28bd-6dde-4282-9573-aa60a17be68c.png",
+    "description": "Boothにて販売中のアバター、サキュちゃんの展示",
+    "icon": "https://storage.googleapis.com/vket-site-storage/uploads/user/icon_image/4337/xsmall_f8e42cc9-7ab9-4d87-9f6f-3f5d2edd2f1d.png",
     "header": "https://storage.googleapis.com/vket-site-storage/uploads/circle/header_image/536/medium_69ff350e-c096-41bb-b7cf-113b7027aa2f.PNG",
     "location": "アバターショーケース- ブラウ - 3F",
     "url": "https://www.v-market.work/v4/catalog/circle/536",
@@ -4426,7 +4428,7 @@
   },
   "542": {
     "circle_name": "改ORI工房 -KAIORI WS-",
-    "description": "オリジナルアバター \"爲機 - IORI -\"はVケット期間内に発売予定です！",
+    "description": "オリジナルアバター \"爲機 - IORI -\"販売開始しました！",
     "icon": "https://storage.googleapis.com/vket-site-storage/uploads/user/icon_image/4347/xsmall_6afa2934-fd3c-409f-a4d4-ddf2145e493a.png",
     "header": "https://storage.googleapis.com/vket-site-storage/uploads/circle/header_image/542/medium_560037e4-1ab1-4656-9e02-f67937067f47.png",
     "location": "ワールドエンド・ユートピア- オスカー - 追憶のモノリス",
@@ -5680,10 +5682,12 @@
     "circle_name": "書道展示/旅行者の朝食",
     "description": "",
     "icon": "https://storage.googleapis.com/vket-site-storage/uploads/user/icon_image/374/xsmall_173e89b7-7db4-4b2b-8283-6b66349796bd.png",
-    "header": null,
+    "header": "https://storage.googleapis.com/vket-site-storage/uploads/avatar_image/image_url/8584/medium_574dc760-7c91-4f04-b8ef-0bd2e8bb8322.png",
     "location": "デフォルトキューブ- DC-02 - Cyan-01",
     "url": "https://www.v-market.work/v4/catalog/circle/715",
-    "twitter": []
+    "twitter": [
+      "https://twitter.com/enfutu"
+    ]
   },
   "716": {
     "circle_name": "かなﾘぁの楽しい店",
@@ -5832,9 +5836,9 @@
   },
   "736": {
     "circle_name": "NEAR BLUE SEVEN",
-    "description": "",
+    "description": "クチナシニア・蒼真アヤ・黒崎ななり\n3人の合同サークルです",
     "icon": "https://storage.googleapis.com/vket-site-storage/uploads/user/icon_image/529/xsmall_74cc1424-25be-494e-ba0e-365c21fbf444.png",
-    "header": null,
+    "header": "https://storage.googleapis.com/vket-site-storage/uploads/circle/header_image/736/medium_169b36a1-03a3-4f6f-a415-42e5c081339e.png",
     "location": "電脳都市ミラビリス- Flor - √Cymbidium",
     "url": "https://www.v-market.work/v4/catalog/circle/736",
     "twitter": [
@@ -5954,13 +5958,13 @@
   },
   "747": {
     "circle_name": "ヤバいぬいぐるみ屋さん",
-    "description": "",
+    "description": "やわらかゆるかわ3Dアバターのおみせ",
     "icon": "https://storage.googleapis.com/vket-site-storage/uploads/user/icon_image/4620/xsmall_b367a4c3-414a-4e3a-a2a6-d13f26de9fbf.png",
-    "header": null,
+    "header": "https://storage.googleapis.com/vket-site-storage/uploads/avatar_image/image_url/8551/medium_4ae3c137-e45d-48ae-be1e-ba78003e0775.png",
     "location": "アバターショーケース- ヴァイオレット - 3F",
     "url": "https://www.v-market.work/v4/catalog/circle/747",
     "twitter": [
-      "https://twitter.com/024onishi024"
+      "https://twitter.com/sean024_jp"
     ]
   },
   "748": {
@@ -6239,7 +6243,7 @@
   },
   "780": {
     "circle_name": "海の秘密 (SOS)",
-    "description": "Various 3d models, avatars, music, art, and others that are virtually created for fun.\nMost models are going to be from our friend group.\nWe're all over from the world with multiple languages and we would like to show that with our booth as well.",
+    "description": "Various 3d models, avatars, music, art, and others that are virtually created for fun.\nMost models are going to be from our friend group.\nWe're all over from the world with multiple languages and we would like to show that with our booth as well.\nhttps://tripe.booth.pm/items/1792712\nhttps://liminality.booth.pm/items/1809210\nhttps://rokettobusuta.booth.pm/items/1808755\nhttps://duz.booth.pm/items/1807903\nhttps://duz.booth.pm/items/1808835\nhttps://livb.booth.pm/items/1806093\nhttps://yukinagato.booth.pm/",
     "icon": "https://storage.googleapis.com/vket-site-storage/uploads/user/icon_image/4653/xsmall_f9d82a68-f9de-4777-988f-17b5271fa210.jpg",
     "header": "https://storage.googleapis.com/vket-site-storage/uploads/circle/header_image/780/medium_ea493921-5c4b-4c7a-9fd3-cfba4f3fb96a.JPG",
     "location": "ワールドエンド・ユートピア- ノベンバー - 流転する広場",
@@ -6468,7 +6472,7 @@
     "twitter": []
   },
   "816": {
-    "circle_name": "AirGardenTerrace",
+    "circle_name": "空宙の庭 - AirSpaceGarden",
     "description": "",
     "icon": "https://storage.googleapis.com/vket-site-storage/uploads/user/icon_image/878/xsmall_a4d1eeaa-7542-46b0-a819-318302bd4a94.png",
     "header": null,
@@ -6817,7 +6821,9 @@
     "header": null,
     "location": "アバターショーケース- ブラウ - 2F",
     "url": "https://www.v-market.work/v4/catalog/circle/859",
-    "twitter": []
+    "twitter": [
+      "https://twitter.com/kutsushita_03"
+    ]
   },
   "860": {
     "circle_name": "ねむみちゃん寝る",
@@ -7303,9 +7309,9 @@
   },
   "928": {
     "circle_name": "Another_ATAKAMO",
-    "description": "バーチャルな日用品を作ってます。",
+    "description": "バーチャルな日用品を作ってます。\nsi-fiアイテムを取り扱っています。\n友人の姉妹店とHPも作ってるので覗いていって下さい。\nhttps://atakamo.com/",
     "icon": "https://storage.googleapis.com/vket-site-storage/uploads/user/icon_image/1161/xsmall_6011262f-c5df-4dd4-9954-4e2bbb9895c9.png",
-    "header": "https://storage.googleapis.com/vket-site-storage/uploads/avatar_image/image_url/7603/medium_c54b4896-5323-4b47-8a83-49115bdfdb7a.png",
+    "header": "https://storage.googleapis.com/vket-site-storage/uploads/circle/header_image/928/medium_72d794c1-1afc-47a8-8ea8-090747af918b.png",
     "location": "阿頼屋敷- 蓮 - 錦鯉",
     "url": "https://www.v-market.work/v4/catalog/circle/928",
     "twitter": [
@@ -7642,14 +7648,12 @@
   },
   "969": {
     "circle_name": "愛川Shop",
-    "description": "体型変更機能付きの3Dアバターを販売予定！\n5月1日～10日に販売開始予定。\n\nぜひShopフォローしてお待ちください♪\n-----------------\nナーサリーライム店舗について：\n・販売品が完成するまでの期間中、アバター本体の代わりに「衣装（透明人間）」の試着ボタンを設置しています。好きに使って遊んでください♪\n・店舗は配置アバターが古かったり、２階へ上がれなくなっています。\n-----------------\n販売予定のアバターspec：\n・素体約45,000poligon（髪を除いて）\n・大量の体型シェイプキー搭載",
-    "icon": "https://storage.googleapis.com/vket-site-storage/uploads/user/icon_image/143/xsmall_443e0fae-1785-4aaa-aa55-d306d1cc2285.png",
-    "header": "https://storage.googleapis.com/vket-site-storage/uploads/circle/header_image/969/medium_a0f0bf3a-f26c-4472-a53b-5ff04cf719e8.png",
+    "description": "体型変更機能付きの3Dアバターを販売予定！\n5月9日ごろ販売開始予定。\n\nぜひShopフォローしてお待ちください♪\n-----------------\nナーサリーライム店舗について：\n・販売品が完成するまでの期間中、衣装だけ試着出来ます。\n・店舗は最終入稿に失敗して配置アバターが古かったり、２階へ上がれなくなっています。\nそのため配置アバターが販売品と大きく事なっていますのでご注意ください。\n\n-----------------\n販売アバターについて：\n・素体約45,000poligon（髪を除いて）\n・大量の体型&表情シェイプキー搭載\n\n制作期間約1年(2000H程度)かけて何度も何度も納得いくまで作り直し続けて誕生したモデルです。\n\nVRC初心者からスタートした初めてのオリジナル3Dモデル制作&販売ですので、何か不足などお気づきの事があればご連絡ください。\n対処可能な内容であれば販売後順次対応致します。",
+    "icon": "https://storage.googleapis.com/vket-site-storage/uploads/user/icon_image/143/xsmall_62fe5b52-79f4-4a39-9dd5-b9a34a715da5.png",
+    "header": "https://storage.googleapis.com/vket-site-storage/uploads/circle/header_image/969/medium_a0db53d3-efa4-4f8e-a754-a889189bfde7.png",
     "location": "ナーサリーライム- ダイヤ - おこりんぼう妖精の村",
     "url": "https://www.v-market.work/v4/catalog/circle/969",
-    "twitter": [
-      "https://twitter.com/3dAikaVR"
-    ]
+    "twitter": []
   },
   "970": {
     "circle_name": "バックストリートバーチャルズ",
@@ -7791,7 +7795,7 @@
   },
   "988": {
     "circle_name": "Holographic",
-    "description": "「リアルとバーチャルの境界線はどこ?」\n知の冒険探索アイドルVTuberユニット「Holographic」です。\n私たちは研究者から美少女愛好家まで、専門家・リスナー問わず、アバター社会に関する様々な視点を配信で紹介しています。\n\n学術系アイドルVTuberユニット「Holographic」が、期間中にトークイベントを行います!\n研究者さんをはじめとしたゲストをお呼びし、「SFとVR」「バーチャル都市論とVR」「アバターとジェンダー」「これからのアバター」についてお話して頂きます。\nトークイベントは同時にYouTubeで配信されます。\n\n■4/29(水)21:00〜「SFとアバター」\nHAI研究者:大澤博隆さま、SF作家:山口優さま、科学文化作家:宮本道人さま\n\n■5/1(金)21:00〜「バーチャル都市とアバター」\n建築デザイン事務所noiz主催:豊田啓介さま、バーチャル建築家:番匠カンナさま\n\n■5/5(火) 21:00〜「ジェンダーとアバター」Vol.2\nアーティスト・美術史研究者:近藤銀河さま、テクノコスプレ研究会主宰:あしやまひろこさま\n\n■5/9(土)21:00〜「サバイバル de アバター、これからのアバター社会」\n文芸評論家:藤田直哉さま、バーチャル研究者:なもなきま、歴史研究家:トピルツィンさま、テロリズム研究者:マンドリルさま",
+    "description": "「リアルとバーチャルの境界線はどこ?」\n知の冒険探索アイドルVTuberユニット「Holographic」です。\n私たちは研究者から美少女愛好家まで、専門家・リスナー問わず、アバター社会に関する様々な視点を配信で紹介しています。\n\n学術系アイドルVTuberユニット「Holographic」が、期間中にトークイベントを行います!\n研究者さんをはじめとしたゲストをお呼びし、「SFとVR」「バーチャル都市論とVR」「アバターとジェンダー」「これからのアバター」についてお話して頂きます。\nトークイベントは同時にYouTubeで配信されます。\nyoutube.com/c/361deg/live\n\n■4/29(水)21:00〜「SFとアバター」\nHAI研究者:大澤博隆さま、SF作家:山口優さま、科学文化作家:宮本道人さま\n\n■5/1(金)21:00〜「バーチャル都市とアバター」\n建築デザイン事務所noiz主催:豊田啓介さま、バーチャル建築家:番匠カンナさま\n\n■5/5(火) 21:00〜「ジェンダーとアバター」Vol.2\nアーティスト・美術史研究者:近藤銀河さま、テクノコスプレ研究会主宰:あしやまひろこさま\n\n■5/9(土)21:00〜「サバイバル de アバター、これからのアバター社会」\n文芸評論家:藤田直哉さま、バーチャル研究者:なもなきま、歴史研究家:トピルツィンさま、テロリズム研究者:マンドリルさま",
     "icon": "https://storage.googleapis.com/vket-site-storage/uploads/user/icon_image/4824/xsmall_f3d11804-d4b3-4a8d-8b24-12b19fb54076.png",
     "header": "https://storage.googleapis.com/vket-site-storage/uploads/circle/header_image/988/medium_371ad1c5-3a2e-4b72-9fe6-a9edbb50abab.jpg",
     "location": "デフォルトキューブ- DC-05 - Green-04",
@@ -7841,7 +7845,7 @@
     "circle_name": "V.C.T.",
     "description": "アンドロイドの3Dモデルを販売しています",
     "icon": "https://storage.googleapis.com/vket-site-storage/uploads/user/icon_image/4825/xsmall_9df0c0f9-38c7-44ee-8218-2220bf0a57ba.png",
-    "header": "https://storage.googleapis.com/vket-site-storage/uploads/avatar_image/image_url/6483/medium_5b002d15-69ce-4bcd-81d5-35d7ea2b75da.png",
+    "header": "https://storage.googleapis.com/vket-site-storage/uploads/avatar_image/image_url/6484/medium_8662e86e-1701-4b93-8ad8-8569a8c7d44a.png",
     "location": "電脳都市ミラビリス- Flor - √Rose",
     "url": "https://www.v-market.work/v4/catalog/circle/992",
     "twitter": [
@@ -7951,7 +7955,7 @@
   },
   "1002": {
     "circle_name": "SPORADIC-E",
-    "description": "アバターやワールドなどを作っています．",
+    "description": "アバターやワールドなどを作っています．boothにて販売中．",
     "icon": "https://storage.googleapis.com/vket-site-storage/uploads/user/icon_image/1605/xsmall_c73262fa-ace4-4e60-ac69-a2aadb5a9f03.png",
     "header": "https://storage.googleapis.com/vket-site-storage/uploads/circle/header_image/1002/medium_0d4d4fec-9ec6-4a79-a74e-9a4507fb420b.jpg",
     "location": "アバターショーケース- アクア - 3F",
@@ -8648,9 +8652,7 @@
     "header": "https://storage.googleapis.com/vket-site-storage/uploads/circle/header_image/1090/medium_896017b8-d2c0-4e0d-a6c0-5cc88f2e9d81.png",
     "location": "アバターショーケース- アクア - 3F",
     "url": "https://www.v-market.work/v4/catalog/circle/1090",
-    "twitter": [
-      "https://twitter.com/H1N0307"
-    ]
+    "twitter": []
   },
   "1091": {
     "circle_name": "アルチメイトVRC",
@@ -9087,9 +9089,9 @@
   },
   "1151": {
     "circle_name": "J.U.nk",
-    "description": "",
+    "description": "boothでパーティクルを販売中です",
     "icon": "https://storage.googleapis.com/vket-site-storage/uploads/user/icon_image/4721/xsmall_7888e449-2b77-4812-baa2-154224277412.png",
-    "header": null,
+    "header": "https://storage.googleapis.com/vket-site-storage/uploads/avatar_image/image_url/8398/medium_212eb538-8da7-434e-8d03-9d6d23d782e9.png",
     "location": "ワールドエンド・ユートピア- ロメオ - 追憶のモノリス",
     "url": "https://www.v-market.work/v4/catalog/circle/1151",
     "twitter": [
@@ -9241,7 +9243,7 @@
     "circle_name": "Always Bloom",
     "description": "",
     "icon": "https://storage.googleapis.com/vket-site-storage/uploads/user/icon_image/4845/xsmall_03d737bf-36dc-433e-8aff-90f3cd05933d.jpg",
-    "header": null,
+    "header": "https://storage.googleapis.com/vket-site-storage/uploads/avatar_image/image_url/8595/medium_78089b3f-cea4-4bba-8b3b-0ede88036572.png",
     "location": "デフォルトキューブ- DC-06 - Yellow-03",
     "url": "https://www.v-market.work/v4/catalog/circle/1173",
     "twitter": [
@@ -9497,7 +9499,7 @@
     "circle_name": "クロノ工房",
     "description": "VRChat向けシェーダーを主に作成しております。",
     "icon": "https://storage.googleapis.com/vket-site-storage/uploads/user/icon_image/1423/xsmall_7784a17e-39d0-4a3b-adf4-ac3c79119ebf.png",
-    "header": null,
+    "header": "https://storage.googleapis.com/vket-site-storage/uploads/avatar_image/image_url/8727/medium_d672a0ed-b83c-4395-8cb5-03d5d7cdb139.png",
     "location": "アバターショーケース- ヴァイオレット - 2F",
     "url": "https://www.v-market.work/v4/catalog/circle/1208",
     "twitter": [
@@ -9704,7 +9706,7 @@
   "1232": {
     "circle_name": "退魔師の工房",
     "description": "武器や装備品の展示を行っております。\nパーティクルを入れてるものもありますので、手に取ってみてください。",
-    "icon": "https://storage.googleapis.com/vket-site-storage/uploads/user/icon_image/5029/xsmall_ef5072cd-17cf-4c77-a8e3-e31bf95958d1.png",
+    "icon": "https://storage.googleapis.com/vket-site-storage/uploads/user/icon_image/5029/xsmall_8998404b-9501-4b83-8688-1c3c944dcfeb.png",
     "header": "https://storage.googleapis.com/vket-site-storage/uploads/circle/header_image/1232/medium_7a6550ab-d6c0-4323-9760-8480fbccdcbb.png",
     "location": "阿頼屋敷- 灯 - 蔵造り",
     "url": "https://www.v-market.work/v4/catalog/circle/1232",
@@ -9758,7 +9760,7 @@
   },
   "1238": {
     "circle_name": "ささみのき",
-    "description": "制作中の自作アバター展示してます。",
+    "description": "制作中の自作アバター展示してます。\n人→もこもこ\n武器→コウ",
     "icon": "https://storage.googleapis.com/vket-site-storage/uploads/user/icon_image/4977/xsmall_9346a7a2-3f70-4173-a4bc-8bccdb3f91cf.png",
     "header": null,
     "location": "ワールドエンド・ユートピア- デルタ - 流転する広場",
@@ -9829,8 +9831,8 @@
   "1244": {
     "circle_name": "六面",
     "description": "",
-    "icon": "https://www.v-market.work/img/default_user_icon.png",
-    "header": null,
+    "icon": "https://storage.googleapis.com/vket-site-storage/uploads/user/icon_image/4961/xsmall_8510a069-7ef7-44ae-9f6f-bb0c66622a80.png",
+    "header": "https://storage.googleapis.com/vket-site-storage/uploads/avatar_image/image_url/8681/medium_0ce192aa-4416-4bf4-a3a3-61e2bb3fd1d7.png",
     "location": "アバターショーケース- アクア - 1F",
     "url": "https://www.v-market.work/v4/catalog/circle/1244",
     "twitter": [
@@ -10220,7 +10222,7 @@
   },
   "1308": {
     "circle_name": "らぷたんのおみせ",
-    "description": "",
+    "description": "宇宙恐竜らぷたんと可愛い仲間たちのお店です！\n狐娘アバター「らぷ狐」とお菓子の魔法少女「ストロベリーポップ」を販売中！(๑╹ω╹๑ )",
     "icon": "https://storage.googleapis.com/vket-site-storage/uploads/user/icon_image/1336/xsmall_eb6b7497-b70c-4ef2-b22c-3214951e1863.jpeg",
     "header": "https://storage.googleapis.com/vket-site-storage/uploads/circle/header_image/1308/medium_1b0e4a30-a338-49b4-a5d4-e0175b09991d.png",
     "location": "ナーサリーライム- クラブ - いやしき魔女の塔",
@@ -10244,7 +10246,7 @@
     "circle_name": "Geometric Lilly",
     "description": "当店では主にソーシャルVRでの利用を想定したアバターや衣装、小物などのを取り扱っています。",
     "icon": "https://storage.googleapis.com/vket-site-storage/uploads/user/icon_image/680/xsmall_a5aacc29-98ab-4283-bad6-c3b832d31b79.png",
-    "header": null,
+    "header": "https://storage.googleapis.com/vket-site-storage/uploads/circle/header_image/1313/medium_a75d000d-e9d0-49c3-ba4c-b28a9d00b1ff.jpg",
     "location": "アバターショーケース- ヴァイオレット - 2F",
     "url": "https://www.v-market.work/v4/catalog/circle/1313",
     "twitter": [
@@ -10975,7 +10977,9 @@
     "header": null,
     "location": "電脳都市ミラビリス- Flor - √Tulips",
     "url": "https://www.v-market.work/v4/catalog/circle/1404",
-    "twitter": []
+    "twitter": [
+      "https://twitter.com/kaikai398"
+    ]
   },
   "1405": {
     "circle_name": "ココロ権現",
@@ -11046,7 +11050,7 @@
   "1415": {
     "circle_name": "お休みさん",
     "description": "",
-    "icon": "https://www.v-market.work/img/default_user_icon.png",
+    "icon": "https://storage.googleapis.com/vket-site-storage/uploads/user/icon_image/1120/xsmall_65375d5e-c96e-4c74-b326-a77645a3e188.png",
     "header": null,
     "location": "ワールドエンド・ユートピア- ノベンバー - 面影通り",
     "url": "https://www.v-market.work/v4/catalog/circle/1415",
@@ -11221,7 +11225,7 @@
   "1437": {
     "circle_name": "猫乃手電実雑貨店",
     "description": "",
-    "icon": "https://www.v-market.work/img/default_user_icon.png",
+    "icon": "https://storage.googleapis.com/vket-site-storage/uploads/user/icon_image/347/xsmall_36e7e10a-70e6-43ca-9b84-6c4db29288fc.png",
     "header": null,
     "location": "ワールドエンド・ユートピア- シエラ - 苔錆びた墓場",
     "url": "https://www.v-market.work/v4/catalog/circle/1437",
@@ -11598,7 +11602,7 @@
     "circle_name": "瑞赫谷植物園",
     "description": "染山びいろの作ったアイテム等を置いておく予定です。",
     "icon": "https://storage.googleapis.com/vket-site-storage/uploads/user/icon_image/1377/xsmall_667ab688-c9a3-4054-b891-d16116d9bd56.png",
-    "header": null,
+    "header": "https://storage.googleapis.com/vket-site-storage/uploads/avatar_image/image_url/8686/medium_c87fb1ce-3567-4a00-af57-0c549e39f506.png",
     "location": "アバターショーケース- グルーン - 3F",
     "url": "https://www.v-market.work/v4/catalog/circle/1495",
     "twitter": [
@@ -11694,8 +11698,8 @@
   },
   "1511": {
     "circle_name": "がおがおしょっぷ！",
-    "description": "",
-    "icon": "https://www.v-market.work/img/default_user_icon.png",
+    "description": "がおがおっ！\nいねねこちゃんがアバターをはんばいよていだよ！\nbooth : https://ineneko.booth.pm/",
+    "icon": "https://storage.googleapis.com/vket-site-storage/uploads/user/icon_image/1346/xsmall_38c7977d-dc19-45b3-8e39-5a351d5b44df.png",
     "header": null,
     "location": "アバターショーケース- ルージュ - 3F",
     "url": "https://www.v-market.work/v4/catalog/circle/1511",
@@ -11805,7 +11809,7 @@
   "1523": {
     "circle_name": "幽機の間",
     "description": "",
-    "icon": "https://www.v-market.work/img/default_user_icon.png",
+    "icon": "https://storage.googleapis.com/vket-site-storage/uploads/user/icon_image/5204/xsmall_010ca008-8068-40da-b38c-cc810c3ebc38.png",
     "header": null,
     "location": "阿頼屋敷- 灯 - 波かもめ",
     "url": "https://www.v-market.work/v4/catalog/circle/1523",
@@ -11943,8 +11947,8 @@
   },
   "1538": {
     "circle_name": "ちょべりば→ぐ らぼらとりー",
-    "description": "",
-    "icon": "https://www.v-market.work/img/default_user_icon.png",
+    "description": "最終日になんとかダイバーのモデルを作って組み込んだがちゃんと表示できてなくて膝から崩れ落ちた悲しみのハンバーグがおくるラボラトリー",
+    "icon": "https://storage.googleapis.com/vket-site-storage/uploads/user/icon_image/2410/xsmall_f263c682-79c2-4421-ac55-c41578186db3.png",
     "header": null,
     "location": "電脳都市ミラビリス- Flor - √Gypsophila",
     "url": "https://www.v-market.work/v4/catalog/circle/1538",
@@ -12080,9 +12084,9 @@
   },
   "1557": {
     "circle_name": "Sweetfish",
-    "description": "",
+    "description": "VRoid用衣装テクスチャBOOTHにて販売中です！\nワンピース・靴下\nおうちのマークを押してね！→",
     "icon": "https://storage.googleapis.com/vket-site-storage/uploads/user/icon_image/2379/xsmall_53fec055-221e-4ec1-b4f8-88a83a2be13e.png",
-    "header": null,
+    "header": "https://storage.googleapis.com/vket-site-storage/uploads/circle/header_image/1557/medium_a2216d07-ce19-4322-8390-e212e90475b5.png",
     "location": "アバターショーケース- ヴァイオレット - 2F",
     "url": "https://www.v-market.work/v4/catalog/circle/1557",
     "twitter": [

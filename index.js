@@ -7,14 +7,14 @@ const path = require('path');
 process.on('unhandledRejection', console.dir);
 
 const options = {
-  transform: (body) => {
-    return cheerio.load(body);
-  }
+    transform: (body) => {
+        return cheerio.load(body);
+    }
 };
 
 const MODE =
-//    null;
-    'CIRCLE_ONLY';
+    null;
+//    'CIRCLE_ONLY';
 
 const url = 'https://www.v-market.work/v4/catalog';
 const request_delay = 1500;
@@ -29,7 +29,7 @@ async function get_links(url, re) {
     if (!data) {
         // retry
         console.log("RETRY: waiting 30sec");
-        await sleep(30*1000);
+        await sleep(30 * 1000);
         return await get_links(url, re);
 
     }
@@ -124,7 +124,7 @@ function uniq(ary) {
 }
 
 function sleep(ms) {
-  return new Promise(resolve => setTimeout(resolve, ms));
+    return new Promise(resolve => setTimeout(resolve, ms));
 }
 
 async function start() {
@@ -138,7 +138,7 @@ async function start() {
             world_urls = uniq(await get_world_urls(url));
             fs.writeFileSync('docs/world_urls.json', JSON.stringify(world_urls, null, 2));
             break;
-   }
+    }
     console.log(world_urls);
 
     // worlds -> circles
@@ -148,7 +148,7 @@ async function start() {
             circle_urls = require('./docs/circle_urls.json');
             break;
         default:
-            for (let i = 0, il = world_urls.length; i < il; ++i){
+            for (let i = 0, il = world_urls.length; i < il; ++i) {
                 const url = world_urls[i];
                 console.log(`get circle from ${url}`);
                 const circles = await get_circle(url);
@@ -163,7 +163,7 @@ async function start() {
 
     // circles -> Twitter name
     const data = {};
-    for (let i = 0, il = circle_urls.length; i < il; ++i){
+    for (let i = 0, il = circle_urls.length; i < il; ++i) {
         const url = circle_urls[i];
         console.log(`get circle information from ${url}`);
 
