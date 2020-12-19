@@ -13,10 +13,10 @@
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
     "request": "^2.88.2",
-    "request-promise": "^4.2.5",
+    "request-promise": "^4.2.6",
     "url-join": "^4.0.1"
   },
   "devDependencies": {
-    "lite-server": "^2.5.4"
+    "lite-server": "^2.6.1"
   }
 }
