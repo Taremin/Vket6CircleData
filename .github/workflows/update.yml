@@ -37,5 +37,9 @@ jobs:
     - run: npm ci
     - run: npm start
 
+    - name: git setting
+      run: |
+        git config --local user.email "taremin.vr@gmail.com"
+        git config --local user.name "Taremin-BOT"
     - run: git commit -am "[AUTO UPDATER] update data"
     - run: git push origin master
