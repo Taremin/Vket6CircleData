@@ -16,7 +16,7 @@ const MODE =
     null;
 //    'CIRCLE_ONLY';
 
-const url = 'https://www.v-market.work/v4/catalog';
+const url = 'https://www.v-market.work/v5/catalog';
 const request_delay = 1500;
 
 async function get_links(url, re) {
@@ -46,12 +46,16 @@ async function get_links(url, re) {
     return result;
 }
 
+async function get_world_base_url(index_url) {
+    return await get_links(index_url, '^/v5/catalog/world/(\\d+)$');
+}
+
 async function get_world_urls(index_url) {
-    return await get_links(index_url, '^/v4/catalog/world/(\\d+)/(\\d+)$');
+    return await get_links(index_url, '^/v5/catalog/world/(\\d+)/(\\d+)$');
 }
 
 async function get_circle(url) {
-    return await get_links(url, '^/v4/catalog/circle/(\\d+)$');
+    return await get_links(url, '^/v5/catalog/circle/(\\d+)$');
 }
 
 async function get_circle_info(url) {
@@ -66,7 +70,7 @@ async function get_circle_info(url) {
         // retry
         console.log("RETRY: waiting 30sec");
         await sleep(request_delay);
-        return await get_twitter(url);
+        return await get_circle_info(url);
     }
 
     const link = cheerioDoc('a');
@@ -99,7 +103,9 @@ async function get_circle_info(url) {
     const twitter = [];
     link.each((i) => {
         const href = link[i].attribs['href'];
-        if (href && pattern.test(href)) {
+        const split = href.split('?')
+        const screenName = path.basename(split[0]);
+        if (href && pattern.test(href) && screenName !== 'Virtual_Market_') {
             twitter.push(href);
         }
     });
@@ -135,7 +141,14 @@ async function start() {
             world_urls = require('./docs/world_urls.json');
             break;
         default:
-            world_urls = uniq(await get_world_urls(url));
+            world_base_urls = uniq(await get_world_base_url(url));
+            world_urls = []
+            for (let i = 0, il = world_base_urls.length; i < il; ++i) {
+                const url = world_base_urls[i];
+                const urls = await get_world_urls(url);
+                Array.prototype.push.apply(world_urls, urls)
+            }
+            world_urls = (uniq(world_urls)).sort()
             fs.writeFileSync('docs/world_urls.json', JSON.stringify(world_urls, null, 2));
             break;
     }
