@@ -3491,7 +3491,7 @@
   },
   "2013": {
     "circle_name": "綺星乃リィの部屋",
-    "description": "綺星乃リィのお道具屋さん\n                    \n                スペースポップバーチャル魔法少女アンドロイド、綺星乃（きらきの）リィのめるへんでFutureな世界。",
+    "description": "綺星乃リィのお導具屋さん\n                    \n                スペースポップバーチャル魔法少女アンドロイド、綺星乃（きらきの）リィのめるへんでFutureな世界。",
     "icon": "https://storage.googleapis.com/vket-site-storage/uploads/circle/icon/2013/small_deb063ef-c815-4363-805a-1fdc835785d9.jpg",
     "header": "https://storage.googleapis.com/vket-site-storage/uploads/circle/header_image/2013/medium_2c2f5535-cd6a-49ca-9d1e-9c5f094e558b.jpg",
     "location": "オービタル- 04 - E",
@@ -4810,6 +4810,7 @@
     "location": "オービタル- 02 - C",
     "url": "https://www.v-market.work/v5/catalog/circle/2173",
     "twitter": [
+      "https://twitter.com/nanasawa03",
       "https://twitter.com/Justie_Syber",
       "https://twitter.com/KomusoNDS5",
       "https://twitter.com/BainiteKobo"
@@ -5427,7 +5428,7 @@
   },
   "2256": {
     "circle_name": "五月雨の降る作業工房",
-    "description": "Vket4からまたやってきました。\n前回は自分の納得のいかなかったニーナとクロメを大幅改変し、新たにもう一体を追加して参加しました。ちなみにニーナとクロメは2000円で販売します。試着会もできたらいいなあ",
+    "description": "五月雨の降る作業工房\n                    \n                Vket4からまたやってきました。\n前回は自分の納得のいかなかったニーナとクロメを大幅改変し、新たにもう一体を追加して参加しました。ちなみにニーナとクロメは2000円で販売します。試着会もできたらいいなあ",
     "icon": "",
     "header": "https://storage.googleapis.com/vket-site-storage/uploads/circle/header_image/2256/medium_a7ee809e-a489-4a46-81f1-240c55c793ad.png",
     "location": "Default Cube- DC-08 - Magenta-04",
@@ -9722,7 +9723,7 @@
     "circle_name": "付喪工房",
     "description": "付喪工房\n                    \n                異形アバターを主として製作していく予定です。\n申し訳ありません。12月22日にアバター販売予定です。\n(12/20更新)",
     "icon": "https://storage.googleapis.com/vket-site-storage/uploads/circle/icon/2861/small_de87682e-2149-4c27-b43b-81548e054f08.png",
-    "header": null,
+    "header": "https://storage.googleapis.com/vket-site-storage/uploads/avatar_image/image_url/17682/small_5dd669a8-d048-4c09-8458-6a8e434a5b830b0760535c9ce40fdff3d104468066b9.png",
     "location": "Virtual Showcase- citrine stage - 1F",
     "url": "https://www.v-market.work/v5/catalog/circle/2861",
     "twitter": [
@@ -9775,9 +9776,9 @@
   },
   "2868": {
     "circle_name": "Mafty Stallion",
-    "description": "ミティ販売ページ\nhttps://ksyzx.booth.pm/items/1949658\nセリエシオン販売ページ\nhttps://selirisia.booth.pm/items/2427373\nセリエシオンはvrcname「Rainissimo」の委託物です",
+    "description": "覆水の溜池 in Vmake\n                    \n                ミティ販売ページ\nhttps://ksyzx.booth.pm/items/1949658\nセリエシオン販売ページ\nhttps://selirisia.booth.pm/items/2427373\nセリエシオンはvrcname「Rainissimo」の委託物です",
     "icon": "https://storage.googleapis.com/vket-site-storage/uploads/circle/icon/2868/small_21a433d0-25a5-4ecc-9b7f-5eef6c920513.jpg",
-    "header": null,
+    "header": "https://storage.googleapis.com/vket-site-storage/uploads/avatar_image/image_url/17677/small_857750c8-cef0-44cb-afe7-07285d91d23c0b0760535c9ce40fdff3d104468066b9.png",
     "location": "Virtual Showcase- citrine stage - 1F",
     "url": "https://www.v-market.work/v5/catalog/circle/2868",
     "twitter": [
