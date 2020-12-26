@@ -7782,12 +7782,14 @@
   },
   "2576": {
     "circle_name": "V-Sekai",
-    "description": "私たちは、Godot Engineを利用した完全オープンソースのスタックにソーシャルVR体験をもたらしている開発者グループです。\n\nURL: https://v-sekai.org/",
+    "description": "私たちは、Godot Engineを利用した完全オープンソースのスタックにソーシャルVR体験をもたらしている開発者グループです。\n\nURL: https://v-sekai.org/\nTwitter: https://twitter.com/VSekaiOfficial",
     "icon": "https://storage.googleapis.com/vket-site-storage/uploads/circle/icon/2576/small_68893f64-2c4c-4207-bc8f-91122c95a9ba.png",
     "header": null,
     "location": "オービタル- 02 - C",
     "url": "https://www.v-market.work/v5/catalog/circle/2576",
-    "twitter": []
+    "twitter": [
+      "https://twitter.com/VSekaiOfficial"
+    ]
   },
   "2577": {
     "circle_name": "明鏡翡翠",
@@ -9778,7 +9780,7 @@
     "circle_name": "Mafty Stallion",
     "description": "覆水の溜池 in Vmake\n                    \n                ミティ販売ページ\nhttps://ksyzx.booth.pm/items/1949658\nセリエシオン販売ページ\nhttps://selirisia.booth.pm/items/2427373\nセリエシオンはvrcname「Rainissimo」の委託物です",
     "icon": "https://storage.googleapis.com/vket-site-storage/uploads/circle/icon/2868/small_21a433d0-25a5-4ecc-9b7f-5eef6c920513.jpg",
-    "header": "https://storage.googleapis.com/vket-site-storage/uploads/avatar_image/image_url/17677/small_857750c8-cef0-44cb-afe7-07285d91d23c0b0760535c9ce40fdff3d104468066b9.png",
+    "header": null,
     "location": "Virtual Showcase- citrine stage - 1F",
     "url": "https://www.v-market.work/v5/catalog/circle/2868",
     "twitter": [
