@@ -1182,7 +1182,7 @@
     "location": "Virtual Showcase- tourmaline stage - 3F",
     "url": "https://www.v-market.work/v5/catalog/circle/1716",
     "twitter": [
-      "https://twitter.com/UniMirai3D"
+      "https://twitter.com/unimi_love"
     ]
   },
   "1717": {
@@ -9156,12 +9156,14 @@
   },
   "2775": {
     "circle_name": "かね屋",
-    "description": "",
+    "description": "かね屋",
     "icon": "https://storage.googleapis.com/vket-site-storage/uploads/circle/icon/2775/small_0d40e0d9-43cb-46f0-86ad-0a8fc4f262cc.png",
     "header": null,
     "location": "祝祭のマルシェ- Day 4 - 北区1",
     "url": "https://www.v-market.work/v5/catalog/circle/2775",
-    "twitter": []
+    "twitter": [
+      "https://twitter.com/3Dkaneyasu"
+    ]
   },
   "2776": {
     "circle_name": "Shibakoma-Lab",
