@@ -1346,9 +1346,7 @@
     "header": null,
     "location": "Default Cube- DC-04 - Red-01",
     "url": "https://www.v-market.work/v5/catalog/circle/1732",
-    "twitter": [
-      "https://twitter.com/Ko10B"
-    ]
+    "twitter": []
   },
   "1733": {
     "circle_name": "アリス屋",
@@ -1980,7 +1978,7 @@
   },
   "1813": {
     "circle_name": "IW グロサリー",
-    "description": "イアンストア\n                    \n                ワールド用アイテム、アバター用アクセサリーなど",
+    "description": "IW Store\n                    \n                ワールド用アイテム、アバター用アクセサリーなど",
     "icon": "https://storage.googleapis.com/vket-site-storage/uploads/circle/icon/1813/small_944d11fa-bdbd-4f1b-99fc-63a58c3627b0.png",
     "header": "https://storage.googleapis.com/vket-site-storage/uploads/avatar_image/image_url/7882/small_8db441fe-a206-47db-9d9b-809538b72f92.png",
     "location": "オービタル- 01 - B",
