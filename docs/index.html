@@ -190,18 +190,17 @@ async function start(cacheData) {
     const circleByLocation = createCircleDictByLocation(data.circle);
 
     clearContainer('output');
-    let prevLocation = ["","",""];
+    let prevLocation = ["",""];
     let container;
     for (const location of Object.keys(circleByLocation).sort()) {
-        const sublocation = location.split(/[\s-]+/);
-        console.log(sublocation);
+        const sublocation = location.split(/\s*-\s*/);
 
-        for (let i = 0; i < 2; ++i) {
+        for (let i = 0; i < 1; ++i) {
             if (prevLocation[i] !== sublocation[i]) {
                 const subtitle = document.createElement('h'+(i+2));
                 subtitle.textContent = sublocation[i];
                 output.appendChild(subtitle);
-                if (i === 1) {
+                if (i === 0) {
                     container = document.createElement('div');
                     container.classList.add('columns');
                     output.appendChild(container);
