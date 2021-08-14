@@ -196,7 +196,7 @@ async function start(cacheData) {
         const sublocation = location.split(/\s*-\s*/);
         console.log("sublocation:", sublocation)
 
-        for (let i = 0; i < 2; ++i) {
+        for (let i = 0; i < 1; ++i) {
             if (prevLocation[i] !== sublocation[i]) {
                 const subtitle = document.createElement('h'+(i+2));
                 subtitle.textContent = sublocation[i];
