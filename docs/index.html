@@ -194,6 +194,7 @@ async function start(cacheData) {
     let container;
     for (const location of Object.keys(circleByLocation).sort()) {
         const sublocation = location.split(/[\s-]+/);
+        console.log(sublocation);
 
         for (let i = 0; i < 2; ++i) {
             if (prevLocation[i] !== sublocation[i]) {
