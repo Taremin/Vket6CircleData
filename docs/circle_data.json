@@ -1,9 +1,9 @@
 {
   "1": {
-    "circle_name": "名称未設定",
-    "description": "",
+    "circle_name": " Fennec Fridays ",
+    "description": "My exhibit features super cute fennec fox girls. They are made from scratch by me in Blender. The models featured here have been optimized for Booth - you can find the full featured models in my avatar world!\nBooth: https://sinrith.booth.pm/",
     "icon": null,
-    "header": "/_nuxt/img/no-image.7518a39.png",
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/1/e2a0e960-42ce-469b-8b54-1683b9247ba5445411faa11bc9a35686c20fbb15c3d5.png",
     "location": "カラヨル砂の詩-31",
     "url": "https://vket6.v-market.work/circle/1",
     "twitter": []
@@ -122,9 +122,9 @@
   },
   "12": {
     "circle_name": "PINK×WHITE",
-    "description": "a",
+    "description": "Vtuberなしろみいと御掬この子のブースです！\nお写真とか沢山とっていってください！",
     "icon": null,
-    "header": "/_nuxt/img/no-image.7518a39.png",
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/12/30ef59c6-0e60-48f0-9bff-cb907a5693d9203fddcdbd3f15e68ee77495fd3fcf7b.png",
     "location": "九蛇之市欲-22",
     "url": "https://vket6.v-market.work/circle/12",
     "twitter": [
@@ -468,13 +468,15 @@
     "twitter": []
   },
   "49": {
-    "circle_name": "名称未設定",
-    "description": "",
+    "circle_name": "狛津町仮想商会",
+    "description": "BOOTHにてケモノアバターを販売しております！\nhttps://ryokutyuuseki.booth.pm/",
     "icon": null,
     "header": "/_nuxt/img/no-image.7518a39.png",
     "location": "ラグーナフィオーレ-5",
     "url": "https://vket6.v-market.work/circle/49",
-    "twitter": []
+    "twitter": [
+      "https://twitter.com/ryokutyuuseki"
+    ]
   },
   "50": {
     "circle_name": "Tonkachi Caravan",
@@ -681,7 +683,7 @@
   },
   "68": {
     "circle_name": "Thurkの創造部屋",
-    "description": "物作りが趣味で、自作ロボットを制作しています。\n現実のものをベースにしてVRChat向けに小物などを自作しています　　　　　\nmy booth page:Thurkの創造部屋 https://s-thurk.booth.pm/",
+    "description": "物作りが趣味で、自作ロボットを制作しています。\n現実のものをベースにしてVRChat向けに小物などを自作しています　\n　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　\nBOOTH[Thurkの創造部屋]    https://s-thurk.booth.pm/　　　　　　　　\nfree小物類はこちらへ",
     "icon": null,
     "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/68/3677fbe6-747c-493c-9ef2-87a5bedf0dac27b92b16e97e4cf3051d4097c56576a6.png",
     "location": "カラヨル風の唄-34",
@@ -772,9 +774,9 @@
   },
   "77": {
     "circle_name": "AtelierMito",
-    "description": "PC版VRChat向け3Dオリジナルアバターの販売をしています。\nBooth https://ateliermito.booth.pm/",
+    "description": "PC版VRChat向け3Dオリジナルアバターの販売をしています。\nBooth https://ateliermito.booth.pm/\n\nTwitter:@mito3dcg",
     "icon": null,
-    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/77/e2d6fa96-b946-4cf8-a157-c266bbdf3a11d9c7c7a144f51ad1dc6a203249a57d0a.png",
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/77/33d6f0e4-72a5-40bf-acc1-77a1f3aee79e03a16873d17a09e3cb1677f94c64a0dd.png",
     "location": "ラグーナコンキリエ-12",
     "url": "https://vket6.v-market.work/circle/77",
     "twitter": [
@@ -964,10 +966,10 @@
     ]
   },
   "96": {
-    "circle_name": "名称未設定",
-    "description": "",
+    "circle_name": "Vcraft shop 『こうゆう日もいいよね』",
+    "description": "ゆうひこうが製作する3Dオリジナル素材を販売しております。\n現在はアクセサリー、靴系中心ですがいずれは人型モデルも出品していきたいと思っています。\n\nVket6の出品物は容量過多により本来の予定の半分くらいに縮小しています。\n多彩な作品はぜひともBoothよりご確認ください。",
     "icon": null,
-    "header": "/_nuxt/img/no-image.7518a39.png",
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/96/77328231-9508-4688-87e8-4fc9a8eba7c9f4da27964edb9de0b6fca06c0aed8487.PNG",
     "location": "カラヨル砂の詩-12",
     "url": "https://vket6.v-market.work/circle/96",
     "twitter": [
@@ -1392,7 +1394,7 @@
     "circle_name": "ジョルドと1技術展",
     "description": "ようこそ 私たちは、VRChatの世界が広がることを望む情熱的な2人のクリエーターです。私たちは、世界のクリエーターがより多くの人にリーチしたり、ミスを修正したりすることを容易にするツールを作成しました。",
     "icon": null,
-    "header": "/_nuxt/img/no-image.7518a39.png",
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/137/2b50b7c5-e5b1-4a82-945f-4f5746673e30ff1f763a1b1b3969e426f508ad0c4345.png",
     "location": "九蛇之市欲-17",
     "url": "https://vket6.v-market.work/circle/137",
     "twitter": [
@@ -1423,8 +1425,8 @@
     ]
   },
   "140": {
-    "circle_name": "名称未設定",
-    "description": "",
+    "circle_name": "故郷",
+    "description": "思い付きでつくったものを置いていきます。",
     "icon": null,
     "header": "/_nuxt/img/no-image.7518a39.png",
     "location": "九蛇之市執-32",
@@ -1493,10 +1495,10 @@
     ]
   },
   "147": {
-    "circle_name": "名称未設定",
-    "description": "",
+    "circle_name": "command;lost",
+    "description": "アバター制作",
     "icon": null,
-    "header": "/_nuxt/img/no-image.7518a39.png",
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/147/8cf96abd-b2ab-4e60-8e0e-983ff91390ad6fc8789d879a15674687f8901f2b34e4.png",
     "location": "ラグーナフィオーレ-14",
     "url": "https://vket6.v-market.work/circle/147",
     "twitter": []
@@ -1581,9 +1583,9 @@
   },
   "158": {
     "circle_name": "Silent's Secret Shader Facility",
-    "description": "Our group produces shaders and utilities for Unity and VRchat! \nCheck our our Discord!\nhttps://discord.gg/uHJx4g629K",
+    "description": "UnityやVRchat用のシェーダーやツールを制作しています! \n私たちのDiscordに参加できます!\nhttps://discord.gg/uHJx4g629K",
     "icon": null,
-    "header": "/_nuxt/img/no-image.7518a39.png",
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/158/96c81f45-0c8e-4bcc-b395-68c18ceca3785045ac28061aadbaa26c0d644c59e37c.jpg",
     "location": "九蛇之市執-9",
     "url": "https://vket6.v-market.work/circle/158",
     "twitter": [
@@ -1713,7 +1715,7 @@
   },
   "170": {
     "circle_name": "てぇてぇ亭",
-    "description": "個人Vサークルです。\n主な活動はSHOWROOMでの配信や、FM浦安での地上波ラジオ番組です。\n8月19日から25日まで、バーチャルフェス「エルスリー」出演権をかけたSHOWROOMでのオーディションに参加するので、ルームフォローと応援何卒よろしくお願いいたします。\nhttps://www.showroom-live.com/revorn_09_0012\n公開収録ライブ等も行っております。",
+    "description": "主な活動はSHOWROOMでの配信や、FM浦安での地上波ラジオ番組です。\nラジオの公開収録ライブ等もしてます。\nよろしくお願いします。",
     "icon": null,
     "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/170/f66535d2-194a-4d1d-82e8-ec7d7ede32bc60adc06dba5c711fbc5dbe3d4bcf10e0.jpg",
     "location": "カラヨル砂の詩-4",
@@ -1756,14 +1758,16 @@
       "https://twitter.com/shiren_193",
       "https://twitter.com/4Seasons_Clogs",
       "https://twitter.com/maidkarmaV",
-      "https://twitter.com/Inu_D0g"
+      "https://twitter.com/Inu_D0g",
+      "https://twitter.com/raikonbu",
+      "https://twitter.com/RION12055337"
     ]
   },
   "174": {
     "circle_name": "ドコカノうさぎオンデマンド",
     "description": "VTuberドコカノうさぎが提唱する #美少女棒 の本、3Dモデル、シェーダー、プログラム、グッズなどを販売しています！",
     "icon": null,
-    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/174/8dd02884-49a0-409d-a249-f239b07e333c8aaeb60365189f58424baff723252dee.png",
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/174/a12e4413-6ef7-4780-8ff2-da39eb9694f5f98e24db5a9a67484f7d9675349dc6c1.png",
     "location": "九蛇之市欲-28",
     "url": "https://vket6.v-market.work/circle/174",
     "twitter": [
@@ -2104,9 +2108,9 @@
   },
   "214": {
     "circle_name": "V-Sekai",
-    "description": "私たちは、ソーシャルVRツールや、ゲームエンジン「Godot」のプラットフォームを作る開発者チームです。\nhttps://twitter.com/vsekaiofficial",
+    "description": "私たちは、ソーシャルVRツールや、ゲームエンジン「Godot」のプラットフォームを作る開発者チームです。\nhttps://twitter.com/vsekaiofficial\nhttps://github.com/V-Sekai/\nhttps://v-sekai.org/",
     "icon": null,
-    "header": "/_nuxt/img/no-image.7518a39.png",
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/214/7b585bde-edb2-4e11-bbd7-af657dd8cf9577df9eb6c98ad9d06b090152989ac825.jpg",
     "location": "ラグーナフィオーレ-11",
     "url": "https://vket6.v-market.work/circle/214",
     "twitter": [
@@ -2151,9 +2155,9 @@
   },
   "218": {
     "circle_name": "猫印良品",
-    "description": "3Dアバター販売",
+    "description": "3Dアバターや着せ替え用衣装の展示です。\n展示物は開発中のものです。\n\n・オリジナル3Dモデル / エトワーニュ(Etoigne)\n・オリジナル3Dモデル / ラタリュール(Ratalueur)\n・エトワーニュ用衣装 / 夏服\n・ラタリュール用衣装 / 夏服",
     "icon": null,
-    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/218/b1a06ab0-9e85-498a-a6b9-7acbbaefd25fe4ad24ab534a00bf0964cf872954504b.png",
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/218/3fee5e08-e394-43e6-879a-4cb37d46c34f9adc78b00b086fff019abb5ee9b2eb6b.png",
     "location": "ラグーナコンキリエ-28",
     "url": "https://vket6.v-market.work/circle/218",
     "twitter": [
