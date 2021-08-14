@@ -2,7 +2,6 @@ name: update
 
 on:
   workflow_dispatch:
-    branches: [ master ]
   schedule:
     - cron: '0 19 * * *' # JST 04:00
 
