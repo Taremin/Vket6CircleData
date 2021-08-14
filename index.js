@@ -141,7 +141,7 @@ async function start() {
             world_urls = require('./docs/world_urls.json');
             break;
         default:
-            world_urls = uniq(await get_world_url(url));
+            world_urls = uniq(await get_world_urls(url));
             /*
             world_base_urls = uniq(await get_world_base_url(url));
             world_urls = []
