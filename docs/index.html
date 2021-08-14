@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Vket5サークルをTwitterのフォロー・非フォローから探す</title>
+    <title>Vket6サークルをTwitterのフォロー・非フォローから探す</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="description" content="">
     <meta name="keywords" content="">
@@ -225,15 +225,12 @@ async function start(cacheData) {
             }
 
             const tmp = show.map((tw)=> `<figure class="avatar avatar-x1"><a href="https://twitter.com/${tw.screen_name}"><img src=${tw.profile_image_url_https} title="${tw.name}"/></a></figure>`).join(' ');
-            const header_image = info.header ? `style="background-image: url('${info.header}'); background-size: cover;"` : "";
+            const header_image = (info.header && info.header[0] !== '/') ? `style="background-image: url('${info.header}'); background-size: cover;"` : "";
             circle.innerHTML = `
                 <div class="column col-3 card circle-card">
                   <div class="card-header circle-header" ${header_image}>
                     <div style="background-color: rgba(0,0,0,0.5)">
                         <div class="card-title h5 outline-character">
-                        <figure class="avatar avatar-xl circle-icon">
-                            <img src="${info.icon}" style="object-fit: cover;"/>
-                        </figure>
                         <span class="circle-name" title="${info.circle_name}"><a href="${info.url}">${info.circle_name}</a></span>
                         </div>
                     </div>
