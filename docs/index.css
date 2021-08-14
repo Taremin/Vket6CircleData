@@ -3,6 +3,10 @@
 }
 
 a, a:visited {
+    color: #000;
+}
+
+.circle-name > a, .circle-name > a:visited {
     color: #fff;
 }
 
