@@ -18,6 +18,7 @@ a, a:visited {
     -webkit-box-orient: vertical;
     line-clamp: 2;
     -webkit-line-clamp: 2;
+    padding-top: 1rem;
 }
 
 .circle-description {
@@ -28,7 +29,6 @@ a, a:visited {
     -webkit-box-orient: vertical;
     line-clamp: 3;
     -webkit-line-clamp: 3;
-    padding-top: 1rem;
 }
 
 .circle-icon {
