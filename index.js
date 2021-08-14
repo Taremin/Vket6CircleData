@@ -47,15 +47,15 @@ async function get_links(url, re) {
 }
 
 async function get_world_base_url(index_url) {
-    return await get_links(index_url, '^/catalog/world/(\\d+)(\\?.*)$');
+    return await get_links(index_url, '^/catalog/(\\d+)(\\?.*)$');
 }
 
 async function get_world_urls(index_url) {
-    return await get_links(index_url, '^/catalog/world/(\\d+)/(\\d+)(\\?.*)$');
+    return await get_links(index_url, '^/catalog/(\\d+)/(\\d+)(\\?.*)$');
 }
 
 async function get_circle(url) {
-    return await get_links(url, '^/catalog/circle/(\\d+)$');
+    return await get_links(url, '^/circle/(\\d+)$');
 }
 
 async function get_circle_info(url) {
@@ -77,19 +77,22 @@ async function get_circle_info(url) {
     const pattern = new RegExp(re);
 
     // circle name
-    const name = cheerioDoc('.circle-card__circle_name').text().replace(/\n +/g, '');
+    const name = cheerioDoc('.ht-circle-detail-header__text').text().replace(/\n +/g, '');
 
     // description
-    const description = cheerioDoc('.circle-card__about').text().replace(/^\s*/, '').replace(/\s*$/, '');
+    const description = cheerioDoc('.ht-circle-detail-top__description').text().replace(/^\s*/, '').replace(/\s*$/, '');
 
     // icon
+    let icon = null;
+    /*
     let icon = cheerioDoc('img.circle-card__icon')[0].attribs['src'];
     if (icon.slice(0, 1) === '/') {
         icon = urljoin(new URL(url).origin, icon);
     }
+    */
 
     // header
-    let header = cheerioDoc('img.circle-card__header-image');
+    let header = cheerioDoc('img.ht-circle-detail-header__image');
     if (!header[0]) {
         header = null;
     } else {
@@ -97,7 +100,7 @@ async function get_circle_info(url) {
     }
 
     // location
-    const location = cheerioDoc('.circle-card__section').text().replace(/\n +/g, '');
+    const location = cheerioDoc('.ht-circle-detail-top__caption').text().replace(/\n +/g, '');
 
     // twitter link
     const twitter = [];
@@ -105,7 +108,8 @@ async function get_circle_info(url) {
         const href = link[i].attribs['href'];
         const split = href.split('?')
         const screenName = path.basename(split[0]);
-        if (href && pattern.test(href) && screenName !== 'Virtual_Market_') {
+        if (href && pattern.test(href) && screenName !== 'Virtual_Market_' && screenName !== 'tweet') {
+            console.log("ScreenName:", screenName);
             twitter.push(href);
         }
     });

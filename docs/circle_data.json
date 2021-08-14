@@ -1,1 +1,2186 @@
-{}
+{
+  "1": {
+    "circle_name": "名称未設定",
+    "description": "",
+    "icon": null,
+    "header": "/_nuxt/img/no-image.7518a39.png",
+    "location": "カラヨル砂の詩-31",
+    "url": "https://vket6.v-market.work/circle/1",
+    "twitter": []
+  },
+  "2": {
+    "circle_name": "ららるーとわびさびのキャラバン",
+    "description": "ブース1階『プロメ亭』VRoidの服や3Dモデルを取り扱うショップです。\nブース屋根の上『わびさびハム屋』VRChatなどを便利にするアプリを取り扱うショップです。",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/2/d5b0b63e-66ea-45fe-9d61-1f6cfcc1793ca52013a67148e45e35193b5984d17bb2.png",
+    "location": "カラヨル風の唄-11",
+    "url": "https://vket6.v-market.work/circle/2",
+    "twitter": [
+      "https://twitter.com/LalaluuVR",
+      "https://twitter.com/WabisabiApp"
+    ]
+  },
+  "3": {
+    "circle_name": "ワールド工房ゆーれい",
+    "description": "VRChat向けの家具を販売しています。",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/3/e2e3a5e6-7366-484d-beaa-d57fae0e7381c24bdcee6a32bf7edf5c0f22cf09659e.png",
+    "location": "ラグーナコンキリエ-1",
+    "url": "https://vket6.v-market.work/circle/3",
+    "twitter": [
+      "https://twitter.com/X303_"
+    ]
+  },
+  "4": {
+    "circle_name": "ソフトからん",
+    "description": "オリジナル３Dアバター「ラフィ」販売中！\nBOOTH\nhttps://softkaran.booth.pm/items/3193394\nTwitter\nソフトからん\n@SoftKaran",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/4/43e7e4d3-c695-4c26-8271-bb36ac48dd8a2fe90f7363e62c914331b812c90ee14d.jpg",
+    "location": "九蛇之市欲-3",
+    "url": "https://vket6.v-market.work/circle/4",
+    "twitter": [
+      "https://twitter.com/SoftKaran"
+    ]
+  },
+  "5": {
+    "circle_name": "東京アザラシセンター",
+    "description": "東京アザラシセンターへようこそ！\n帽子の試着ギミックで遊べます。\n帽子は全15種類、色々切り替えてお気に入りを見つけてください。\n\nギミック協力　sandman\nシェーダー協力　enfutu",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/5/a29a963e-b480-4489-a26f-0c706c57b55cfe275776c42d0a23235e464afe16ca7f.png",
+    "location": "ラグーナフィオーレ-4",
+    "url": "https://vket6.v-market.work/circle/5",
+    "twitter": [
+      "https://twitter.com/sandman73773941"
+    ]
+  },
+  "6": {
+    "circle_name": "ヒヨ家日和",
+    "description": "変形機構搭載の武器や、翼などを展示しています。",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/6/bd5eb37a-ee0f-465c-9f97-4a5d2598b5157727ac327a53d1bf7e460a0556d74b53.png",
+    "location": "カラヨル風の唄-15",
+    "url": "https://vket6.v-market.work/circle/6",
+    "twitter": [
+      "https://twitter.com/Hiyo_4tweetECO"
+    ]
+  },
+  "7": {
+    "circle_name": "TatshMusicCircle",
+    "description": "TatshMusicCircle（タッシュミュージックサークル）は\n音楽ゲームへの楽曲提供やVRDJとして活動しているTatshが主催するサークルとなります。\n今回はVRChatで使用可能な3Dアクセサリー&バッチのセットや\n夏をテーマにした楽曲をタイトル曲としたデジタル音楽アルバム「SummerLiberation」を販売します。\nホロライブ所属の人気Vtuberアキ・ローゼンタールや朝ノ姉妹ぷろじぇくとをゲストに迎えた音楽アルバムもありますので\nぜひ、試聴動画を見てください",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/7/7e0fe33e-55a9-4caa-91fc-7e4b1cd4418ccb0b32b3e23204caa9fc2d57c366a0d8.jpg",
+    "location": "カラヨル風の唄-32",
+    "url": "https://vket6.v-market.work/circle/7",
+    "twitter": [
+      "https://twitter.com/tatsh_shimizu",
+      "https://twitter.com/tatshshimizu"
+    ]
+  },
+  "8": {
+    "circle_name": "S.WORKS",
+    "description": "BoothにてVRChat向けアバターの衣装を販売しております。\nhttps://sworks.booth.pm/",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/8/1a8be857-5edc-42ec-9e15-75f29e5b0bc4e824ba80b33e77f776484f4916aed813.png",
+    "location": "ラグーナフィオーレ-23",
+    "url": "https://vket6.v-market.work/circle/8",
+    "twitter": [
+      "https://twitter.com/sinkunvv"
+    ]
+  },
+  "9": {
+    "circle_name": "名称未設定",
+    "description": "",
+    "icon": null,
+    "header": "/_nuxt/img/no-image.7518a39.png",
+    "location": "九蛇之市執-19",
+    "url": "https://vket6.v-market.work/circle/9",
+    "twitter": [
+      "https://twitter.com/bluegua"
+    ]
+  },
+  "10": {
+    "circle_name": "白猫通りのナギ亭",
+    "description": "VRChat想定の3Dアバターや衣装、小物モデルなどを販売しています。アバターはすべてVRM同封なので他のサービスにも使用できます♪\n\nショップのタグは「#ナギ亭」です♪タグつかってツイートしてくれると反応できるのでよろしくおねがいします✨",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/10/5fa1fd49-68af-465b-a3d6-b5cc354a458f527b1e42b0c576f653ed370b524bfa9a.png",
+    "location": "ラグーナコンキリエ-24",
+    "url": "https://vket6.v-market.work/circle/10",
+    "twitter": [
+      "https://twitter.com/NagiRevere"
+    ]
+  },
+  "11": {
+    "circle_name": "緑風のアトリエ　～ForestWind～",
+    "description": "モフモフしたものが多いけどもモフ以外も描けるし作れる。…が、需要の都合モフが多いショップです。\n\nボリュームたっぷり揺れ物設定済みアバターが沢山ですので是非ダイナミックボーンを買って揺れを楽しんでください。\n\nアバターはユニティちゃんトゥーンシェーダー2.0とダイナミックボーンを入れてからご利用ください。\n\nアバターや絵、デザインの依頼承ります。\n依頼用ディスコード：https://discord.gg/D2WSEmn",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/11/006ffe12-3c9f-4f21-853c-045b86fac680ce2edc8725648a328728b551bd46d649.png",
+    "location": "ラグーナフィオーレ-21",
+    "url": "https://vket6.v-market.work/circle/11",
+    "twitter": [
+      "https://twitter.com/gennyuudousi"
+    ]
+  },
+  "12": {
+    "circle_name": "PINK×WHITE",
+    "description": "a",
+    "icon": null,
+    "header": "/_nuxt/img/no-image.7518a39.png",
+    "location": "九蛇之市欲-22",
+    "url": "https://vket6.v-market.work/circle/12",
+    "twitter": [
+      "https://twitter.com/konoko_okome"
+    ]
+  },
+  "13": {
+    "circle_name": "退魔師の工房",
+    "description": "武器や小物等を展示しています。\n扉の封印を破って中にある物を手に取ってもらえると幸いです。",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/13/5299cbf3-671d-4d19-ac5f-75755a8fab5ef79468b9be127d0c8dbf357f8602e484.png",
+    "location": "カラヨル砂の詩-1",
+    "url": "https://vket6.v-market.work/circle/13",
+    "twitter": [
+      "https://twitter.com/mirabelle_VT"
+    ]
+  },
+  "14": {
+    "circle_name": "Dust_en(ダストイーエヌ)",
+    "description": "VRoid男性モデル向けの服テクスチャ専門店です。\n現代風、普段着として使えるテクスチャを中心に、ヘアプリセットやボディテクスチャなども一部取り扱っています。\n羅生門ツールやキセテネを使えばVRoid以外のモデルでも着用が可能です。\nメンズの普段着にお困りの方は、ぜひお立ち寄りください。\n\n【オンライン利用規約】\n\nhttps://tomatoma326.wixsite.com/dusten/kiyaku",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/14/2268f856-c155-47b4-8a04-b243a68a869f7c695b17dedc5a4218ec02c9f12e4dce.png",
+    "location": "九蛇之市執-36",
+    "url": "https://vket6.v-market.work/circle/14",
+    "twitter": [
+      "https://twitter.com/kzakt_fujisaki"
+    ]
+  },
+  "15": {
+    "circle_name": "和牛先生の教科書",
+    "description": "CG制作に役立つ電子書籍を販売しています。\n今回の新商品は、VRワールド制作の入門書をご用意しました。\nブースはワールド制作の雰囲気を体験していただけるマシーンとなっています。ぜひお楽しみ下さい！\nhttps://blender.booth.pm/\n作例ワールド\nhttps://vrchat.com/home/world/wrld_a07119cb-3f94-4736-b1ba-631db305e96a",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/15/0b5ea047-1821-4495-bb5b-1bc3735e77a893e553c12ff73cb0f49a8880f75303ac.png",
+    "location": "九蛇之市欲-27",
+    "url": "https://vket6.v-market.work/circle/15",
+    "twitter": [
+      "https://twitter.com/3dcganimation"
+    ]
+  },
+  "17": {
+    "circle_name": "ロックアウトインダストリーズ",
+    "description": "ストリート系やハードサーフェスを主に取り扱いしています。\nまた、コミッションにも対応しておりますのでお気軽にご連絡ください。",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/17/de8d20c2-73b3-46f6-a1be-d1f078bb836f3d54e6c01ee0c090e74acc4739b1e451.png",
+    "location": "カラヨル風の唄-1",
+    "url": "https://vket6.v-market.work/circle/17",
+    "twitter": [
+      "https://twitter.com/ZZICONN"
+    ]
+  },
+  "18": {
+    "circle_name": "南北造形所",
+    "description": "自作の３Ｄモデリングをしています。\n人物・機械・人物・ワールド作成等ご相談下さい。",
+    "icon": null,
+    "header": "/_nuxt/img/no-image.7518a39.png",
+    "location": "九蛇之市執-3",
+    "url": "https://vket6.v-market.work/circle/18",
+    "twitter": [
+      "https://twitter.com/minami_kitano"
+    ]
+  },
+  "19": {
+    "circle_name": "かぷちや",
+    "description": "アバターやアバター衣装制作、販売でみなさんのバーチャルでの活動をより豊かにします！",
+    "icon": null,
+    "header": "/_nuxt/img/no-image.7518a39.png",
+    "location": "ラグーナコンキリエ-35",
+    "url": "https://vket6.v-market.work/circle/19",
+    "twitter": []
+  },
+  "20": {
+    "circle_name": "Augmented Dolls",
+    "description": "球体関節人形アバター専門店",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/20/520ec116-962d-4ae3-886a-31ef11eac59d1acef7c0e7723c2e8c9391493e80de84.png",
+    "location": "ラグーナフィオーレ-32",
+    "url": "https://vket6.v-market.work/circle/20",
+    "twitter": [
+      "https://twitter.com/nao_minty"
+    ]
+  },
+  "21": {
+    "circle_name": "フォアガトンナイトメア",
+    "description": "悪夢の世界をバーチャルへ。フェリエッタの見る明晰夢を基にしたオリジナルナイトメア。VRoidテクスチャ、3Dモデル、アバター等を販売しています。\nWEB:http://forgotten-nightmare.com/   \nTwitter:https://twitter.com/FELIETTA_LURU   \nBOOTH:https://nightmareshop.booth.pm/",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/21/c9eb43d2-fa48-4d84-8083-fab04d576380210fbaa39953a9622ded5ec8873a8182.png",
+    "location": "九蛇之市執-17",
+    "url": "https://vket6.v-market.work/circle/21",
+    "twitter": [
+      "https://twitter.com/FELIETTA_LURU",
+      "https://twitter.com/gore_mask"
+    ]
+  },
+  "22": {
+    "circle_name": "ロジウラキッサ",
+    "description": "VRC向けのファンタジー風アバターをメインに、衣装や小物を販売しています。\nお買い求めの際は各商品ページもしくは以下のURLからどうぞ。\n(https://rojiura-cafe.booth.pm/)",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/22/5e454309-38a8-4b3a-8fe9-143a9166367c497efc7746bacea7c30dd9e7258ac97c.png",
+    "location": "ラグーナフィオーレ-8",
+    "url": "https://vket6.v-market.work/circle/22",
+    "twitter": [
+      "https://twitter.com/zefutefu"
+    ]
+  },
+  "23": {
+    "circle_name": "リノールのワールド・どうぶつ雑貨店",
+    "description": "VRChat向けのワールドデータを販売しています。\nシティホテルの最上階、海辺の別荘、そらの別荘など。\nテディベアなどのアクセサリもあります。",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/23/20b53d4b-1e9a-489c-8b1b-132f3c49c82d789c5c9e24e19ff330a2de0c4db81dda.png",
+    "location": "カラヨル風の唄-28",
+    "url": "https://vket6.v-market.work/circle/23",
+    "twitter": [
+      "https://twitter.com/F_Linoal"
+    ]
+  },
+  "24": {
+    "circle_name": "アノマロ工房",
+    "description": "ギミック満載な女の子アバターを中心にメカアバターや背景モデルも作っています。",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/24/2f31b7de-2ec7-45fb-bc74-bdd623cac0ae73fb5b2c14ae139184b3134c96dbd8cf.jpg",
+    "location": "九蛇之市執-35",
+    "url": "https://vket6.v-market.work/circle/24",
+    "twitter": [
+      "https://twitter.com/anomarokarintou"
+    ]
+  },
+  "25": {
+    "circle_name": "ming ming",
+    "description": "今年４月から３Dモデルの制作を始めました。\nまだまだつたない技術ではありますが、毎日楽しんでモデルの制作をしています。\n今回初めてのブース制作をとても楽しめて良かったです。\n\n昨年子供が生まれ慣れない子育てに奮闘しながら、早朝子どもが寝ている間に制作をしています。\n自分の子供のようにかわいいモデルを制作できたらと思い、お腹の中に居たときに子供につけていた名前「ミンミン」をブランド名としました。\n\n同じように制作を楽しんでいる方とSNSなどで仲良くしていただけたらと思っています。\n是非気楽にお声がけください。",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/25/c35706c4-ac42-41b0-9257-da897fb6ac1be68a4a7ad67773ae03920f98bba1ee9e.png",
+    "location": "ラグーナフィオーレ-36",
+    "url": "https://vket6.v-market.work/circle/25",
+    "twitter": [
+      "https://twitter.com/yasu410s"
+    ]
+  },
+  "26": {
+    "circle_name": "くまきち商店ワークス",
+    "description": "しえら が作成したアバターを販売する個人サークルです。",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/26/3ed7a232-75d6-42ff-8890-8b10a0879ca3c490aa8bea59c2b3732bcd9c467483bc.jpg",
+    "location": "カラヨル砂の詩-30",
+    "url": "https://vket6.v-market.work/circle/26",
+    "twitter": [
+      "https://twitter.com/super_sierra"
+    ]
+  },
+  "27": {
+    "circle_name": "ROROROROOM",
+    "description": "当サークルでは「日常」をテーマにした作品を創作しています！",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/27/ece3e0b6-84ed-45ba-aeaf-acebfe743b2c2d6882e460f15403acbf748b66d5a0ca.png",
+    "location": "ラグーナフィオーレ-1",
+    "url": "https://vket6.v-market.work/circle/27",
+    "twitter": [
+      "https://twitter.com/rororo_takasiro"
+    ]
+  },
+  "28": {
+    "circle_name": "NOT FOUND",
+    "description": "kame404と_mo_mo_のふたりサークルです",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/28/ec7ae5b4-fab7-4cc0-a218-e9f28bfe05b78890f22eba347090ca12dd132ddcf5d6.png",
+    "location": "ラグーナフィオーレ-27",
+    "url": "https://vket6.v-market.work/circle/28",
+    "twitter": [
+      "https://twitter.com/kame404"
+    ]
+  },
+  "29": {
+    "circle_name": "HidekiVCast by Hideki Saito",
+    "description": "HidekiVCastは通常の配信活動にとどまらず、以下のような活動を通じVRをより豊かで、楽しいものにすることを目指し、活動しております。\n\n「VR as a Lifestyle」活動 /  バーチャル配信活動 / VRに関するコンテンツ開発 / 文化交流活動 / 技術開発活動",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/29/fb704462-1a04-41b0-8fb2-81332b20aeaefa1d4846d7cccba1d3978da6088bb096.png",
+    "location": "ラグーナコンキリエ-36",
+    "url": "https://vket6.v-market.work/circle/29",
+    "twitter": [
+      "https://twitter.com/hideki"
+    ]
+  },
+  "30": {
+    "circle_name": "トマリギ",
+    "description": "サークル代表のきのえだが自分の性癖に素直な\nアバターや服等を制作しております。",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/30/5e13958b-1c11-4ead-b217-df99cb30e18f8d5268a9dc4fa8f289cd8fe78ff20d01.png",
+    "location": "九蛇之市執-13",
+    "url": "https://vket6.v-market.work/circle/30",
+    "twitter": []
+  },
+  "32": {
+    "circle_name": "チクワモナダイト",
+    "description": "主にホビーロボットアバターの製作、販売を行っております。",
+    "icon": null,
+    "header": "/_nuxt/img/no-image.7518a39.png",
+    "location": "九蛇之市欲-4",
+    "url": "https://vket6.v-market.work/circle/32",
+    "twitter": [
+      "https://twitter.com/madorima"
+    ]
+  },
+  "33": {
+    "circle_name": "NORIBEN LUNCH -のりべん専門店-",
+    "description": "UnityやVRChat・cluster等で使えるシェーダーやパーティクルを販売しています。\nTwitter: http://twitter.com/noriben327",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/33/8ea6f1e0-c9c6-42ad-a0e9-c95ee1aa57277802f391c064f446205c6b5e50a76811.png",
+    "location": "ラグーナコンキリエ-13",
+    "url": "https://vket6.v-market.work/circle/33",
+    "twitter": [
+      "https://twitter.com/noriben327"
+    ]
+  },
+  "35": {
+    "circle_name": "yikashop",
+    "description": "yikashop",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/35/1824faf0-09e6-4299-a51d-2025cc6737c9ca2c3633469cd4973eb5bb5c6d709341.png",
+    "location": "九蛇之市欲-23",
+    "url": "https://vket6.v-market.work/circle/35",
+    "twitter": []
+  },
+  "36": {
+    "circle_name": "BirdStrike",
+    "description": "Udonギミックや同人ゲームの配布を行っています。\n\nVket6の期間中は下記サークルの委託展示を行っています。\n- ゴールデン商会 https://goldentakasan.booth.pm/ \n- DEADFACTORY https://deadfactory.booth.pm/",
+    "icon": null,
+    "header": "/_nuxt/img/no-image.7518a39.png",
+    "location": "ラグーナフィオーレ-6",
+    "url": "https://vket6.v-market.work/circle/36",
+    "twitter": [
+      "https://twitter.com/toRisouP"
+    ]
+  },
+  "37": {
+    "circle_name": "Capt's Bizaare",
+    "description": "私が作るシンプルなモデルを配るためのちょうどスポット。\n\n(私の貧しい日本人のために申し訳ありません)",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/37/bd6b28d5-9461-43f4-bd01-7202c207581f883ecb477de8d88e8677dfb73cc5f37e.png",
+    "location": "カラヨル風の唄-30",
+    "url": "https://vket6.v-market.work/circle/37",
+    "twitter": []
+  },
+  "38": {
+    "circle_name": "ねむみちゃんかわいいショップ",
+    "description": "3Dモデラーのねむみが、欲しいなぁと思ったものを作って販売します！\nとってもかわいいくまちゃんリュック販売中❤",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/38/ba81368c-3221-4b61-8bd3-924a5a33875c0bdd8656fef3793280e04c704b943a63.png",
+    "location": "九蛇之市執-15",
+    "url": "https://vket6.v-market.work/circle/38",
+    "twitter": []
+  },
+  "39": {
+    "circle_name": "赤井夕のお店",
+    "description": "赤井 夕のBOOTHです。\n商品化希望等のコンタクトがあれば検討しますのでメッセージ等でお伝えください。\n\nTwitter 　：　https://twitter.com/XXakai_youXX\nWEB　：　https://akaiyou.wixsite.com/xxakayouxx\nBOOTH：　https://akaiyou.booth.pm/\nE-mail　：　o0akaiyou0o◎yahoo.co.jp　（◎を@に変えて送って下さい。）",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/39/5183b68e-8c4b-4559-9717-32f13539919124cfccd0da28c68a77e44ab0a912900a.png",
+    "location": "九蛇之市欲-15",
+    "url": "https://vket6.v-market.work/circle/39",
+    "twitter": [
+      "https://twitter.com/XXakai_youXX"
+    ]
+  },
+  "40": {
+    "circle_name": "美作メカ美の台所",
+    "description": "はい、「美作メカ美(みまさかめかみ)の台所」へようこそ。読みづらくてすみません。\nこちらではVRChat/cluster対応アバターを頒布しています。",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/40/2cd51b1b-efe1-40a6-9885-c9ab7695cd4e66a2a7b7e74d14c0bde879b5d1797239.jpg",
+    "location": "ラグーナコンキリエ-34",
+    "url": "https://vket6.v-market.work/circle/40",
+    "twitter": [
+      "https://twitter.com/afolyte"
+    ]
+  },
+  "41": {
+    "circle_name": "名称未設定",
+    "description": "",
+    "icon": null,
+    "header": "/_nuxt/img/no-image.7518a39.png",
+    "location": "九蛇之市執-18",
+    "url": "https://vket6.v-market.work/circle/41",
+    "twitter": []
+  },
+  "42": {
+    "circle_name": "仮想Voidcat",
+    "description": "色んなタイプの可愛い女の子お作りたいサークルです",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/42/78bff4eb-4b9e-4aa6-a790-ffd4bb5ec426cc45a27b360d862760cbf3b4c0faacd0.png",
+    "location": "ラグーナフィオーレ-19",
+    "url": "https://vket6.v-market.work/circle/42",
+    "twitter": [
+      "https://twitter.com/yueou"
+    ]
+  },
+  "43": {
+    "circle_name": "ファンタズムワークショップ",
+    "description": "ゼロから何かを作るのはかなり新しいので、疑わしい品質のモデルやものを作るPhantasm Workshopへようこそ。",
+    "icon": null,
+    "header": "/_nuxt/img/no-image.7518a39.png",
+    "location": "九蛇之市執-30",
+    "url": "https://vket6.v-market.work/circle/43",
+    "twitter": [
+      "https://twitter.com/EinzelnD"
+    ]
+  },
+  "45": {
+    "circle_name": " KINAKODOUHU",
+    "description": "新作オリジナルアバターの展示と試着など",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/45/9bd80f62-a344-490f-aecb-a5c97bce1371ed37765577f626aa5ce23c765ca3da30.png",
+    "location": "ラグーナコンキリエ-29",
+    "url": "https://vket6.v-market.work/circle/45",
+    "twitter": []
+  },
+  "46": {
+    "circle_name": "Days",
+    "description": "アバターの服を作るDaysです。Have a nice Days",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/46/94e96e88-c4f6-4193-837b-01146a828217ec122c19a089f706b7d87d8254c2d1de.png",
+    "location": "ラグーナコンキリエ-8",
+    "url": "https://vket6.v-market.work/circle/46",
+    "twitter": [
+      "https://twitter.com/aise_etc",
+      "https://twitter.com/VRC_YONI"
+    ]
+  },
+  "47": {
+    "circle_name": "名称未設定",
+    "description": "",
+    "icon": null,
+    "header": "/_nuxt/img/no-image.7518a39.png",
+    "location": "九蛇之市欲-16",
+    "url": "https://vket6.v-market.work/circle/47",
+    "twitter": []
+  },
+  "48": {
+    "circle_name": "黒鳥ケモノ工房",
+    "description": "VKetの通常ブースでUdonが使えるようになったので、キャラクターを撫でられる機能を実装してみました。\nBoothURL：https://kurotori.booth.pm/",
+    "icon": null,
+    "header": "/_nuxt/img/no-image.7518a39.png",
+    "location": "ラグーナフィオーレ-3",
+    "url": "https://vket6.v-market.work/circle/48",
+    "twitter": []
+  },
+  "49": {
+    "circle_name": "名称未設定",
+    "description": "",
+    "icon": null,
+    "header": "/_nuxt/img/no-image.7518a39.png",
+    "location": "ラグーナフィオーレ-5",
+    "url": "https://vket6.v-market.work/circle/49",
+    "twitter": []
+  },
+  "50": {
+    "circle_name": "Tonkachi Caravan",
+    "description": "VRoid系のアバターや衣装、テクスチャなどを販売します。",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/50/2e24d2bd-60a2-448b-8914-1532578a5a8558c13fd6a801fef2a72faccd046a0bf9.png",
+    "location": "カラヨル風の唄-12",
+    "url": "https://vket6.v-market.work/circle/50",
+    "twitter": [
+      "https://twitter.com/Torin1911"
+    ]
+  },
+  "51": {
+    "circle_name": "Flower Of Good",
+    "description": "VRChatで3Dモデルを作るデザイナー。ギミックの詰まったユニークなモデルを作っています！シャツなどの物販もしております。ぜひ興味のある方はTwitterで＠Flowergoodyesのlinktreeから飛べます！",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/51/ad21c7ee-5818-4866-9c06-ec91b259265f008dd948aa089be9990c013159c546d0.png",
+    "location": "九蛇之市欲-35",
+    "url": "https://vket6.v-market.work/circle/51",
+    "twitter": [
+      "https://twitter.com/FlowerGoodYes"
+    ]
+  },
+  "52": {
+    "circle_name": "名称未設定",
+    "description": "",
+    "icon": null,
+    "header": "/_nuxt/img/no-image.7518a39.png",
+    "location": "ラグーナフィオーレ-20",
+    "url": "https://vket6.v-market.work/circle/52",
+    "twitter": [
+      "https://twitter.com/antenakoubou"
+    ]
+  },
+  "53": {
+    "circle_name": "AAA",
+    "description": "AAA",
+    "icon": null,
+    "header": "/_nuxt/img/no-image.7518a39.png",
+    "location": "ラグーナコンキリエ-7",
+    "url": "https://vket6.v-market.work/circle/53",
+    "twitter": []
+  },
+  "54": {
+    "circle_name": "我楽多屋Wizdom",
+    "description": "がらくた級の３Ｄモデルデータを、頒布していく、我楽多屋Wizdomでございます。今回、合同出展になります。頒布物は、下記になります。\n(1) 真空管アンプ製作に便利な電子基板のGBRファイルの頒布\n(2) Unityで使えるツール類（ステレオ視、シェーダ、等）\n(3) 小物（真空管チェッカ、真空管）の3Dモデルの頒布\n(4) リアルな小物（缶バッジ、ピンバッチ、等）の販売",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/54/bb5d0038-ae28-49dd-8c56-16a665a90b0b3820355e1e3e2bed2eb24dae40f333bb.png",
+    "location": "カラヨル砂の詩-15",
+    "url": "https://vket6.v-market.work/circle/54",
+    "twitter": [
+      "https://twitter.com/suna_vrc",
+      "https://twitter.com/LCia001_LKA",
+      "https://twitter.com/kurikin_vrc",
+      "https://twitter.com/Nakayoshikawa_v",
+      "https://twitter.com/BigVinegar"
+    ]
+  },
+  "55": {
+    "circle_name": "ホワイトワグテイル",
+    "description": "ホワイトワグテイル製アバター各種及び3Dモデル、衣装テクスチャ、漫画等を販売しております。",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/55/c572d4eb-84ea-44d7-a4a8-6b67ee17576bd4be1211e95ea39006216e79814b316f.png",
+    "location": "ラグーナコンキリエ-15",
+    "url": "https://vket6.v-market.work/circle/55",
+    "twitter": []
+  },
+  "56": {
+    "circle_name": "のらんコーポレーション",
+    "description": "VRCHAT向けオリジナルアバターくりねこちゃん、ももねこちゃん、QUEST対応あいねこくんの販売\nぬいぐるみ無料配布\n展示中のしろがねこちゃんは現在制作中です！\n\nbooth  https://noranjp.booth.pm/\ntwitter  https://twitter.com/noran256\nhttps://www.v-market.work/ec/shops/665/detail/",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/56/e54ef7f3-b11a-4b6d-b63c-b304f75fc7762ee45b7626d8a9c757b5567718d6ceef.png",
+    "location": "カラヨル砂の詩-19",
+    "url": "https://vket6.v-market.work/circle/56",
+    "twitter": []
+  },
+  "57": {
+    "circle_name": "名称未設定",
+    "description": "",
+    "icon": null,
+    "header": "/_nuxt/img/no-image.7518a39.png",
+    "location": "カラヨル風の唄-25",
+    "url": "https://vket6.v-market.work/circle/57",
+    "twitter": []
+  },
+  "58": {
+    "circle_name": "まったりモデリング部",
+    "description": "ふざけたりお酒飲んだりしつつ、時々まったりモデリングしてます。",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/58/c2a392e7-140d-4e57-8374-7adc7582851a6bc522ed8cd2f84ad7e72fc3fbdf772c.png",
+    "location": "カラヨル風の唄-22",
+    "url": "https://vket6.v-market.work/circle/58",
+    "twitter": [
+      "https://twitter.com/owliorin",
+      "https://twitter.com/naorou39",
+      "https://twitter.com/crest774",
+      "https://twitter.com/moyashino_VR",
+      "https://twitter.com/Nyataro_vr",
+      "https://twitter.com/Liu_lll",
+      "https://twitter.com/__tatamo__"
+    ]
+  },
+  "59": {
+    "circle_name": "ダイダロス重工業",
+    "description": "VRChat向けの武器や、アバター用衣装などを販売しています！",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/59/da6bd046-a916-4537-b951-88569979a415e161d40edf76f52ff2956edc3f1f235e.jpg",
+    "location": "ラグーナコンキリエ-22",
+    "url": "https://vket6.v-market.work/circle/59",
+    "twitter": [
+      "https://twitter.com/tr96c_thor"
+    ]
+  },
+  "60": {
+    "circle_name": "ちま屋",
+    "description": "ゆる動物アバターや、ファンタジー、お花などのアイテムを作っています。\n\n販売サイト「ちま屋」\nhttps://chimaya.booth.pm/\n\nVRChat World のバーチャルショップ「ChimayaForest」では\nすべてのアクセサリーがお試しできます。",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/60/44f37127-8a59-416e-8471-da6563dca193e968822bc8cbdc4c4f50c2518f813013.png",
+    "location": "カラヨル砂の詩-34",
+    "url": "https://vket6.v-market.work/circle/60",
+    "twitter": [
+      "https://twitter.com/ha_ru_u"
+    ]
+  },
+  "61": {
+    "circle_name": "テルキ堂",
+    "description": "5色の鬼達がついに集合！\n巻物に描かれた絵を調べてみるとその姿を見られるかも！？\n九蛇之市を様々な鬼が闊歩して目指せバーチャル百鬼夜行！",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/61/30eee349-6350-4230-9141-f2eb53e64fe31d4723d7bcfdad2fea5f5e17011844a4.png",
+    "location": "九蛇之市欲-2",
+    "url": "https://vket6.v-market.work/circle/61",
+    "twitter": [
+      "https://twitter.com/terukidou"
+    ]
+  },
+  "62": {
+    "circle_name": "Seapon Factory",
+    "description": "しーぽんとセアきゃっとが作成したボクセルアバター等の３Dモデルを配布・販売しております。\nセアきゃっとはノラネコP様に収益化の許可を個別に頂いております。 ©️のらきゃっとチャンネル　https://www.youtube.com/channel/UC3iwL9Yz8LcKkJsnLPevOTQ",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/62/5e801632-7a61-4580-9509-0b63df3af24c76036b9a685859360c84a5a248b6fc98.png",
+    "location": "カラヨル風の唄-31",
+    "url": "https://vket6.v-market.work/circle/62",
+    "twitter": []
+  },
+  "63": {
+    "circle_name": "Popping Leek",
+    "description": "ねぎがとびはねる「Popping Leek」のお店です。\n小物、アクセサリー、家具を取り揃えております！\nあなた好みのアイテムがきっと見つかるはず！",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/63/49c83d9c-3e55-45f4-8fa6-e6c500246b4982cca0982554e1611c5c7c3e78e70339.png",
+    "location": "ラグーナコンキリエ-23",
+    "url": "https://vket6.v-market.work/circle/63",
+    "twitter": [
+      "https://twitter.com/tukiyomirua",
+      "https://twitter.com/masterdesuwa",
+      "https://twitter.com/HINOE_mo25"
+    ]
+  },
+  "64": {
+    "circle_name": "名称未設定",
+    "description": "",
+    "icon": null,
+    "header": "/_nuxt/img/no-image.7518a39.png",
+    "location": "九蛇之市欲-14",
+    "url": "https://vket6.v-market.work/circle/64",
+    "twitter": []
+  },
+  "65": {
+    "circle_name": "サイカレイド(SciKaleido)",
+    "description": "私たちは研究者のチームで「科学や研究の世界を身近に！」を目標に活動しています。\n\n今回は科学に関する展示と、マスコットキャラクターのサイくんアバターの出品を行います！\n\nアバター紹介動画\nhttps://youtu.be/BnSF3nlR36E\n\nブース内で流している動画\nhttps://youtu.be/lfFU6je4l_A",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/65/663a7f11-dc20-490d-a7c6-dc6660a528b0f3ad12e1c0bffa6c50358596466d9fc0.png",
+    "location": "ラグーナフィオーレ-9",
+    "url": "https://vket6.v-market.work/circle/65",
+    "twitter": [
+      "https://twitter.com/Mittsujp",
+      "https://twitter.com/yurhino",
+      "https://twitter.com/scikaleijo",
+      "https://twitter.com/kamabocoko",
+      "https://twitter.com/scikaleido"
+    ]
+  },
+  "66": {
+    "circle_name": "MUON",
+    "description": "ご来場ありがとうございます。\n当サークルは、サイバーメイドアンドロイドのコルトを代表作とする弾丸猫と、サイバースーツのNioやポストアポカリプスモチーフのRonoを代表作とするFeedback03で結成された、Muon(ミューオン)といいます。\n当ブースはそれに合わせて、弾丸猫の新作であるサイバーバニースーツとベビードール衣装を展示した夜のお店風に仕上げました。\nおいたが過ぎると、頭上のセントリーガンに撃ち抜かれるかもしれないのでほどほどに！",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/66/d2298e1b-ce11-402f-8eeb-5ea56ab541f12cbb738476a9016488734a8383660771.png",
+    "location": "九蛇之市執-8",
+    "url": "https://vket6.v-market.work/circle/66",
+    "twitter": [
+      "https://twitter.com/flankmelody0319",
+      "https://twitter.com/dangan_cat"
+    ]
+  },
+  "67": {
+    "circle_name": "ここほれわんこーぽれーしょん",
+    "description": "アバターなど展示予定！",
+    "icon": null,
+    "header": "/_nuxt/img/no-image.7518a39.png",
+    "location": "九蛇之市欲-1",
+    "url": "https://vket6.v-market.work/circle/67",
+    "twitter": [
+      "https://twitter.com/socho_v"
+    ]
+  },
+  "68": {
+    "circle_name": "Thurkの創造部屋",
+    "description": "物作りが趣味で、自作ロボットを制作しています。\n現実のものをベースにしてVRChat向けに小物などを自作しています　　　　　\nmy booth page:Thurkの創造部屋 https://s-thurk.booth.pm/",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/68/3677fbe6-747c-493c-9ef2-87a5bedf0dac27b92b16e97e4cf3051d4097c56576a6.png",
+    "location": "カラヨル風の唄-34",
+    "url": "https://vket6.v-market.work/circle/68",
+    "twitter": [
+      "https://twitter.com/S_Thurk",
+      "https://twitter.com/Dream_Drive",
+      "https://twitter.com/autobahn256"
+    ]
+  },
+  "69": {
+    "circle_name": "ばぎの雑貨屋さん",
+    "description": "いろいろ置いてます。\n良ければ見ていってください。",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/69/42d03465-457d-4828-ad0b-0334b8f3eb15bc2d71d5910b000df06176a1a5c0f1d2.png",
+    "location": "カラヨル風の唄-24",
+    "url": "https://vket6.v-market.work/circle/69",
+    "twitter": [
+      "https://twitter.com/Jooh_html"
+    ]
+  },
+  "70": {
+    "circle_name": "黒猫月",
+    "description": "かわいいケモノ・人外ちゃんを作ります。\nhttps://kuronekotsuki.booth.pm/",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/70/1f9f56fa-7b02-4017-8295-14cb446e836627ab2fe947ab5d5dd5c35c7b9b69c3b7.png",
+    "location": "ラグーナコンキリエ-25",
+    "url": "https://vket6.v-market.work/circle/70",
+    "twitter": [
+      "https://twitter.com/kuromoon_VRC"
+    ]
+  },
+  "71": {
+    "circle_name": "ATAKAMO",
+    "description": "サークルページへのアクセスありがとうございます。\nバーチャルな服や建築を作っています。\nよろしくお願いします。",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/71/e327824c-d6b9-4116-b5e7-37e9ac27bb019b104e2f28d5e83c991ed52ab2c94746.png",
+    "location": "九蛇之市執-27",
+    "url": "https://vket6.v-market.work/circle/71",
+    "twitter": [
+      "https://twitter.com/atakamo_vtuber"
+    ]
+  },
+  "73": {
+    "circle_name": "鮮魚せぎゅ",
+    "description": "せぎゅです！新鮮な魚介類を取り扱っております！海鮮ならお任せあれ！",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/73/152a5c13-0756-4041-875f-99305a2091a8554100d4fa78472b43d9a73380d0692b.png",
+    "location": "ラグーナコンキリエ-21",
+    "url": "https://vket6.v-market.work/circle/73",
+    "twitter": [
+      "https://twitter.com/segur_vita"
+    ]
+  },
+  "74": {
+    "circle_name": "赤羽根蟻の衣装部屋",
+    "description": "VRoid向けの衣装やモデルを制作しています。",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/74/b443c131-47f1-4121-b722-cb6bf241e18720a91533f92c51c6f2c9611cc79bd724.png",
+    "location": "カラヨル風の唄-13",
+    "url": "https://vket6.v-market.work/circle/74",
+    "twitter": [
+      "https://twitter.com/akabane_vr",
+      "https://twitter.com/arin_vr_make"
+    ]
+  },
+  "75": {
+    "circle_name": "タオルそら屋",
+    "description": "無料でワールドに利用できる動く空の背景を展示しています\nちょっとしたギミックもあります",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/75/05ea058b-4b70-4735-96a9-e86b6e7eb0ed53043ab9f34273d40b371be85cec9275.png",
+    "location": "ラグーナフィオーレ-12",
+    "url": "https://vket6.v-market.work/circle/75",
+    "twitter": [
+      "https://twitter.com/towel_funnel"
+    ]
+  },
+  "76": {
+    "circle_name": "Fish and Bear",
+    "description": "Fish and Bear",
+    "icon": null,
+    "header": "/_nuxt/img/no-image.7518a39.png",
+    "location": "ラグーナフィオーレ-28",
+    "url": "https://vket6.v-market.work/circle/76",
+    "twitter": [
+      "https://twitter.com/Fellintr"
+    ]
+  },
+  "77": {
+    "circle_name": "AtelierMito",
+    "description": "PC版VRChat向け3Dオリジナルアバターの販売をしています。\nBooth https://ateliermito.booth.pm/",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/77/e2d6fa96-b946-4cf8-a157-c266bbdf3a11d9c7c7a144f51ad1dc6a203249a57d0a.png",
+    "location": "ラグーナコンキリエ-12",
+    "url": "https://vket6.v-market.work/circle/77",
+    "twitter": [
+      "https://twitter.com/mito3dcg"
+    ]
+  },
+  "79": {
+    "circle_name": "塩トローチ",
+    "description": "アバターを展示しているサークルです。Vket6では、今年2月に新発売したぬいぐるみモチーフの少女アバター「Nuibari」と、2種類の無料配布アバターの展示を行っております。持ち歩けるアイテムや、スイッチで利用可能になる撮影スポットもありますので、是非遊びに来て下さい。",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/79/9b45bec1-1234-45d0-afab-b62b1e2ce34071123e43a64f9323119e5f4b31a7b57e.png",
+    "location": "ラグーナフィオーレ-7",
+    "url": "https://vket6.v-market.work/circle/79",
+    "twitter": []
+  },
+  "80": {
+    "circle_name": "SKYMY Workshop",
+    "description": "VRChat向けのアバター販売を行っています。",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/80/95dee61f-7fa5-49b7-b2ff-3f4512b74b9480807482748e81ddce03a6de5a97b147.png",
+    "location": "ラグーナフィオーレ-13",
+    "url": "https://vket6.v-market.work/circle/80",
+    "twitter": []
+  },
+  "81": {
+    "circle_name": "名称未設定",
+    "description": "",
+    "icon": null,
+    "header": "/_nuxt/img/no-image.7518a39.png",
+    "location": "ラグーナフィオーレ-34",
+    "url": "https://vket6.v-market.work/circle/81",
+    "twitter": []
+  },
+  "82": {
+    "circle_name": "えんきす出張8号店",
+    "description": "VRChat,バーチャルSNS clusterに展開しているお店BAR Angel Kissの常連さんたち（えんきす民）によるサークル通称えんきす出張8号店です。今回はアバター６種、アクセサリー３種を出展しています。ブースの方では中央の天球儀を押すとアバターたちがかわいいポーズを披露してくれます。是非お楽しみください。",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/82/9a2571b5-8fb4-42de-8d0d-5df6882db77aa27356e202ace05b8144d6fedd94386a.png",
+    "location": "カラヨル砂の詩-17",
+    "url": "https://vket6.v-market.work/circle/82",
+    "twitter": [
+      "https://twitter.com/No846251768",
+      "https://twitter.com/Suiseimaou",
+      "https://twitter.com/D_Guardians",
+      "https://twitter.com/JumiusV",
+      "https://twitter.com/yui_to_world",
+      "https://twitter.com/Awane_Philo",
+      "https://twitter.com/Arvu_Schelmm39",
+      "https://twitter.com/meadow_sage727",
+      "https://twitter.com/koigx",
+      "https://twitter.com/Isekaiinuko"
+    ]
+  },
+  "83": {
+    "circle_name": "蒼黒",
+    "description": "ハーピー＋α",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/83/0af56c3b-500c-4c1d-a6aa-7b44fb29ad3c63da675d2fd8cc8043ba442a217730b9.png",
+    "location": "カラヨル風の唄-17",
+    "url": "https://vket6.v-market.work/circle/83",
+    "twitter": [
+      "https://twitter.com/aokuro7361"
+    ]
+  },
+  "84": {
+    "circle_name": "JUSTICE KILLER & VILLAIN'S SAVER 毒蟲牙",
+    "description": "アンドロメダねむるとイドラ・マキナが制作したオリジナル3Dモデルの販売を行っています。\n\n★アンドロメダねむる\nTwitter：@Andromedanemuru\nBooth：https://andromedanemuru.booth.pm/\n\n★イドラ・マキナ\nTwitter：@IdraMachina\nBooth：https://idramachina.booth.pm/",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/84/c9357fb7-cd70-4b24-8bd2-c2e1da8836ae89afb02467d51a5b10ba1cc4df886130.png",
+    "location": "九蛇之市執-14",
+    "url": "https://vket6.v-market.work/circle/84",
+    "twitter": [
+      "https://twitter.com/Andromedanemuru"
+    ]
+  },
+  "85": {
+    "circle_name": "らくがきこうぼう",
+    "description": "気の向くままに色々作ってます。\n干支が1周するまで毎年干支の動物がモチーフのアバターを作る予定です。\nネズミ、ねこと来たので今年は牛。",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/85/cf96a1f3-c21d-4674-b630-8858150d669d4bcd43fb74ac50ae59013533efc2b0f0.png",
+    "location": "九蛇之市執-34",
+    "url": "https://vket6.v-market.work/circle/85",
+    "twitter": [
+      "https://twitter.com/rue_moni"
+    ]
+  },
+  "86": {
+    "circle_name": "Δ!＄i○⒩ & SENITI_STORE",
+    "description": "Δ!＄i○⒩ と SENITI_STORE の合同サークルです。\nVRChat向けのアバター衣装や靴、アクセサリーなどの制作販売をBOOTHにて行っています。\nみんな買え～～～！！(せんいちさんより)",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/86/a99643cd-d3e3-4e25-9c6f-ebeefebf29f2a8e52620298ea2110ee895f2db614e6e.png",
+    "location": "九蛇之市欲-32",
+    "url": "https://vket6.v-market.work/circle/86",
+    "twitter": [
+      "https://twitter.com/YMDTMZvrc",
+      "https://twitter.com/_seniti_1001_"
+    ]
+  },
+  "87": {
+    "circle_name": "野牛の牛舎",
+    "description": "VRC向け、VRMのアバターを売ってます。",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/87/155c3b9c-6ee1-4edc-b660-c49bb5b4ef71f1b0c49a7f88c522534efc1a29c1aaa3.png",
+    "location": "九蛇之市欲-31",
+    "url": "https://vket6.v-market.work/circle/87",
+    "twitter": [
+      "https://twitter.com/ASSAULTFOX"
+    ]
+  },
+  "88": {
+    "circle_name": "クロスブルーム",
+    "description": "男の娘とエルフが大好きです。",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/88/961b0ca3-964a-4947-ad1d-6f4c790a21de86452f219ae8e4275d251964f45d037d.png",
+    "location": "ラグーナコンキリエ-26",
+    "url": "https://vket6.v-market.work/circle/88",
+    "twitter": [
+      "https://twitter.com/goshu33"
+    ]
+  },
+  "89": {
+    "circle_name": "カラスの巣箱",
+    "description": "Voxel 3D model & Others\n \nTwitter:twitter.com/Karasu_ma_Kuro \nnote:note.com/karasumakuro \nBOOTH:karasuma-kuro.booth.pm/",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/89/aa07bd1e-0776-4dfc-a5b4-c55c2a66e7b5b4c5ee85036872f21acd361d552de168.png",
+    "location": "カラヨル砂の詩-23",
+    "url": "https://vket6.v-market.work/circle/89",
+    "twitter": [
+      "https://twitter.com/Karasu_ma_Kuro"
+    ]
+  },
+  "90": {
+    "circle_name": "Synthesis Universe",
+    "description": "ボルカニックコアのVketページへようこそ。\n----\nボルカニックコアはシンテシスユニバースの新作ゲームです。\n----\n2021年末にSteamVRで発売\nPlaystation 5 VRでその後に発売\n----\n今すぐhttps://store.steampowered.com/app/1490800/Volcanic_Core/ にアクセスして、ウィッシュリストに登録してください。\n----\nhttps://twitter.com/OlivierJT_SU",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/90/a26a4f7b-9036-4386-b694-8066f0ee29c1214af6842d2cbd48a248273b9a6355c9.jpg",
+    "location": "九蛇之市執-23",
+    "url": "https://vket6.v-market.work/circle/90",
+    "twitter": [
+      "https://twitter.com/OlivierJT_SU"
+    ]
+  },
+  "91": {
+    "circle_name": "なっふな堂＆ストレイ・ラム＆Re:GISTA",
+    "description": "なっふな堂・ストレイ・ラム・Re:GISTA\nの合同サークルです！\nVRChat向けのアバターモデルを販売しています。\n\n■展示予定■\nなっふな堂→ホッキョクオオカミモチーフの女の子アバター\nストレイ・ラム→猫の女の子アバター\nRe:GISTA→イケメン女の子アバター",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/91/ac73d2d0-2b65-49ad-9a78-23cbaf06c78638034b36b0791d7a599053dd1bfee30a.png",
+    "location": "ラグーナコンキリエ-19",
+    "url": "https://vket6.v-market.work/circle/91",
+    "twitter": [
+      "https://twitter.com/mzk563",
+      "https://twitter.com/virtual_himura",
+      "https://twitter.com/regstry2"
+    ]
+  },
+  "93": {
+    "circle_name": "狐火家雑貨",
+    "description": "水族館でも魚屋さんでもありません。雑貨屋です！",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/93/045132c9-b9ab-4f77-9d96-0b65a7eacc18f1cfad5398da7856289bbef95a8e0664.png",
+    "location": "九蛇之市欲-29",
+    "url": "https://vket6.v-market.work/circle/93",
+    "twitter": [
+      "https://twitter.com/kiaran5012"
+    ]
+  },
+  "94": {
+    "circle_name": "のびるホチキス",
+    "description": "VRChatやゲームで使用いただける小物を作成しております。",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/94/91d3f9d7-5331-4c5b-bcd6-75f1802fc2cdd54450fdf74ddea2d36e793eec2d6bf4.png",
+    "location": "九蛇之市執-4",
+    "url": "https://vket6.v-market.work/circle/94",
+    "twitter": [
+      "https://twitter.com/kougousei7339"
+    ]
+  },
+  "95": {
+    "circle_name": "大黒屋O-To-san",
+    "description": "大黒屋O-To-san\n当ショップ代表の「O-To-san」が制作する3Dモデルを販売しています。\n主に人外、特にクリーチャーのモデルを制作しています。",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/95/69f81d1b-244a-4337-b582-8eeae5d221dfc616e84c81d01a8616c56fb7907c2f0f.png",
+    "location": "カラヨル砂の詩-36",
+    "url": "https://vket6.v-market.work/circle/95",
+    "twitter": [
+      "https://twitter.com/OTosan_108"
+    ]
+  },
+  "96": {
+    "circle_name": "名称未設定",
+    "description": "",
+    "icon": null,
+    "header": "/_nuxt/img/no-image.7518a39.png",
+    "location": "カラヨル砂の詩-12",
+    "url": "https://vket6.v-market.work/circle/96",
+    "twitter": [
+      "https://twitter.com/yuhikou_v"
+    ]
+  },
+  "97": {
+    "circle_name": "しぐれきのこ園",
+    "description": "可愛くてシュールで奇天烈なオリジナルの雑貨等を取り扱う雑貨屋さんです。\n思いついたものをなんでも作ります。",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/97/488f231d-862f-4cf4-91e3-60df785424b236462c2760950fbad58169ddeeba85bf.png",
+    "location": "ラグーナコンキリエ-14",
+    "url": "https://vket6.v-market.work/circle/97",
+    "twitter": []
+  },
+  "98": {
+    "circle_name": "みずあめ本舗",
+    "description": "オリジナルキャラクターのアバター等を制作・販売しています！",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/98/04fc2700-8579-4c05-b5d0-ea9d264146acd132bd59ab72b9618da43e0b72b11fd3.png",
+    "location": "九蛇之市執-12",
+    "url": "https://vket6.v-market.work/circle/98",
+    "twitter": [
+      "https://twitter.com/water35l"
+    ]
+  },
+  "99": {
+    "circle_name": "Just ice!!",
+    "description": "particleで魔法を作ったり、簡単なモデリングをしたりしている。",
+    "icon": null,
+    "header": "/_nuxt/img/no-image.7518a39.png",
+    "location": "カラヨル風の唄-36",
+    "url": "https://vket6.v-market.work/circle/99",
+    "twitter": []
+  },
+  "100": {
+    "circle_name": "みさくらやさん",
+    "description": "主にVRChat用アバターを販売しています\n最新作アルセア展示中！",
+    "icon": null,
+    "header": "/_nuxt/img/no-image.7518a39.png",
+    "location": "九蛇之市欲-20",
+    "url": "https://vket6.v-market.work/circle/100",
+    "twitter": [
+      "https://twitter.com/kagarizaki"
+    ]
+  },
+  "101": {
+    "circle_name": "membrane",
+    "description": "はじめまして！\nゲーム会社の3Dキャラモデラー、高部と申します。\nBOOTHでは3Dキャラモデルの販売を行っています！\n---\nAutodeskさまでは「ローポリモデル講座」、pixiv FANBOXでは、モデリングのTipsを紹介しています！\nモデリングをこれから始めてみようと思う方の参考になれば幸いです！\n・ローポリ講座：https://area.autodesk.jp/column/tutorial/maya-lowpoly/\n・FANBOX：https://takabedesu.fanbox.cc/",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/101/a5e4cee1-8ba9-402a-86e8-cca0d6c70e9a0f7945478ba825fcbad225843784ea18.png",
+    "location": "ラグーナコンキリエ-2",
+    "url": "https://vket6.v-market.work/circle/101",
+    "twitter": [
+      "https://twitter.com/takabedesu"
+    ]
+  },
+  "102": {
+    "circle_name": "星ワタリノ空",
+    "description": "VRCでの使用を想定したオリジナル３Dキャラクターを制作しています",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/102/42dd46dc-9b47-4d5c-9722-7e19bf8f98d7a5d194988350768d8529b1e49e8c9f2e.png",
+    "location": "九蛇之市執-5",
+    "url": "https://vket6.v-market.work/circle/102",
+    "twitter": [
+      "https://twitter.com/watarino_OeO"
+    ]
+  },
+  "103": {
+    "circle_name": "眠っているレッサーモクリ作業場",
+    "description": "Lesser Mokuri fall asleep on his invention exposing his memories! This time it shows sound?",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/103/be447779-3123-49b5-a726-4e450b96423373318659b847829e0ab2daef60b73ccb.png",
+    "location": "カラヨル砂の詩-3",
+    "url": "https://vket6.v-market.work/circle/103",
+    "twitter": [
+      "https://twitter.com/ShadowriverVR",
+      "https://twitter.com/Kagoiri"
+    ]
+  },
+  "104": {
+    "circle_name": "カワウソ",
+    "description": "やあ ！私の名前は Shade the Bat です。VRChatのモデルと小道具を作成しています。\nあなたはここで私のすべてを見つけることができます：https://shadethebat.art/",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/104/2c05ee62-5793-4ff0-b8d8-fbd2446630833e364ffb8e0f6da0bac38ee2c6c29337.png",
+    "location": "ラグーナコンキリエ-32",
+    "url": "https://vket6.v-market.work/circle/104",
+    "twitter": []
+  },
+  "105": {
+    "circle_name": "ザ・コンサバトリー",
+    "description": "鱗翅目をテーマにしたグリフォンのような愛らしいアバター「Lepyphon」。",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/105/e53fa4c6-0bc6-4627-bfad-b6213ed2024230d61fca53d8a25ac2109e97cff4f608.png",
+    "location": "カラヨル砂の詩-25",
+    "url": "https://vket6.v-market.work/circle/105",
+    "twitter": [
+      "https://twitter.com/ShifterKei",
+      "https://twitter.com/DyLhun"
+    ]
+  },
+  "106": {
+    "circle_name": "TsubokuLab",
+    "description": "VRChatやゲーム開発に使える3Dモデルやツールを販売中\nhttps://tsubokulab.booth.pm/",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/106/e907ce8b-a264-4596-9dc7-75e7003bdf0762caf8fbc37656ce8083e3f92119ad0c.png",
+    "location": "九蛇之市欲-7",
+    "url": "https://vket6.v-market.work/circle/106",
+    "twitter": [
+      "https://twitter.com/kohack_v"
+    ]
+  },
+  "107": {
+    "circle_name": "foxof laboratory",
+    "description": "３Dモデルの頒布等行っています。",
+    "icon": null,
+    "header": "/_nuxt/img/no-image.7518a39.png",
+    "location": "カラヨル砂の詩-14",
+    "url": "https://vket6.v-market.work/circle/107",
+    "twitter": [
+      "https://twitter.com/tanuki_nuta"
+    ]
+  },
+  "108": {
+    "circle_name": "亜空間ゼウス",
+    "description": "VRC向けアバター・衣装制作。新作「ロリィタ着物」販売中！",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/108/e4deaf59-a67c-4a6f-a07d-e5dc136e0088852d085eabd6a8e74ea65efc49d5904d.png",
+    "location": "ラグーナコンキリエ-5",
+    "url": "https://vket6.v-market.work/circle/108",
+    "twitter": []
+  },
+  "109": {
+    "circle_name": "HIRO JAPAN SHOP",
+    "description": "オリジナル３Dアバターを販売しています！\nすべてAvatar3.0対応でカスタムいろいろできますので\n是非試着していってください！",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/109/643d6ec8-4592-4a80-b200-74eef227468a3b9504707ac8fcc98141af81596ce71a.png",
+    "location": "ラグーナコンキリエ-10",
+    "url": "https://vket6.v-market.work/circle/109",
+    "twitter": [
+      "https://twitter.com/h1i9r8o1"
+    ]
+  },
+  "110": {
+    "circle_name": "わこーのあとりえ",
+    "description": "アバターとか衣装とか売ってますにゃ\n\nbooth:https://wakonoatorie.booth.pm/\nTwitter:@wako_VRchat",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/110/f11d1cfd-ea27-48d9-b729-067b4342274310ae9a20ac8518341c6458f20efea29f.png",
+    "location": "ラグーナフィオーレ-18",
+    "url": "https://vket6.v-market.work/circle/110",
+    "twitter": [
+      "https://twitter.com/wako_VRchat"
+    ]
+  },
+  "111": {
+    "circle_name": "横向きフィギュアエイト",
+    "description": "ひとがおいてある",
+    "icon": null,
+    "header": "/_nuxt/img/no-image.7518a39.png",
+    "location": "九蛇之市欲-36",
+    "url": "https://vket6.v-market.work/circle/111",
+    "twitter": []
+  },
+  "112": {
+    "circle_name": "もちはむの小屋",
+    "description": "バーチャルハムスターのもちはむですのだ\n普段はYoutubeでアニメを作ったり配信をしていますのだ\n今回はぼくのおもちゃ置き場を作りましたのだ～\n\nもちはむYoutube\nhttps://www.youtube.com/channel/UCwJHP0MXj9ICevE6P4BxNfg\n\n\n今回　いろんなアイテムを作るにあたりこちらのチャンネルからたくさん学ばせてもらいましたのだ\n3D Bibi\nhttps://www.youtube.com/channel/UCdsaBup0zyfwAzDtkM6qvaw",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/112/6ed427b6-684f-46d4-8765-6c47d6fb0d82a0531cbd84eb75b3e8f8eb85aa87d1f6.png",
+    "location": "カラヨル砂の詩-32",
+    "url": "https://vket6.v-market.work/circle/112",
+    "twitter": [
+      "https://twitter.com/Mochi_86"
+    ]
+  },
+  "113": {
+    "circle_name": "てんれす",
+    "description": "Twitter: @Shiro_Youduki",
+    "icon": null,
+    "header": "/_nuxt/img/no-image.7518a39.png",
+    "location": "ラグーナフィオーレ-30",
+    "url": "https://vket6.v-market.work/circle/113",
+    "twitter": []
+  },
+  "114": {
+    "circle_name": "わへくいの店",
+    "description": "男性型の3Dモデルを配布しています！\nそれ以外にも様々な3Dモデルを作っています！",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/114/130ec7ac-1037-424d-be6a-e8b046fb72a09f1312e382bce9a24af17840eb588480.png",
+    "location": "カラヨル砂の詩-24",
+    "url": "https://vket6.v-market.work/circle/114",
+    "twitter": [
+      "https://twitter.com/wahekui_1"
+    ]
+  },
+  "115": {
+    "circle_name": "名称未設定",
+    "description": "",
+    "icon": null,
+    "header": "/_nuxt/img/no-image.7518a39.png",
+    "location": "九蛇之市欲-24",
+    "url": "https://vket6.v-market.work/circle/115",
+    "twitter": []
+  },
+  "116": {
+    "circle_name": "6モンド",
+    "description": "新進気鋭の多国籍6人組サークル\"6mundo\"(6モンド)",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/116/d8472f23-7e4c-48c9-aaa0-cb9387e237b81fa7232b3ae3c6d8ada93310326bb826.png",
+    "location": "カラヨル風の唄-14",
+    "url": "https://vket6.v-market.work/circle/116",
+    "twitter": [
+      "https://twitter.com/kokou1010",
+      "https://twitter.com/alumihakuVR",
+      "https://twitter.com/Beans4982",
+      "https://twitter.com/tamiink",
+      "https://twitter.com/Holo_onigirier",
+      "https://twitter.com/maskneco"
+    ]
+  },
+  "117": {
+    "circle_name": "BlueDense",
+    "description": "武器や家具、衣装、アクセサリなどをいろいろつくっています。\nコミッションも募集中です。\n出展物一覧に乗ってないのも出展しているのでよければboothをみていただけると嬉しいです。\nBooth : https://bluedense.booth.pm\nTwitter : https://twitter.com/Aomitsu_vrc",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/117/764555dc-8073-4c6f-9f12-98f07980446837792b282c2437b74c75308dbea52d05.png",
+    "location": "九蛇之市執-24",
+    "url": "https://vket6.v-market.work/circle/117",
+    "twitter": [
+      "https://twitter.com/Aomitsu_vrc"
+    ]
+  },
+  "118": {
+    "circle_name": "異次元喫茶",
+    "description": "異次元なカフェ",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/118/b88bc910-2632-43c4-8b80-6cc7f9e61193326cc8cb7006675bffa0b14e0b74be8b.png",
+    "location": "九蛇之市執-25",
+    "url": "https://vket6.v-market.work/circle/118",
+    "twitter": []
+  },
+  "119": {
+    "circle_name": "猫めしごぜん",
+    "description": "イラストやモデリング、バーチャル活動等やれることは全部やる！バーチャルでびるアンゼローザ・コーネリス（PN.むらさきあんこ）が主催する猫めしごぜんのサークルです！",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/119/beaf2d91-a752-4479-a7aa-df05201e3bf7a93b793ec18cdfb66922ca03d5acdfa7.png",
+    "location": "九蛇之市執-22",
+    "url": "https://vket6.v-market.work/circle/119",
+    "twitter": [
+      "https://twitter.com/NekomesiGozen",
+      "https://twitter.com/kdaoigjoawi"
+    ]
+  },
+  "120": {
+    "circle_name": "氷砂糖の袋詰め",
+    "description": "メカやアーマー、銃といったハードサーフェス系モデルを作ります。",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/120/fafc8c67-7a5d-4507-9c30-e66571862ea703b9007adbe72f780e29f820b81e5707.png",
+    "location": "九蛇之市執-2",
+    "url": "https://vket6.v-market.work/circle/120",
+    "twitter": [
+      "https://twitter.com/rockycandy93"
+    ]
+  },
+  "121": {
+    "circle_name": "名称未設定",
+    "description": "",
+    "icon": null,
+    "header": "/_nuxt/img/no-image.7518a39.png",
+    "location": "カラヨル風の唄-20",
+    "url": "https://vket6.v-market.work/circle/121",
+    "twitter": []
+  },
+  "122": {
+    "circle_name": "名称未設定",
+    "description": "",
+    "icon": null,
+    "header": "/_nuxt/img/no-image.7518a39.png",
+    "location": "九蛇之市執-21",
+    "url": "https://vket6.v-market.work/circle/122",
+    "twitter": []
+  },
+  "123": {
+    "circle_name": "Racoon Studio",
+    "description": "アライラクが制作したアバターや小物等を販売、配布しています。\n詳細はBoothにて\nhttps://arairacu.booth.pm/",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/123/afff9d4c-83cb-45ce-90b6-15653f4fa26e6cbd4cd06f2d5c8a203b8d02b7d96bc0.png",
+    "location": "ラグーナコンキリエ-30",
+    "url": "https://vket6.v-market.work/circle/123",
+    "twitter": [
+      "https://twitter.com/AraiRacu"
+    ]
+  },
+  "124": {
+    "circle_name": "NASU製作所",
+    "description": "VRChat向けのアバター販売を行っています。\nhttps://twitter.com/Reisen_U_38",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/124/75b9583d-d768-4f17-a3bb-15f1118b31ce590023e8c49f7ca121aa2ecd3156412b.jpg",
+    "location": "カラヨル砂の詩-6",
+    "url": "https://vket6.v-market.work/circle/124",
+    "twitter": [
+      "https://twitter.com/Reisen_U_38"
+    ]
+  },
+  "125": {
+    "circle_name": "みかんカンパニー",
+    "description": "みかん好きのみかん好きによるみかん好きのためのサークル",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/125/b47bbecc-2981-4247-a1fe-8e8a1a6e0ab47a012f00a7ef9e29be9b6f5f04d3c8db.png",
+    "location": "ラグーナフィオーレ-10",
+    "url": "https://vket6.v-market.work/circle/125",
+    "twitter": [
+      "https://twitter.com/MikanTakano"
+    ]
+  },
+  "126": {
+    "circle_name": "スイヨウクラブ",
+    "description": "■販売ページ\nhttps://suiyoclub.booth.pm/\n\n\n素人が四人集まりました。\nがんばりました。\n\nどうもスイヨウクラブです。\n\n毎週水曜に集まって活動してました。\n良かったら見て行ってください。\n\n感想お待ちしています。",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/126/7f03fc6c-e609-404b-8129-53433169793c101e074a49a76168a717461a6ada3494.png",
+    "location": "カラヨル砂の詩-11",
+    "url": "https://vket6.v-market.work/circle/126",
+    "twitter": [
+      "https://twitter.com/RSZ91_ReSkZc"
+    ]
+  },
+  "127": {
+    "circle_name": "Setsume Works",
+    "description": "ドラゴンの角と尻尾のおみせ\n\n販売物はこちら↓\nhttps://setsume.booth.pm/",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/127/9699c436-57f9-4d39-8c47-1529e797e09d9a698e372f97c58c7230fca93e811615.png",
+    "location": "カラヨル砂の詩-8",
+    "url": "https://vket6.v-market.work/circle/127",
+    "twitter": [
+      "https://twitter.com/Setsume_228"
+    ]
+  },
+  "128": {
+    "circle_name": "Sugoi shop ＆ 暇人が直営する店",
+    "description": "Sugoi shop:主にVRCの人外・ケモノアバターを作成・販売するサークルです。\n\n暇人が直営する店:主にVRCにおけるUnity上の作業を自動化するツールを作成・販売するサークルです。",
+    "icon": null,
+    "header": "/_nuxt/img/no-image.7518a39.png",
+    "location": "カラヨル砂の詩-2",
+    "url": "https://vket6.v-market.work/circle/128",
+    "twitter": [
+      "https://twitter.com/Kuretadesu",
+      "https://twitter.com/kizuki1749"
+    ]
+  },
+  "129": {
+    "circle_name": "名称未設定",
+    "description": "",
+    "icon": null,
+    "header": "/_nuxt/img/no-image.7518a39.png",
+    "location": "ラグーナコンキリエ-31",
+    "url": "https://vket6.v-market.work/circle/129",
+    "twitter": [
+      "https://twitter.com/KoKoRoBoUZu"
+    ]
+  },
+  "130": {
+    "circle_name": "岬のプレハブ",
+    "description": "役に立たなそうでも欲しくなったら作ります。",
+    "icon": null,
+    "header": "/_nuxt/img/no-image.7518a39.png",
+    "location": "九蛇之市欲-12",
+    "url": "https://vket6.v-market.work/circle/130",
+    "twitter": [
+      "https://twitter.com/igai_utubo"
+    ]
+  },
+  "132": {
+    "circle_name": "超兵器工房",
+    "description": "VRChat向けのアバターや武装を製造販売します。",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/132/845667b2-238f-49a6-ae71-088ab50b66ffb2d50ca832832baa4e9902801ce3981b.png",
+    "location": "カラヨル砂の詩-5",
+    "url": "https://vket6.v-market.work/circle/132",
+    "twitter": [
+      "https://twitter.com/mekakon_Mk1"
+    ]
+  },
+  "133": {
+    "circle_name": "緑野菜直売店",
+    "description": "アバターの販売と展示やってます～\nシーナちゃん[ナスカ系不思議単眼]\nさめちゃん[ちっちゃさめちゃん]\nグーラ、グーナちゃん[まるのみでかスライム]\nオルナちゃん[でかしゃちお姉さん]\nマリナちゃん[お胸大き目ローブ魔法使い][new!]\nオウミちゃん[でかおなか死神][new!]\nグーラ、グーナちゃんは中でポーズ取れるようになってます～",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/133/70a9897f-6d26-474a-bcf4-75a42b5fa32ab626f6495bdfedd2254e7006a74cd28d.png",
+    "location": "カラヨル砂の詩-28",
+    "url": "https://vket6.v-market.work/circle/133",
+    "twitter": [
+      "https://twitter.com/daikonryu"
+    ]
+  },
+  "134": {
+    "circle_name": "第六製鉄部",
+    "description": "スチームパンク世界観をコンセプトとして主にVRChat向け3Dモデルの販売を行っています。\n\n「製鉄部」と銘打っているものの鉄製品だけでなく多種多様な3Dモデル、特にVRChat向け人型アバター3Dモデルを主に制作しています。",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/134/7049f3f3-941b-4e2d-8310-0ff80859f072c522abe627e4b4d5fb52685e2236a773.png",
+    "location": "ラグーナフィオーレ-35",
+    "url": "https://vket6.v-market.work/circle/134",
+    "twitter": []
+  },
+  "135": {
+    "circle_name": "おにさわランド -鬼沢遊園-",
+    "description": "さあ、ここは楽しい楽しい夢の国でした",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/135/bf99205f-dcec-4993-ad07-430247bd2f7bb2414db61a2b70a64306e236ee2355c5.png",
+    "location": "九蛇之市欲-18",
+    "url": "https://vket6.v-market.work/circle/135",
+    "twitter": [
+      "https://twitter.com/onisawa_v"
+    ]
+  },
+  "136": {
+    "circle_name": "nullの足音",
+    "description": "アバターがほんのりおしゃれになるアイテムを作っています。",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/136/e71c9e3c-e55b-4735-8422-ddf3dedf37d43fa63ee38236ef72dcacd6b2351afd05.png",
+    "location": "九蛇之市執-7",
+    "url": "https://vket6.v-market.work/circle/136",
+    "twitter": []
+  },
+  "137": {
+    "circle_name": "ジョルドと1技術展",
+    "description": "ようこそ 私たちは、VRChatの世界が広がることを望む情熱的な2人のクリエーターです。私たちは、世界のクリエーターがより多くの人にリーチしたり、ミスを修正したりすることを容易にするツールを作成しました。",
+    "icon": null,
+    "header": "/_nuxt/img/no-image.7518a39.png",
+    "location": "九蛇之市欲-17",
+    "url": "https://vket6.v-market.work/circle/137",
+    "twitter": [
+      "https://twitter.com/JordoVR",
+      "https://twitter.com/OneVRDev"
+    ]
+  },
+  "138": {
+    "circle_name": "名称未設定",
+    "description": "",
+    "icon": null,
+    "header": "/_nuxt/img/no-image.7518a39.png",
+    "location": "九蛇之市執-33",
+    "url": "https://vket6.v-market.work/circle/138",
+    "twitter": [
+      "https://twitter.com/diamond124"
+    ]
+  },
+  "139": {
+    "circle_name": "此の先の蔵書",
+    "description": "フルスクラッチボタニカルアート風植物と肌色ケモノアバターを主軸に扱う、\n三池りむるの創作総合サークル。植物のコミッションなどもお受けしております。Vket会場では「世界観を作る」「物語を拡張する」ブース、また「Vket会場でゆっくりできる」「休んでみたい」「寝てみたい」場所を作るを目標にvket4から継続参加させて頂いております。\n\n「ワールドエンドが起こらない」その世界線へと過去の会場を繋いで解く――ミラビリスから続いている考察と捏造の物語の片鱗を感じて貰えたら幸いです。",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/139/deb0bc8a-3ece-4b10-8a77-97ef64ec1d41853c20cb8bbb707762788473bb264bb0.png",
+    "location": "カラヨル砂の詩-35",
+    "url": "https://vket6.v-market.work/circle/139",
+    "twitter": [
+      "https://twitter.com/rimle"
+    ]
+  },
+  "140": {
+    "circle_name": "名称未設定",
+    "description": "",
+    "icon": null,
+    "header": "/_nuxt/img/no-image.7518a39.png",
+    "location": "九蛇之市執-32",
+    "url": "https://vket6.v-market.work/circle/140",
+    "twitter": [
+      "https://twitter.com/Sprawl_008"
+    ]
+  },
+  "141": {
+    "circle_name": "こここや",
+    "description": "VRChat向けアバターモデルを販売しております。\nストア  https://kokokoya.booth.pm/\ntwitter  https://twitter.com/kokokoya1010",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/141/0e90b381-498c-426d-8ea1-9e072efbd569d5a1cb94b6d4e7ff41a3d3081a330134.jpg",
+    "location": "ラグーナフィオーレ-24",
+    "url": "https://vket6.v-market.work/circle/141",
+    "twitter": [
+      "https://twitter.com/kokokoya1010"
+    ]
+  },
+  "143": {
+    "circle_name": "ぽけもり BOOTH支部",
+    "description": "VRChat用のアバター設定を一括で行う『VRM Converter for VRChat』がメインの出展です",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/143/06dac9de-17af-4447-864c-936014d6252e6a04c0bbe196d8875e0acbd303df1c8b.png",
+    "location": "ラグーナコンキリエ-6",
+    "url": "https://vket6.v-market.work/circle/143",
+    "twitter": [
+      "https://twitter.com/esperecyan"
+    ]
+  },
+  "144": {
+    "circle_name": "緋ノ宿",
+    "description": "グヰノミのオリジナル3Dモデルなどを販売しているサークルです。",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/144/c94ac084-8c01-463c-8a18-7abcc4f412ee79ad986e2a76e4e6862a7af68d386d2c.png",
+    "location": "カラヨル砂の詩-13",
+    "url": "https://vket6.v-market.work/circle/144",
+    "twitter": [
+      "https://twitter.com/ci12mori"
+    ]
+  },
+  "145": {
+    "circle_name": "お買い得ホテル",
+    "description": "お買い得ホテル！",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/145/4dc4b79c-ce7f-4358-9d20-ed43cf158d6f476b4cb922ec1a82aab1057dbb0d1510.png",
+    "location": "九蛇之市欲-21",
+    "url": "https://vket6.v-market.work/circle/145",
+    "twitter": [
+      "https://twitter.com/Coquelicots_WoT",
+      "https://twitter.com/remiiiiiiit",
+      "https://twitter.com/Musha_JP",
+      "https://twitter.com/peke4444",
+      "https://twitter.com/kanalia123"
+    ]
+  },
+  "146": {
+    "circle_name": "しろいくま座団",
+    "description": "「ねこまた」の和風の少女アバターの「松梨子」としろくまの「くまちゃん」の試着展示をしています。",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/146/bb3c291d-5aec-4b97-926a-22489f247458a77ae3e99b46ad3d46ab33848bc5d547.png",
+    "location": "カラヨル砂の詩-20",
+    "url": "https://vket6.v-market.work/circle/146",
+    "twitter": [
+      "https://twitter.com/0manaco0"
+    ]
+  },
+  "147": {
+    "circle_name": "名称未設定",
+    "description": "",
+    "icon": null,
+    "header": "/_nuxt/img/no-image.7518a39.png",
+    "location": "ラグーナフィオーレ-14",
+    "url": "https://vket6.v-market.work/circle/147",
+    "twitter": []
+  },
+  "148": {
+    "circle_name": "名称未設定",
+    "description": "",
+    "icon": null,
+    "header": "/_nuxt/img/no-image.7518a39.png",
+    "location": "カラヨル砂の詩-26",
+    "url": "https://vket6.v-market.work/circle/148",
+    "twitter": []
+  },
+  "149": {
+    "circle_name": "#ikshop",
+    "description": "boothのほうで販売しています。\nhttps://ikshop.booth.pm/",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/149/e12f337e-370b-4d56-aff7-26b7cb364ad8381a890d7d92b2316e5a149d3c0247a2.png",
+    "location": "ラグーナコンキリエ-9",
+    "url": "https://vket6.v-market.work/circle/149",
+    "twitter": []
+  },
+  "151": {
+    "circle_name": "うさみみ雑貨店",
+    "description": "3Dモデルとか展示してます",
+    "icon": null,
+    "header": "/_nuxt/img/no-image.7518a39.png",
+    "location": "ラグーナフィオーレ-15",
+    "url": "https://vket6.v-market.work/circle/151",
+    "twitter": [
+      "https://twitter.com/3405691582"
+    ]
+  },
+  "152": {
+    "circle_name": "QuQu BOOTH",
+    "description": "大人気アバターをリーズナブルに体験できる！\n詳しくは”QuQu BOOTH”で検索☆",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/152/9d718648-e298-4646-a45c-ace38a745842760e53bd6c6880870be351a7f08e660c.jpg",
+    "location": "カラヨル風の唄-26",
+    "url": "https://vket6.v-market.work/circle/152",
+    "twitter": []
+  },
+  "153": {
+    "circle_name": "嶽本雑貨店",
+    "description": "バーチャル魔少年、嶽本サライの雑貨店です。VRoid用のテクスチャや3D小物を販売しています。今回は新作アイテムとして初の販売アバターとなる『昴』を展示します。\n(※すいません、販売がvket開始に間に合いませんでした。期間中の発売目指してがんばります)",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/153/39412c2a-d4ee-4254-bc8f-024ecde51fb39d670584de63873f4c292e8ba390e3bc.png",
+    "location": "カラヨル砂の詩-21",
+    "url": "https://vket6.v-market.work/circle/153",
+    "twitter": []
+  },
+  "155": {
+    "circle_name": "Froginyata",
+    "description": "VRChat向けのオリジナル3Dモデルを制作・販売しています。",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/155/77657826-08c6-4e1b-b0bd-46c29aa0d30feb5ae884b9e1d0ecf7747c71284fe8ff.png",
+    "location": "カラヨル風の唄-23",
+    "url": "https://vket6.v-market.work/circle/155",
+    "twitter": []
+  },
+  "156": {
+    "circle_name": "HolySwordForest",
+    "description": "武器やアバターの3Ⅾモデルを置いています",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/156/d745490d-3567-47b5-82b6-8599bf5a3a69e17aa4c3f5e335e9d81fddaf34341280.jpg",
+    "location": "九蛇之市欲-34",
+    "url": "https://vket6.v-market.work/circle/156",
+    "twitter": [
+      "https://twitter.com/yasufusamc"
+    ]
+  },
+  "157": {
+    "circle_name": "ぬるもとユニバース",
+    "description": "ぬるもとのお店",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/157/f27e0b0a-bb0e-4cb5-92a9-aad53b322e72396e21049b57fe4a8313961c610e1f3e.png",
+    "location": "カラヨル風の唄-5",
+    "url": "https://vket6.v-market.work/circle/157",
+    "twitter": [
+      "https://twitter.com/Null_moto_"
+    ]
+  },
+  "158": {
+    "circle_name": "Silent's Secret Shader Facility",
+    "description": "Our group produces shaders and utilities for Unity and VRchat! \nCheck our our Discord!\nhttps://discord.gg/uHJx4g629K",
+    "icon": null,
+    "header": "/_nuxt/img/no-image.7518a39.png",
+    "location": "九蛇之市執-9",
+    "url": "https://vket6.v-market.work/circle/158",
+    "twitter": [
+      "https://twitter.com/Silent0264"
+    ]
+  },
+  "159": {
+    "circle_name": "Selphina",
+    "description": "A collection of creator people who make neat things",
+    "icon": null,
+    "header": "/_nuxt/img/no-image.7518a39.png",
+    "location": "ラグーナコンキリエ-27",
+    "url": "https://vket6.v-market.work/circle/159",
+    "twitter": [
+      "https://twitter.com/fuopy"
+    ]
+  },
+  "160": {
+    "circle_name": "こしあん☆まいすたー",
+    "description": "オリジナルアバターモデルを展示しています。",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/160/7192cf92-f5bd-442c-b948-bff73df725b1fb881c23d99017ff92b5aff8276c7a12.jpg",
+    "location": "ラグーナコンキリエ-3",
+    "url": "https://vket6.v-market.work/circle/160",
+    "twitter": [
+      "https://twitter.com/hesui_channel",
+      "https://twitter.com/firstforest"
+    ]
+  },
+  "161": {
+    "circle_name": "Sharono屋",
+    "description": "バーチャル眼鏡ショップSharono屋です。\n大半は眼鏡の販売ですが、眼鏡置きとしてアバターなども作成しています。",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/161/59cc3a2a-c668-4fa5-bfe1-0b525794e03f4260fa7d6c34cf43a5898c017ac0848a.png",
+    "location": "九蛇之市執-11",
+    "url": "https://vket6.v-market.work/circle/161",
+    "twitter": [
+      "https://twitter.com/Sharono_vvv"
+    ]
+  },
+  "162": {
+    "circle_name": "Krisu's Shop!",
+    "description": "ブースからのクリスのアイテム-",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/162/1870097e-0709-45ca-8403-1d07da3817567c2b8bb88ca8f0a2588d29c35d66c7ab.png",
+    "location": "ラグーナコンキリエ-4",
+    "url": "https://vket6.v-market.work/circle/162",
+    "twitter": [
+      "https://twitter.com/KrisuMiushy"
+    ]
+  },
+  "163": {
+    "circle_name": "NullReference",
+    "description": "アバターを売ったり本を売ったりします",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/163/e648cabf-b0e1-414a-90ab-69155fe96b5a09e50733c08dedfd9c6f2f38aaac9a25.png",
+    "location": "カラヨル風の唄-6",
+    "url": "https://vket6.v-market.work/circle/163",
+    "twitter": [
+      "https://twitter.com/momonoki3000",
+      "https://twitter.com/haru_vrchat"
+    ]
+  },
+  "164": {
+    "circle_name": "#ALUSCHAN_MELTDOWN",
+    "description": "これは竹です。",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/164/81003381-96c2-4655-9277-5f2650c5ab33f6fa074688752f02c1a3bbff8fcdebf5.png",
+    "location": "九蛇之市執-26",
+    "url": "https://vket6.v-market.work/circle/164",
+    "twitter": [
+      "https://twitter.com/Alus_ND"
+    ]
+  },
+  "165": {
+    "circle_name": "車軸制作所",
+    "description": "いろいろつくるひとです！",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/165/de69b9a1-c2a0-41a4-bfde-988c9915c28be73422e856f69a800a9461fec1652da1.png",
+    "location": "カラヨル風の唄-16",
+    "url": "https://vket6.v-market.work/circle/165",
+    "twitter": [
+      "https://twitter.com/shajiku_works"
+    ]
+  },
+  "166": {
+    "circle_name": "名称未設定",
+    "description": "",
+    "icon": null,
+    "header": "/_nuxt/img/no-image.7518a39.png",
+    "location": "九蛇之市執-6",
+    "url": "https://vket6.v-market.work/circle/166",
+    "twitter": []
+  },
+  "167": {
+    "circle_name": "Wolf's Warehouse",
+    "description": "SF風の武器をメインに販売するサークルです。\nBoothページ:https://namekotuki.booth.pm/",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/167/a698477a-750e-41f3-86e5-f7121d92e4cd53b70100655a7cbd63e176fb028dfc41.png",
+    "location": "ラグーナフィオーレ-25",
+    "url": "https://vket6.v-market.work/circle/167",
+    "twitter": [
+      "https://twitter.com/Namekotuki_e"
+    ]
+  },
+  "168": {
+    "circle_name": "シャーベッツ・プロダクション",
+    "description": "インターネットで人気のマスコットキャラクター「シャーベット」をテーマにしたアニメとマンガシリーズ「魔法少獣シャーベット」を展開中！異世界から来たシャーベットは、多元宇宙の魔法少女の物語で大活躍！シャーベットと一緒に冒険しましょう！\n\nユーチューブチャンネル　http://youtube.com/sherbertshenanigans\nキャラクターグッズ　https://www.etsy.com/shop/SherbertShenanigans?section_id=34815768",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/168/baa5cd46-896a-400f-82aa-f32d26d39887b49ff4fa5e35626f34a9080731911241.jpg",
+    "location": "九蛇之市欲-6",
+    "url": "https://vket6.v-market.work/circle/168",
+    "twitter": [
+      "https://twitter.com/redhot_yamada"
+    ]
+  },
+  "169": {
+    "circle_name": "キャンディちゃん",
+    "description": "ゲームワールドとか色々つくってます",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/169/86a3dcac-8d23-4142-8b03-ab8765cbef17426d07500cb6ff3c8fe28bc7b3494562.png",
+    "location": "カラヨル風の唄-19",
+    "url": "https://vket6.v-market.work/circle/169",
+    "twitter": [
+      "https://twitter.com/candy_f_milk"
+    ]
+  },
+  "170": {
+    "circle_name": "てぇてぇ亭",
+    "description": "個人Vサークルです。\n主な活動はSHOWROOMでの配信や、FM浦安での地上波ラジオ番組です。\n8月19日から25日まで、バーチャルフェス「エルスリー」出演権をかけたSHOWROOMでのオーディションに参加するので、ルームフォローと応援何卒よろしくお願いいたします。\nhttps://www.showroom-live.com/revorn_09_0012\n公開収録ライブ等も行っております。",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/170/f66535d2-194a-4d1d-82e8-ec7d7ede32bc60adc06dba5c711fbc5dbe3d4bcf10e0.jpg",
+    "location": "カラヨル砂の詩-4",
+    "url": "https://vket6.v-market.work/circle/170",
+    "twitter": []
+  },
+  "171": {
+    "circle_name": "名称未設定",
+    "description": "",
+    "icon": null,
+    "header": "/_nuxt/img/no-image.7518a39.png",
+    "location": "九蛇之市執-29",
+    "url": "https://vket6.v-market.work/circle/171",
+    "twitter": [
+      "https://twitter.com/sasa50690799"
+    ]
+  },
+  "172": {
+    "circle_name": "ShibaKoma-Lab",
+    "description": "ケモノアバターやアクセサリーの販売を行っています。",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/172/0c135f9e-1d95-4f0b-8869-df7ace9349cf73abb19e8b038ac4435c6daefbd8e0f2.jpg",
+    "location": "ラグーナコンキリエ-17",
+    "url": "https://vket6.v-market.work/circle/172",
+    "twitter": [
+      "https://twitter.com/komashiba33"
+    ]
+  },
+  "173": {
+    "circle_name": "ピクシーネイル",
+    "description": "VRC内で活動している、リアル女性がキャストをしているガールズバーの出店です。\n2Fには個人で販売している衣装や小物、アバターの紹介をしています。\nピクシーネイルの始まりを再現(?)したゲームの体験版もございます。",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/173/6af9fa7f-33cc-48d1-9801-bb0a4e6d41b53047fdaadfb6932820208f877134db49.png",
+    "location": "九蛇之市欲-11",
+    "url": "https://vket6.v-market.work/circle/173",
+    "twitter": [
+      "https://twitter.com/asari_vv",
+      "https://twitter.com/saotome_miya",
+      "https://twitter.com/Gilead01",
+      "https://twitter.com/shiren_193",
+      "https://twitter.com/4Seasons_Clogs",
+      "https://twitter.com/maidkarmaV",
+      "https://twitter.com/Inu_D0g"
+    ]
+  },
+  "174": {
+    "circle_name": "ドコカノうさぎオンデマンド",
+    "description": "VTuberドコカノうさぎが提唱する #美少女棒 の本、3Dモデル、シェーダー、プログラム、グッズなどを販売しています！",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/174/8dd02884-49a0-409d-a249-f239b07e333c8aaeb60365189f58424baff723252dee.png",
+    "location": "九蛇之市欲-28",
+    "url": "https://vket6.v-market.work/circle/174",
+    "twitter": [
+      "https://twitter.com/patsupyon"
+    ]
+  },
+  "175": {
+    "circle_name": "muuugi",
+    "description": "VRChat向けアバターと小物を販売しています。",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/175/5efc4336-e8d2-4047-a93a-5516572c24ed4ab51828b20d24010ca5a100957d9779.png",
+    "location": "ラグーナフィオーレ-2",
+    "url": "https://vket6.v-market.work/circle/175",
+    "twitter": [
+      "https://twitter.com/muuugi_07"
+    ]
+  },
+  "176": {
+    "circle_name": "名称未設定",
+    "description": "",
+    "icon": null,
+    "header": "/_nuxt/img/no-image.7518a39.png",
+    "location": "カラヨル風の唄-4",
+    "url": "https://vket6.v-market.work/circle/176",
+    "twitter": []
+  },
+  "177": {
+    "circle_name": "Horousamatolune",
+    "description": "メカ＋メイドのコックピット操縦可能メカ\nオリジナル3Dモデル『フランケンドエイミー』＆『シュヴァルツェアイン』販売中",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/177/f5360500-40ec-46bd-9f86-b9510212c4b305e3b79510e5204f6cd484c9b40075d9.PNG",
+    "location": "九蛇之市欲-13",
+    "url": "https://vket6.v-market.work/circle/177",
+    "twitter": [
+      "https://twitter.com/tolune"
+    ]
+  },
+  "178": {
+    "circle_name": "ROKO SHOP",
+    "description": "3Dモデルの販売を行っています。",
+    "icon": null,
+    "header": "/_nuxt/img/no-image.7518a39.png",
+    "location": "九蛇之市執-20",
+    "url": "https://vket6.v-market.work/circle/178",
+    "twitter": [
+      "https://twitter.com/greatpuny"
+    ]
+  },
+  "179": {
+    "circle_name": "名称未設定",
+    "description": "",
+    "icon": null,
+    "header": "/_nuxt/img/no-image.7518a39.png",
+    "location": "ラグーナフィオーレ-31",
+    "url": "https://vket6.v-market.work/circle/179",
+    "twitter": []
+  },
+  "180": {
+    "circle_name": "どらどらまふぃあ",
+    "description": "３Dモデル製作者【あんどらん、しぃけぇ、ひゅうがなつ】三人の合同ブースです",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/180/668f7a2d-e653-4793-954f-b0b174cadd913de43605420d0fdb9137fe205d87c90e.png",
+    "location": "ラグーナフィオーレ-17",
+    "url": "https://vket6.v-market.work/circle/180",
+    "twitter": [
+      "https://twitter.com/hyuuuuganatu",
+      "https://twitter.com/Andoran_VRC",
+      "https://twitter.com/killmachine1014"
+    ]
+  },
+  "181": {
+    "circle_name": "LFD",
+    "description": "熊谷クルルの個人スペース",
+    "icon": null,
+    "header": "/_nuxt/img/no-image.7518a39.png",
+    "location": "カラヨル風の唄-18",
+    "url": "https://vket6.v-market.work/circle/181",
+    "twitter": []
+  },
+  "182": {
+    "circle_name": "Atelier Alca",
+    "description": "Atelier Alcaでは、VRChat向けのアバターモデルやアクセサリの販売を行っています。\nBoothのURLはこちら↓\nhttps://atelier-alca.booth.pm/\n\n合同出展しているブース、MAKIEDAのURLはこちら↓\nhttps://makieda.booth.pm/",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/182/f1f6f47e-e69f-4d47-bb50-7f66fc16e1eb7be76423bba329d2952aa4d61493f8ea.png",
+    "location": "九蛇之市欲-19",
+    "url": "https://vket6.v-market.work/circle/182",
+    "twitter": [
+      "https://twitter.com/Tokunaga_ac"
+    ]
+  },
+  "183": {
+    "circle_name": "ガラク堂",
+    "description": "エスティ(@st926)によるサークルです。\n主にケモノ・メカ関係の作品を製作します。",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/183/52ad0b0b-e0c8-4202-bde0-262c8dc225aa592e4fa67857ed4cfa95992489b58d64.PNG",
+    "location": "九蛇之市執-16",
+    "url": "https://vket6.v-market.work/circle/183",
+    "twitter": [
+      "https://twitter.com/st926_VRC"
+    ]
+  },
+  "184": {
+    "circle_name": "再生産紙",
+    "description": "自作・企画アバターを販売しています。\nあとそのうちタペストリー販売も開始します。",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/184/fee98835-34ec-415d-93f1-2546784fee094d98640d817c7c5542bb8991947299b8.png",
+    "location": "カラヨル砂の詩-22",
+    "url": "https://vket6.v-market.work/circle/184",
+    "twitter": [
+      "https://twitter.com/formerpaper"
+    ]
+  },
+  "185": {
+    "circle_name": "三丁目の魔界",
+    "description": "3Dアバターや武器モデルを販売しています。",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/185/ad6831d5-8740-4711-841a-7da3af1d1f91830e79c120610ca7664e9dc2f3fb9d08.png",
+    "location": "ラグーナコンキリエ-18",
+    "url": "https://vket6.v-market.work/circle/185",
+    "twitter": [
+      "https://twitter.com/tonomaoo"
+    ]
+  },
+  "186": {
+    "circle_name": "sep-neko-ya",
+    "description": "VRリズムゲームを制作するサークルです。 Vket6では、Steamで公開している「RESONARK X」とOculus Store(Quest / App lab)で公開している「RESONARK X LITE」の紹介を行います。",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/186/adcb07ef-ce12-4868-9fdb-fe3cd01c903b1b24164d41cbe6361e2109a9fa4e04c0.jpg",
+    "location": "カラヨル風の唄-21",
+    "url": "https://vket6.v-market.work/circle/186",
+    "twitter": [
+      "https://twitter.com/resonark_x",
+      "https://twitter.com/septem47"
+    ]
+  },
+  "187": {
+    "circle_name": "まよなか堂",
+    "description": "あなたの旅を彩るアイテムを出展中です。\n普段のアバターにワンポイント付け足して、世界観を全身で体験しよう！",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/187/3b05c6de-0915-409d-aac2-10f3fcc50843536e610090186334b9dec8059d284a82.png",
+    "location": "カラヨル風の唄-8",
+    "url": "https://vket6.v-market.work/circle/187",
+    "twitter": [
+      "https://twitter.com/sumi_ame",
+      "https://twitter.com/Snowmoonray"
+    ]
+  },
+  "188": {
+    "circle_name": "ふーる雑貨店",
+    "description": "主にアバター用モデルの販売\n作ったものを売ります",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/188/db01175a-373e-42aa-95d1-d249788c79592bf4ad52b27ae7fd08e25b9f5d542f86.png",
+    "location": "九蛇之市欲-8",
+    "url": "https://vket6.v-market.work/circle/188",
+    "twitter": [
+      "https://twitter.com/gfool6"
+    ]
+  },
+  "189": {
+    "circle_name": "サークルSSK",
+    "description": "可愛いモンスター娘を作っています🐞",
+    "icon": null,
+    "header": "/_nuxt/img/no-image.7518a39.png",
+    "location": "カラヨル砂の詩-7",
+    "url": "https://vket6.v-market.work/circle/189",
+    "twitter": []
+  },
+  "190": {
+    "circle_name": "名称未設定",
+    "description": "",
+    "icon": null,
+    "header": "/_nuxt/img/no-image.7518a39.png",
+    "location": "カラヨル風の唄-29",
+    "url": "https://vket6.v-market.work/circle/190",
+    "twitter": []
+  },
+  "191": {
+    "circle_name": "水無月研究室",
+    "description": "小物やアバターの3Dモデルを販売しております。\nVRC、VTuber向けワンオフ依頼も受け付けておりますので、お気軽にTwitterDMなどにご連絡下さい。",
+    "icon": null,
+    "header": "/_nuxt/img/no-image.7518a39.png",
+    "location": "九蛇之市欲-25",
+    "url": "https://vket6.v-market.work/circle/191",
+    "twitter": [
+      "https://twitter.com/VR13144322"
+    ]
+  },
+  "192": {
+    "circle_name": "ふうたスタジオ",
+    "description": "主にVRChat向け3Dモデルを制作しています。",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/192/f4da6c3b-0ce1-4767-a144-354ea98a3745ff0fa1e6a7b8d57ccf660ebe69b0bd31.png",
+    "location": "ラグーナコンキリエ-20",
+    "url": "https://vket6.v-market.work/circle/192",
+    "twitter": [
+      "https://twitter.com/monochrome107"
+    ]
+  },
+  "193": {
+    "circle_name": "名称未設定",
+    "description": "",
+    "icon": null,
+    "header": "/_nuxt/img/no-image.7518a39.png",
+    "location": "九蛇之市欲-33",
+    "url": "https://vket6.v-market.work/circle/193",
+    "twitter": [
+      "https://twitter.com/sotyo"
+    ]
+  },
+  "194": {
+    "circle_name": "アトリエジム",
+    "description": "バーチャルスカルプター「ジム」のフィギュア作品を展示しております\n※展示物はすべて原作者様の許可を得て制作、展示しております",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/194/297cc082-8f46-46c3-a009-db929c5e4bc22957e7b32622af488efd84cae28463ae.jpg",
+    "location": "カラヨル砂の詩-29",
+    "url": "https://vket6.v-market.work/circle/194",
+    "twitter": []
+  },
+  "195": {
+    "circle_name": "名称未設定",
+    "description": "",
+    "icon": null,
+    "header": "/_nuxt/img/no-image.7518a39.png",
+    "location": "カラヨル砂の詩-18",
+    "url": "https://vket6.v-market.work/circle/195",
+    "twitter": []
+  },
+  "196": {
+    "circle_name": "SUNACOの砂箱",
+    "description": "自作アバター作っています\n今回はアニメーションも自作してみました",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/196/ce0a9cd9-5fb4-4590-9ae7-f21d49d47e06ebf411f007bec7473d6bc47726c73d59.png",
+    "location": "ラグーナコンキリエ-11",
+    "url": "https://vket6.v-market.work/circle/196",
+    "twitter": [
+      "https://twitter.com/SunacoV"
+    ]
+  },
+  "197": {
+    "circle_name": "渡篠処",
+    "description": "渡篠処(わたしのところ)が制作・販売するソーシャルVR向けオリジナルアバターは、カートゥーン的表現を得意としています。\nまた、開発中のPC向け新感覚レースゲーム『Jet Edge Turbo』は体験版が現在好評配信中です。\n\nバーチャルマーケット6に出展のブースでは、Jet Edge Turbo のPV展示と、過去に販売した人気オリジナルアバター、そして新作『兎角 -Tokaku-』の試着が楽しめます。",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/197/456942ef-5fee-4f36-aca0-abc6bafdf7d8e2cb8a9f29c0e7ea067a14e39c3640ec.png",
+    "location": "カラヨル風の唄-35",
+    "url": "https://vket6.v-market.work/circle/197",
+    "twitter": [
+      "https://twitter.com/NamaeWatashino"
+    ]
+  },
+  "198": {
+    "circle_name": "NoCtuRne# (ノクターン)",
+    "description": "自分の世界観に合わせたアバターや専用の衣装などを作って販売しています！",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/198/d109d13b-0fc4-488b-9947-1651dadc2a08918dc9876b7b99995d314a71ba85697a.png",
+    "location": "ラグーナフィオーレ-29",
+    "url": "https://vket6.v-market.work/circle/198",
+    "twitter": [
+      "https://twitter.com/logical0010"
+    ]
+  },
+  "199": {
+    "circle_name": "付喪工房",
+    "description": "異形アバター、小物を主として製作していく予定です。",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/199/6b105bdb-ee22-4536-ab51-1e8ba20d245f74fae533494cdd5d6e76c1e2b50c2213.png",
+    "location": "九蛇之市欲-5",
+    "url": "https://vket6.v-market.work/circle/199",
+    "twitter": [
+      "https://twitter.com/Teraji_hobby"
+    ]
+  },
+  "200": {
+    "circle_name": "風見商店",
+    "description": "Vroid衣装をメインに取り扱っています。ストラップパンプス、デッキシューズなどの靴も自信作です。",
+    "icon": null,
+    "header": "/_nuxt/img/no-image.7518a39.png",
+    "location": "ラグーナフィオーレ-26",
+    "url": "https://vket6.v-market.work/circle/200",
+    "twitter": [
+      "https://twitter.com/kazami_kapra"
+    ]
+  },
+  "201": {
+    "circle_name": "元気くん3Dショップ",
+    "description": "新発売！第一作！\n\nVRCHAT想定3Dモデル\n「NIWA ーニワー 庭」\n\nhttps://booth.pm/ja/items/3024678\n\n８月限定で発売記念セール中です。\nなんと…半額！買っちゃおうかな〜\n\n手や足、お腹や耳など素体の造形にこだわりあり！\nExpressions Menu 設定済ですぐ遊べる〜\n\n・表情28種類！\n・お着替え機能！\n・足の指を動かせる！\n・3点トラッキングで寝転べる！\n\nQuest単体でも使えます！\nQuest対応シェーダー設定済Prefab付きで簡単アップロード！",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/201/a6ce2dad-842d-499f-b222-1edfb9e45d29fa56fbc0d6ffc5c1706b4976efac1bb0.png",
+    "location": "九蛇之市欲-9",
+    "url": "https://vket6.v-market.work/circle/201",
+    "twitter": [
+      "https://twitter.com/pinpincololo"
+    ]
+  },
+  "202": {
+    "circle_name": "アレジゴクゲームス",
+    "description": "アレジゴクゲームス",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/202/b98ece96-7103-4a39-b413-4689a3658f86b5fdfc735b82c7260f2537ae919f98e1.png",
+    "location": "九蛇之市欲-30",
+    "url": "https://vket6.v-market.work/circle/202",
+    "twitter": []
+  },
+  "211": {
+    "circle_name": "つくバーチャル",
+    "description": "筑波大のVRサークル、つくバーチャルです。",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/211/745e6dd4-c75c-41ab-8fb4-7192a8b26e6a18b2bd4ffeb180d950b84cb51c3e6ff6.png",
+    "location": "カラヨル風の唄-7",
+    "url": "https://vket6.v-market.work/circle/211",
+    "twitter": [
+      "https://twitter.com/TsukuVirtual",
+      "https://twitter.com/pwhrhs",
+      "https://twitter.com/sui4ryu",
+      "https://twitter.com/dogadogasan"
+    ]
+  },
+  "212": {
+    "circle_name": "ハイパーきめらてっく",
+    "description": "モデルをつくります",
+    "icon": null,
+    "header": "/_nuxt/img/no-image.7518a39.png",
+    "location": "九蛇之市執-31",
+    "url": "https://vket6.v-market.work/circle/212",
+    "twitter": [
+      "https://twitter.com/NEG__13"
+    ]
+  },
+  "213": {
+    "circle_name": "Horsefeathersのアバター",
+    "description": "キャラクターのコンセプトを仮想空間で実現する、意欲的な初心者モデラー！",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/213/eb9053fc-3567-4953-a5c1-1b5bf687bf46128e02e1a2b854e180bfe89aa37a3dce.png",
+    "location": "九蛇之市執-1",
+    "url": "https://vket6.v-market.work/circle/213",
+    "twitter": [
+      "https://twitter.com/hoarsegaming"
+    ]
+  },
+  "214": {
+    "circle_name": "V-Sekai",
+    "description": "私たちは、ソーシャルVRツールや、ゲームエンジン「Godot」のプラットフォームを作る開発者チームです。\nhttps://twitter.com/vsekaiofficial",
+    "icon": null,
+    "header": "/_nuxt/img/no-image.7518a39.png",
+    "location": "ラグーナフィオーレ-11",
+    "url": "https://vket6.v-market.work/circle/214",
+    "twitter": [
+      "https://twitter.com/ifiery",
+      "https://twitter.com/lyuma2d",
+      "https://twitter.com/MMMaellon"
+    ]
+  },
+  "215": {
+    "circle_name": "NPO法人バーチャルライツ",
+    "description": "千葉県認証特定非営利活動法人 / クリエーター支援・イベント開催 / 国会議員・官公庁への政策提言 / 勉強会の開催・表現の自由を擁護する活動 / 公式コミュニティ http://discord.gg/X92xdRJMEh / Specified Nonprofit Corporation in Japan",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/215/c1940753-4ae7-403b-92f0-eb4184709a736a55e08d4572faeb423fd89947222462.jpg",
+    "location": "ラグーナフィオーレ-22",
+    "url": "https://vket6.v-market.work/circle/215",
+    "twitter": [
+      "https://twitter.com/NPO_VR"
+    ]
+  },
+  "216": {
+    "circle_name": "Virtual Singer 音無むおん",
+    "description": "強制的にブースト覚醒！霹靂の歌姫「音無むおん」\n黒帽子に黒マスク、たくさんのピアスを刺したサブカルスタイルのバーチャルシンガーとして2018年9月にデビュー。昨年は毎月オリジナル曲をリリース。\n最新曲「Die Another Day」はiTunes Store 日本のメタル部門で1位を獲得！\n6/9に開催された生バンド1stワンマンライブ「六音無限大」では圧巻のライブパフォーマンスを見せる！同月6/27には2ndワンマンライブをVRステージで開催！\nライブを活動の主軸に置き、ライブツアー実現を目指す！",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/216/c3495f51-645e-453c-8936-3471778d0bd5f76ce88ca371609354924ee1bdacb6c0.png",
+    "location": "九蛇之市欲-26",
+    "url": "https://vket6.v-market.work/circle/216",
+    "twitter": [
+      "https://twitter.com/otonashi6on",
+      "https://twitter.com/469ma_max"
+    ]
+  },
+  "217": {
+    "circle_name": "クレープたべたい",
+    "description": "いろいろ置いてます",
+    "icon": null,
+    "header": "/_nuxt/img/no-image.7518a39.png",
+    "location": "カラヨル風の唄-2",
+    "url": "https://vket6.v-market.work/circle/217",
+    "twitter": [
+      "https://twitter.com/hakoniworks"
+    ]
+  },
+  "218": {
+    "circle_name": "猫印良品",
+    "description": "3Dアバター販売",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/218/b1a06ab0-9e85-498a-a6b9-7acbbaefd25fe4ad24ab534a00bf0964cf872954504b.png",
+    "location": "ラグーナコンキリエ-28",
+    "url": "https://vket6.v-market.work/circle/218",
+    "twitter": [
+      "https://twitter.com/tamakoneko_mata"
+    ]
+  },
+  "219": {
+    "circle_name": "l'Autre and Melody of the Mana",
+    "description": "VillaVilla のBooth \"l'Autre\"と、HARIPONのBooth\"Melody of the Mana\"の合同Boothです。\nMelody of the Mana Webサイト: https://www.melody-of-the-mana.com/",
+    "icon": null,
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/219/4c5bccf0-0d13-43c4-a9d9-d3c8ce51eca09f1da1e00d95a7637fecb0a1572ee5bf.png",
+    "location": "カラヨル砂の詩-16",
+    "url": "https://vket6.v-market.work/circle/219",
+    "twitter": [
+      "https://twitter.com/HAR1PON",
+      "https://twitter.com/Vi114Vi114"
+    ]
+  },
+  "220": {
+    "circle_name": "名称未設定",
+    "description": "",
+    "icon": null,
+    "header": "/_nuxt/img/no-image.7518a39.png",
+    "location": "九蛇之市執-28",
+    "url": "https://vket6.v-market.work/circle/220",
+    "twitter": [
+      "https://twitter.com/PonkotsuRamenV1"
+    ]
+  }
+}
