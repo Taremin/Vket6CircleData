@@ -47,11 +47,11 @@ async function get_links(url, re) {
 }
 
 async function get_world_base_url(index_url) {
-    return await get_links(index_url, '^/catalog/world/(\\d+)(\?.*)$');
+    return await get_links(index_url, '^/catalog/world/(\\d+)(\\?.*)$');
 }
 
 async function get_world_urls(index_url) {
-    return await get_links(index_url, '^/catalog/world/(\\d+)/(\\d+)(\?.*)$');
+    return await get_links(index_url, '^/catalog/world/(\\d+)/(\\d+)(\\?.*)$');
 }
 
 async function get_circle(url) {
