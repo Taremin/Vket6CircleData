@@ -16,7 +16,7 @@ const MODE =
     null;
 //    'CIRCLE_ONLY';
 
-const url = 'https://www.v-market.work/v5/catalog';
+const url = 'https://vket6.v-market.work/catalog';
 const request_delay = 1500;
 
 async function get_links(url, re) {
@@ -47,15 +47,15 @@ async function get_links(url, re) {
 }
 
 async function get_world_base_url(index_url) {
-    return await get_links(index_url, '^/v5/catalog/world/(\\d+)$');
+    return await get_links(index_url, '^/catalog/world/(\\d+)(\?.*)$');
 }
 
 async function get_world_urls(index_url) {
-    return await get_links(index_url, '^/v5/catalog/world/(\\d+)/(\\d+)$');
+    return await get_links(index_url, '^/catalog/world/(\\d+)/(\\d+)(\?.*)$');
 }
 
 async function get_circle(url) {
-    return await get_links(url, '^/v5/catalog/circle/(\\d+)$');
+    return await get_links(url, '^/catalog/circle/(\\d+)$');
 }
 
 async function get_circle_info(url) {
@@ -141,6 +141,8 @@ async function start() {
             world_urls = require('./docs/world_urls.json');
             break;
         default:
+            world_urls = uniq(await get_world_url(url));
+            /*
             world_base_urls = uniq(await get_world_base_url(url));
             world_urls = []
             for (let i = 0, il = world_base_urls.length; i < il; ++i) {
@@ -148,6 +150,7 @@ async function start() {
                 const urls = await get_world_urls(url);
                 Array.prototype.push.apply(world_urls, urls)
             }
+            */
             world_urls = (uniq(world_urls)).sort()
             fs.writeFileSync('docs/world_urls.json', JSON.stringify(world_urls, null, 2));
             break;
