@@ -201,7 +201,7 @@ async function start(cacheData) {
                 const subtitle = document.createElement('h'+(i+2));
                 subtitle.textContent = sublocation[i];
                 output.appendChild(subtitle);
-                if (i === 1) {
+                if (i === 0) {
                     container = document.createElement('div');
                     container.classList.add('columns');
                     output.appendChild(container);
