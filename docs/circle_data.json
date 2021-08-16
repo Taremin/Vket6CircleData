@@ -1937,13 +1937,15 @@
     "twitter": []
   },
   "190": {
-    "circle_name": "名称未設定",
-    "description": "",
+    "circle_name": "HYPERSPACE",
+    "description": "llll GRAVITY BEYOND XD llll\n『想い=重力は次元を超える』をテーマに、クリエイターHyperspaceを中心とし、次元を越境し探求する少女達と体験をコネクトするクリエイティブ・ブランド。",
     "icon": null,
-    "header": "/_nuxt/img/no-image.7518a39.png",
+    "header": "https://storage.googleapis.com/vket6-storage/uploads/circle/header_image/190/8608b08f-1426-44a8-b7f3-022ba9dd5140150b84c3fcfdb1ea8e2860a663035201.png",
     "location": "カラヨル風の唄-29",
     "url": "https://vket6.v-market.work/circle/190",
-    "twitter": []
+    "twitter": [
+      "https://twitter.com/G_B_X_D"
+    ]
   },
   "191": {
     "circle_name": "水無月研究室",
